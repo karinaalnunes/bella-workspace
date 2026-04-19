@@ -1,5 +1,5 @@
 # Análise de Concorrentes — Máxima Finance IA
-**Data:** 19/04/2026 | Turno da tarde
+**Data:** 19/04/2026 | Turno da tarde — dados atualizados com WebSearch
 
 ---
 
@@ -9,47 +9,49 @@
 **Posicionamento:** FP&A (Financial Planning & Analysis) para médias e grandes empresas
 
 ### O que fazem:
-- Orçamento empresarial colaborativo
-- Projeção de cenários financeiros
+- Orçamento empresarial colaborativo com simulação de cenários
 - Dashboards e KPIs conectados ao ERP
-- **Novidade 2026:** Integração nativa com Nibo (gestão financeira + orçamentária 100% integradas)
+- Projeção de cenários financeiros com análise planejado vs. realizado (FCA)
+- **2026:** Lançaram o programa "Jornada da Meta ao Resultado 2026" — construção de orçamento completo em 4 dias; kit com planilha DRE + simuladores
 
 ### Preço:
 - Planos a partir de ~R$ 999/mês (foco em empresas com controller ou CFO interno)
 
 ### Fraquezas para nós explorar:
 - **Fala com controller, não com o empresário.** Interface técnica, jargão de FP&A
-- Não interpreta dados — apenas apresenta
+- Não interpreta dados — apenas apresenta visualmente
 - Sem IA conversacional. Sem chat. Sem linguagem natural
 - Preço proibitivo para PME que fatura abaixo de R$ 500k/mês
+- Onboarding exige conhecimento financeiro prévio
 
 ### Gap vs. Máxima Finance:
-> Treasy organiza dados para quem já sabe analisar. Máxima Finance **explica** para quem não sabe — e esse é o maior mercado.
+> Treasy organiza dados para quem **já sabe** analisar. Máxima Finance **explica** para quem não sabe — e esse é o maior mercado do Brasil.
 
 ---
 
 ## 2. Conta Azul — ERP para PMEs
 
 **Site:** contaazul.com
-**Posicionamento:** ERP completo para pequenas e médias empresas com foco em contadores
+**Posicionamento:** ERP completo para pequenas e médias empresas
 
 ### O que fazem:
 - Emissão de NF, controle financeiro, contas a pagar/receber
-- **Novidade 2026 (atenção!):** Lançaram a **Conta AI Captura** — IA baseada em Gemini (Google DeepMind) que lê boletos, NFs, extratos e organiza lançamentos automaticamente
-- Relatórios com IA: o usuário pede em linguagem simples e a IA sugere o relatório
+- **Novidade 2026 — Conta AI Captura:** IA que lê boletos, NFs, extratos, faturas de cartão e comprovantes recebidos por **WhatsApp, e-mail ou upload**, e organiza tudo no ERP automaticamente
+- Novidade adicional: integração com **grupos de WhatsApp** — múltiplos usuários enviam documentos para o mesmo CNPJ pelo mesmo canal
+- Evento **Conta Azul Con 2026** com trilhas de IA, vendas e gestão estratégica
 
 ### Preço:
 - Planos a partir de ~R$ 149/mês
 
 ### Fraquezas para nós explorar:
-- IA focada em **automação de lançamentos**, não em **interpretação financeira**
-- Não responde "por que minha margem caiu?" — só organiza o dado
-- Voltado ao contador, não ao empresário
-- Não tem chat conversacional estilo Sofia
-- Complexidade de ERP afasta empresários menos digitais
+- IA focada em **captura e organização de documentos**, não em interpretação financeira
+- Não responde "por que minha margem caiu?" — apenas organiza o lançamento
+- Voltado ao contador, não ao empresário que toma decisão
+- Sem chat conversacional estilo Sofia
+- Complexidade de ERP completo afasta empresários menos digitais
 
 ### Gap vs. Máxima Finance:
-> Conta Azul usa IA para capturar documentos. Máxima Finance usa IA para **explicar o que os documentos significam para o negócio**.
+> Conta Azul usa IA para **capturar** documentos. Máxima Finance usa IA para **explicar o que os documentos significam para o negócio**.
 
 ---
 
@@ -60,39 +62,47 @@
 
 ### O que fazem:
 - ERP completo (fiscal, financeiro, estoque, vendas)
-- **Novidade 2026:** IA Fiscal — classifica automaticamente tributos e antecipa erros fiscais; análises preditivas de estoque e vendas
-- App BI Omie com tendências de gestão e suporte a decisões estratégicas
+- **NOVIDADE CRÍTICA 2026 — ERP via WhatsApp:** Omie integrou o ERP ao WhatsApp, permitindo operar o sistema por **texto ou áudio** — emissão de NF, consultas e comandos operacionais direto pelo app
+- **Prioridades 2026:** (1) dobrar a aposta no ERP conversacional via WhatsApp para reduzir atrito de adoção; (2) usar IA como aliada estratégica para navegação fiscal (reforma tributária)
+- IA Fiscal: classifica tributos automaticamente e antecipa erros; alertas preditivos de estoque e comportamento de clientes
 
 ### Preço:
 - Planos a partir de ~R$ 149/mês (varia por módulos)
 
 ### Fraquezas para nós explorar:
-- IA fiscal/operacional — não financeira/estratégica
-- Sem análise de DRE conversacional
-- Complexidade de ERP completo cria curva de aprendizado
-- O empresário usa para emitir NF, não para entender saúde financeira
+- Interface conversacional via WhatsApp serve para **operar o ERP** — não para **entender a saúde financeira**
+- Dá pra emitir NF por áudio, mas não pra perguntar "estou lucrando?" e receber uma análise real
+- IA voltada ao fiscal/operacional, não ao estratégico/financeiro
+- O empresário usa para emitir NF e consultar estoque — não para entender o DRE
+
+### ⚠️ ALERTA ESTRATÉGICO:
+Omie está claramente movendo para uma interface **conversacional e via WhatsApp**. Isso indica que o mercado PME quer interagir com o software via linguagem natural. **O Máxima Finance precisa executar antes que a Omie amplie o escopo da conversa para interpretação financeira.**
 
 ### Gap vs. Máxima Finance:
-> Omie resolve o operacional. Máxima Finance resolve o estratégico — **"estou ganhando ou perdendo dinheiro, e por quê?"**
+> Omie faz o operacional via WhatsApp. Máxima Finance faz o **estratégico via chat**: "estou ganhando ou perdendo dinheiro, e por quê?"
 
 ---
 
-## Resumo Executivo — O Nosso Gap
+## Resumo Executivo — O Nosso Gap (Atualizado)
 
 | Critério | Treasy | Conta Azul | Omie | **Máxima Finance** |
 |---|---|---|---|---|
-| Interpreta DRE em português | ❌ | ❌ | ❌ | ✅ |
-| Chat conversacional com IA | ❌ | ❌ | ❌ | ✅ |
-| Fala com o empresário, não o contador | ❌ | Parcial | ❌ | ✅ |
-| Foco em saúde financeira | Parcial | Parcial | ❌ | ✅ |
+| Interpreta DRE em linguagem de empresário | ❌ | ❌ | ❌ | ✅ |
+| Chat conversacional sobre finanças | ❌ | ❌ | ❌ | ✅ |
+| Interface para o empresário (não o contador) | ❌ | Parcial | ❌ | ✅ |
+| Responde "por que minha margem caiu?" | ❌ | ❌ | ❌ | ✅ |
+| Interface conversacional/linguagem natural | ❌ | ❌ | Via WhatsApp (operacional) | ✅ |
+| Foco em saúde financeira estratégica | Parcial | ❌ | ❌ | ✅ |
 | Preço acessível para PME | ❌ | ✅ | ✅ | ✅ |
-| Onboarding simples (sem ERP) | ❌ | ❌ | ❌ | ✅ |
+| Onboarding sem curva de ERP | ❌ | ❌ | ❌ | ✅ |
 
-### Conclusão:
-**Nenhum concorrente tem IA que conversa com o empresário sobre o DRE dele em linguagem de empresário.**
+### Conclusão Estratégica:
+**Nenhum concorrente ainda tem IA que conversa com o empresário sobre a saúde financeira do negócio dele, em português e linguagem acessível.**
 
-Conta Azul e Omie estão investindo em IA — mas para automatizar processos internos, não para democratizar a interpretação financeira. A janela de diferenciação do Máxima Finance está aberta. A velocidade de execução é a vantagem agora.
+A Conta Azul usa IA para capturar documentos. A Omie usa interface conversacional (WhatsApp) para operar o ERP. Nenhuma usa IA para responder a pergunta que todo empresário quer saber: *"O meu negócio está realmente ganhando dinheiro?"*
+
+O gap do Máxima Finance está aberto — mas a Omie sinaliza que a conversa está evoluindo. **A janela de vantagem é agora.**
 
 ---
 
-*Fontes consultadas: treasy.com.br, contaazul.com, omie.com.br — abril/2026*
+*Fontes consultadas via WebSearch: treasy.com.br, contaazul.com, omie.com.br, startups.com.br — abril/2026*

@@ -1,57 +1,77 @@
 # Reel Instagram — Turno da Tarde | 19/04/2026
 
-**Tema:** "Você fatura R$ 100k por mês. Mas sabe por que o dinheiro some?"
-**Duração estimada:** 30–45 segundos
-**Formato:** Talking head ou texto animado sobre vídeo b-roll de escritório/empresário
+**Tema:** "3 perguntas que todo empresário saudável financeiramente consegue responder na hora"
+**Duração estimada:** 30–40 segundos
+**Formato:** Talking head com texto na tela OU slides rápidos estilo carrossel em vídeo
+**Objetivo:** Salves (formato lista gera muito save) + leads qualificados
 
 ---
 
 ## HOOK (0–3 seg)
-**Texto na tela em grande:**
-> "Seu negócio fatura bem. Mas no final do mês… cadê o dinheiro?"
+
+**Texto grande na tela:**
+> "3 perguntas sobre o seu negócio. Você sabe responder?"
 
 **Fala (se talking head):**
-> "Se você já se perguntou isso, fica aqui — porque essa resposta vai mudar como você vê o seu negócio."
+> "Se você não souber responder essas três perguntas, seu negócio está voando às cegas."
 
 ---
 
-## DESENVOLVIMENTO (3–25 seg)
+## DESENVOLVIMENTO (3–28 seg)
 
-**Beat 1 — O problema real:**
-> "A maioria dos empresários recebe o DRE todo mês do contador. Abre, vê uma tabela cheia de número, e fecha sem entender nada."
+**Pergunta 1 — (beat rápido, texto na tela):**
+> **"Qual é a sua margem líquida real este mês?"**
+*(pausa de 1 seg)*
+> "Não o faturamento. A margem. O que sobrou de verdade depois de pagar tudo."
 
-**Beat 2 — A consequência:**
-> "E sem entender onde o dinheiro está indo, você toma decisão no feeling. Contrata achando que pode. Compra estoque sem saber se tem margem. E aí, no fim do mês, o caixa está no vermelho — mesmo com faturamento alto."
+**Pergunta 2:**
+> **"Qual custo cresceu mais do que seu faturamento nos últimos 3 meses?"**
+*(pausa de 1 seg)*
+> "Se você não sabe isso, já está perdendo dinheiro sem perceber."
 
-**Beat 3 — A virada:**
-> "O problema não é o seu negócio. É que ninguém te ensinou a ler o que os números estão gritando."
+**Pergunta 3:**
+> **"Se seu maior cliente sumir amanhã, você aguenta quantos meses?"**
+*(pausa de 1 seg)*
+> "Essa é a pergunta que tira o sono — e que todo DRE bem analisado já responde."
 
-**Beat 4 — A solução:**
-> "A Máxima Finance IA analisa o seu DRE e te explica em português o que está acontecendo com o seu dinheiro. Sem planilha. Sem contador. Direto no chat."
+**Virada:**
+> "O problema não é que você não sabe. É que ninguém te ajudou a ler os dados que você já tem."
 
 ---
 
-## CTA (25–35 seg)
+## CTA (28–38 seg)
 
 **Fala:**
-> "Quer testar gratuitamente? Link na bio. Você carrega o DRE e a IA te diz o que fazer. Em minutos."
+> "A Máxima Finance IA analisa o seu DRE e responde essas três perguntas — e muito mais — em português, sem precisar de contador. Teste grátis. Link na bio."
 
 **Texto na tela:**
+> ✅ Margem real
+> ✅ Onde o dinheiro some
+> ✅ Quanto tempo você aguenta
 > 🔗 Teste grátis → link na bio
-> 💬 "O que seu DRE está te escondendo?"
 
 ---
 
 ## Diretrizes de Produção
 
-- **Música:** Lo-fi motivacional ou beat de tensão crescente com virada positiva
-- **Legenda:** Sempre ativa (80% dos usuários assistem sem som)
-- **Primeira palavra falada:** deve aparecer nos primeiros 0,5 seg
-- **Cor dominante:** Azul escuro + dourado (paleta Máxima Finance)
-- **Hashtags sugeridas:** #gestaofinanceira #pme #empreendedor #dre #financasempresariais #maximafinance
+- **Ritmo:** Rápido, frases curtas. Máximo 2 segundos por frase
+- **Música:** Beat crescente com tensão — resolve na virada ("o problema não é que você não sabe")
+- **Legenda:** Sempre ativa — 80% assiste sem som
+- **Cor:** Azul escuro + branco limpo para os textos (paleta Máxima Finance)
+- **Hashtags:** #gestaofinanceira #dre #pme #empreendedor #financasempresariais #controladoria
 
 ---
 
-## Variação B (se quiser testar outro hook)
+## Por que esse roteiro funciona:
 
-> "3 sinais de que você não sabe para onde vai o dinheiro do seu negócio" *(formato lista, funciona bem para saves)*
+- **Formato lista** = muito compartilhamento e salvamento no Instagram
+- **Perguntas diretas** = autoidentificação do problema pelo empresário
+- **Sem mencionar software logo de cara** = não parece anúncio, parece conteúdo
+- **CTA natural** = chega depois que o espectador já se sentiu tocado pelas perguntas
+
+---
+
+## Variação B (hook alternativo para teste A/B)
+
+> "Seu ERP já funciona pelo WhatsApp. Mas ele ainda não sabe te dizer se você está lucrando."
+*(gancho na novidade da Omie — bom para quem já usa ERP e sente o gap)*
