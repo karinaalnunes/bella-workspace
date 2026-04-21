@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 21/04/2026 — Turno da manhã (Bella)*
+*Última atualização: 21/04/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -41,7 +41,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 |---|---|---|
 | **Hero** | ✅ Concluído | `outputs/2026-04-20/pagina-vendas-secao.md` |
 | **Dor** | ✅ Concluído | `outputs/2026-04-19/pagina-vendas-secao.md` |
-| Solução | ⏳ Pendente | — |
+| **Solução** | ✅ Concluído | `outputs/2026-04-21/pagina-vendas-secao.md` |
 | Como funciona | ⏳ Pendente | — |
 | Planos | ⏳ Pendente | — |
 | FAQ | ⏳ Pendente | — |
@@ -70,6 +70,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 |---|---|---|
 | Ep.1 — DRE para PMEs (outline completo) | ✅ Concluído | `outputs/2026-04-19/youtube-outline.md` |
 | Ep.2 — DRE: O doc. que salva ou afunda sua empresa (aprofundado) | ✅ Concluído | `outputs/2026-04-20/youtube-outline.md` |
+| Ep.3 — 5 números do DRE que todo empresário precisa acompanhar | ✅ Concluído | `outputs/2026-04-21/youtube-outline.md` |
 
 ---
 
@@ -102,7 +103,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios 3-5)
+- Série YouTube (roteiro episódios 4-5 — Ep.3 concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro
 
@@ -119,6 +120,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | 2026-04-20 | Noite | Seção Hero (página de vendas), Outline YouTube Ep.2 |
 | **2026-04-21** | **Manhã** | **Post Instagram (faturamento vs. caixa vazio), Relatório matutino** |
 | **2026-04-21** | **Tarde** | **Reel concept (DRE ignorado), Concorrentes v3 (Conta Azul IA, Omie BI), LinkedIn post** |
+| **2026-04-21** | **Noite** | **Seção Solução (página de vendas), Outline YouTube Ep.3 (5 indicadores DRE)** |
 
 ---
 
