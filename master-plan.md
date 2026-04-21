@@ -56,11 +56,14 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 |---|---|---|
 | Post manhã (texto) | ✅ Concluído | `outputs/2026-04-19/instagram-post-manha.md` |
 | Reel concept v2 | ✅ Concluído | `outputs/2026-04-19/reel-concept.md` |
+| Post manhã 21/04 | ✅ Concluído | `outputs/2026-04-21/instagram-post-manha.md` |
+| Reel concept v3 | ✅ Concluído | `outputs/2026-04-21/reel-concept.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
 |---|---|---|
 | Post LinkedIn v2 | ✅ Concluído | `outputs/2026-04-19/linkedin-post.md` |
+| Post LinkedIn v3 | ✅ Concluído | `outputs/2026-04-21/linkedin-post.md` |
 
 ### YouTube
 | Entrega | Status | Arquivo |
@@ -115,6 +118,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | 2026-04-19 | Noite | Seção Dor (página de vendas), Outline YouTube Ep.1 |
 | 2026-04-20 | Noite | Seção Hero (página de vendas), Outline YouTube Ep.2 |
 | **2026-04-21** | **Manhã** | **Post Instagram (faturamento vs. caixa vazio), Relatório matutino** |
+| **2026-04-21** | **Tarde** | **Reel concept (DRE ignorado), Concorrentes v3 (Conta Azul IA, Omie BI), LinkedIn post** |
 
 ---
 
