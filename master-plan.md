@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 20/04/2026 — Turno da noite (Bella)*
+*Última atualização: 21/04/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -113,7 +113,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | 2026-04-19 | Manhã | Post Instagram, Reel v2, Concorrentes v2, LinkedIn v2 |
 | 2026-04-19 | Tarde | Análise competitiva atualizada (alerta Omie) |
 | 2026-04-19 | Noite | Seção Dor (página de vendas), Outline YouTube Ep.1 |
-| **2026-04-20** | **Noite** | **Seção Hero (página de vendas), Outline YouTube Ep.2** |
+| 2026-04-20 | Noite | Seção Hero (página de vendas), Outline YouTube Ep.2 |
+| **2026-04-21** | **Manhã** | **Post Instagram (faturamento vs. caixa vazio), Relatório matutino** |
 
 ---
 
