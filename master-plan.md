@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 22/04/2026 — Turno da manhã (Bella)*
+*Última atualização: 22/04/2026 — Turno da tarde (Bella)*
 
 ---
 
@@ -59,12 +59,14 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 21/04 | ✅ Concluído | `outputs/2026-04-21/instagram-post-manha.md` |
 | Reel concept v3 | ✅ Concluído | `outputs/2026-04-21/reel-concept.md` |
 | Post manhã 22/04 | ✅ Concluído | `outputs/2026-04-22/instagram-post-manha.md` |
+| Reel concept v4 | ✅ Concluído | `outputs/2026-04-22/reel-concept.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
 |---|---|---|
 | Post LinkedIn v2 | ✅ Concluído | `outputs/2026-04-19/linkedin-post.md` |
 | Post LinkedIn v3 | ✅ Concluído | `outputs/2026-04-21/linkedin-post.md` |
+| Post LinkedIn v4 | ✅ Concluído | `outputs/2026-04-22/linkedin-post.md` |
 
 ### YouTube
 | Entrega | Status | Arquivo |
@@ -123,6 +125,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-21** | **Tarde** | **Reel concept (DRE ignorado), Concorrentes v3 (Conta Azul IA, Omie BI), LinkedIn post** |
 | **2026-04-21** | **Noite** | **Seção Solução (página de vendas), Outline YouTube Ep.3 (5 indicadores DRE)** |
 | **2026-04-22** | **Manhã** | **Post Instagram (CMV e margem real), Relatório matutino** |
+| **2026-04-22** | **Tarde** | **Reel concept v4 (crescimento mata caixa), Concorrentes v4 (Omie WhatsApp, Conta Azul IA), LinkedIn post** |
 
 ---
 
