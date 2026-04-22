@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 22/04/2026 — Turno da tarde (Bella)*
+*Última atualização: 22/04/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -42,7 +42,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Hero** | ✅ Concluído | `outputs/2026-04-20/pagina-vendas-secao.md` |
 | **Dor** | ✅ Concluído | `outputs/2026-04-19/pagina-vendas-secao.md` |
 | **Solução** | ✅ Concluído | `outputs/2026-04-21/pagina-vendas-secao.md` |
-| Como funciona | ⏳ Pendente | — |
+| **Como funciona** | ✅ Concluído | `outputs/2026-04-22/pagina-vendas-secao.md` |
 | Planos | ⏳ Pendente | — |
 | FAQ | ⏳ Pendente | — |
 | CTA final | ⏳ Pendente | — |
@@ -74,6 +74,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Ep.1 — DRE para PMEs (outline completo) | ✅ Concluído | `outputs/2026-04-19/youtube-outline.md` |
 | Ep.2 — DRE: O doc. que salva ou afunda sua empresa (aprofundado) | ✅ Concluído | `outputs/2026-04-20/youtube-outline.md` |
 | Ep.3 — 5 números do DRE que todo empresário precisa acompanhar | ✅ Concluído | `outputs/2026-04-21/youtube-outline.md` |
+| Ep.4 — Lucro x Caixa: por que o dinheiro some? | ✅ Concluído | `outputs/2026-04-22/youtube-outline.md` |
 
 ---
 
@@ -106,7 +107,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios 4-5 — Ep.3 concluído)
+- Série YouTube (roteiro episódios 5+ — Ep.4 concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro
 
@@ -126,6 +127,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-21** | **Noite** | **Seção Solução (página de vendas), Outline YouTube Ep.3 (5 indicadores DRE)** |
 | **2026-04-22** | **Manhã** | **Post Instagram (CMV e margem real), Relatório matutino** |
 | **2026-04-22** | **Tarde** | **Reel concept v4 (crescimento mata caixa), Concorrentes v4 (Omie WhatsApp, Conta Azul IA), LinkedIn post** |
+| **2026-04-22** | **Noite** | **Seção Como Funciona (página de vendas), Outline YouTube Ep.4 (Lucro x Caixa)** |
 
 ---
 
