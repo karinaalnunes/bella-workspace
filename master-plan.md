@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 21/04/2026 — Turno da noite (Bella)*
+*Última atualização: 22/04/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -58,6 +58,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Reel concept v2 | ✅ Concluído | `outputs/2026-04-19/reel-concept.md` |
 | Post manhã 21/04 | ✅ Concluído | `outputs/2026-04-21/instagram-post-manha.md` |
 | Reel concept v3 | ✅ Concluído | `outputs/2026-04-21/reel-concept.md` |
+| Post manhã 22/04 | ✅ Concluído | `outputs/2026-04-22/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -95,7 +96,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 ### Sprint atual (semana de 20/04)
 1. 🔥 Finalizar DashboardPage
 2. 🔥 Finalizar AnalisePage
-3. 📄 Continuar página de vendas (próxima seção: Solução)
+3. 📄 Página de vendas — seção "Como funciona" *(Solução: ✅ concluída em 21/04)*
 
 ### Sprint seguinte
 1. Integração Stripe (pagamento)
@@ -121,6 +122,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-21** | **Manhã** | **Post Instagram (faturamento vs. caixa vazio), Relatório matutino** |
 | **2026-04-21** | **Tarde** | **Reel concept (DRE ignorado), Concorrentes v3 (Conta Azul IA, Omie BI), LinkedIn post** |
 | **2026-04-21** | **Noite** | **Seção Solução (página de vendas), Outline YouTube Ep.3 (5 indicadores DRE)** |
+| **2026-04-22** | **Manhã** | **Post Instagram (CMV e margem real), Relatório matutino** |
 
 ---
 
