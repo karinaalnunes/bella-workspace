@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 22/04/2026 — Turno da noite (Bella)*
+*Última atualização: 23/04/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -59,6 +59,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 21/04 | ✅ Concluído | `outputs/2026-04-21/instagram-post-manha.md` |
 | Reel concept v3 | ✅ Concluído | `outputs/2026-04-21/reel-concept.md` |
 | Post manhã 22/04 | ✅ Concluído | `outputs/2026-04-22/instagram-post-manha.md` |
+| Post manhã 23/04 | ✅ Concluído | `outputs/2026-04-23/instagram-post-manha.md` |
 | Reel concept v4 | ✅ Concluído | `outputs/2026-04-22/reel-concept.md` |
 
 ### LinkedIn
@@ -128,6 +129,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-22** | **Manhã** | **Post Instagram (CMV e margem real), Relatório matutino** |
 | **2026-04-22** | **Tarde** | **Reel concept v4 (crescimento mata caixa), Concorrentes v4 (Omie WhatsApp, Conta Azul IA), LinkedIn post** |
 | **2026-04-22** | **Noite** | **Seção Como Funciona (página de vendas), Outline YouTube Ep.4 (Lucro x Caixa)** |
+| **2026-04-23** | **Manhã** | **Post Instagram (ponto de equilíbrio), Relatório matutino** |
 
 ---
 
