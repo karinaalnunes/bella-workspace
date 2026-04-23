@@ -43,7 +43,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Dor** | ✅ Concluído | `outputs/2026-04-19/pagina-vendas-secao.md` |
 | **Solução** | ✅ Concluído | `outputs/2026-04-21/pagina-vendas-secao.md` |
 | **Como funciona** | ✅ Concluído | `outputs/2026-04-22/pagina-vendas-secao.md` |
-| Planos | ⏳ Pendente | — |
+| **Planos** | ✅ Concluído | `outputs/2026-04-23/pagina-vendas-secao.md` |
 | FAQ | ⏳ Pendente | — |
 | CTA final | ⏳ Pendente | — |
 
@@ -76,6 +76,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Ep.2 — DRE: O doc. que salva ou afunda sua empresa (aprofundado) | ✅ Concluído | `outputs/2026-04-20/youtube-outline.md` |
 | Ep.3 — 5 números do DRE que todo empresário precisa acompanhar | ✅ Concluído | `outputs/2026-04-21/youtube-outline.md` |
 | Ep.4 — Lucro x Caixa: por que o dinheiro some? | ✅ Concluído | `outputs/2026-04-22/youtube-outline.md` |
+| **Ep.5 — Margem de contribuição: o número que ninguém te ensinou** | **✅ Concluído** | `outputs/2026-04-23/youtube-outline.md` |
 
 ---
 
@@ -108,7 +109,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios 5+ — Ep.4 concluído)
+- Série YouTube (roteiro episódios 6+ — Ep.5 concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro
 
@@ -131,9 +132,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-22** | **Noite** | **Seção Como Funciona (página de vendas), Outline YouTube Ep.4 (Lucro x Caixa)** |
 | **2026-04-23** | **Manhã** | **Post Instagram (ponto de equilíbrio), Relatório matutino** |
 | **2026-04-23** | **Tarde** | **Reel concept v5 (margem real por R$100), Concorrentes v5 (Omie WhatsApp live, Conta Azul AI Captura), LinkedIn post (reforma tributária)** |
+| **2026-04-23** | **Noite** | **Seção Planos (página de vendas), Outline YouTube Ep.5 (margem de contribuição)** |
 
 ---
 
-*Última atualização: 23/04/2026 — Turno da tarde (Bella)*
+*Última atualização: 23/04/2026 — Turno da noite (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
