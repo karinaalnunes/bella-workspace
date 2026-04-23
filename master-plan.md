@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 23/04/2026 — Turno da manhã (Bella)*
+*Última atualização: 23/04/2026 — Turno da tarde (Bella)*
 
 ---
 
@@ -130,7 +130,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-22** | **Tarde** | **Reel concept v4 (crescimento mata caixa), Concorrentes v4 (Omie WhatsApp, Conta Azul IA), LinkedIn post** |
 | **2026-04-22** | **Noite** | **Seção Como Funciona (página de vendas), Outline YouTube Ep.4 (Lucro x Caixa)** |
 | **2026-04-23** | **Manhã** | **Post Instagram (ponto de equilíbrio), Relatório matutino** |
+| **2026-04-23** | **Tarde** | **Reel concept v5 (margem real por R$100), Concorrentes v5 (Omie WhatsApp live, Conta Azul AI Captura), LinkedIn post (reforma tributária)** |
 
 ---
+
+*Última atualização: 23/04/2026 — Turno da tarde (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
