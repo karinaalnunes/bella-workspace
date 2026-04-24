@@ -62,6 +62,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 23/04 | ✅ Concluído | `outputs/2026-04-23/instagram-post-manha.md` |
 | Post manhã 24/04 | ✅ Concluído | `outputs/2026-04-24/instagram-post-manha.md` |
 | Reel concept v4 | ✅ Concluído | `outputs/2026-04-22/reel-concept.md` |
+| Reel concept v6 | ✅ Concluído | `outputs/2026-04-24/reel-concept.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -69,6 +70,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post LinkedIn v2 | ✅ Concluído | `outputs/2026-04-19/linkedin-post.md` |
 | Post LinkedIn v3 | ✅ Concluído | `outputs/2026-04-21/linkedin-post.md` |
 | Post LinkedIn v4 | ✅ Concluído | `outputs/2026-04-22/linkedin-post.md` |
+| Post LinkedIn v5 | ✅ Concluído | `outputs/2026-04-24/linkedin-post.md` |
 
 ### YouTube
 | Entrega | Status | Arquivo |
@@ -135,9 +137,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-23** | **Tarde** | **Reel concept v5 (margem real por R$100), Concorrentes v5 (Omie WhatsApp live, Conta Azul AI Captura), LinkedIn post (reforma tributária)** |
 | **2026-04-23** | **Noite** | **Seção Planos (página de vendas), Outline YouTube Ep.5 (margem de contribuição)** |
 | **2026-04-24** | **Manhã** | **Post Instagram (capital de giro), Relatório matutino** |
+| **2026-04-24** | **Tarde** | **Reel concept v6 (faturamento vs lucro real), Concorrentes v6 (Omie crédito, Conta Azul CON 2026), LinkedIn post (margem 3%)** |
 
 ---
 
-*Última atualização: 24/04/2026 — Turno da manhã (Bella)*
+*Última atualização: 24/04/2026 — Turno da tarde (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
