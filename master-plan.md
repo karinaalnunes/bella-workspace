@@ -44,7 +44,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Solução** | ✅ Concluído | `outputs/2026-04-21/pagina-vendas-secao.md` |
 | **Como funciona** | ✅ Concluído | `outputs/2026-04-22/pagina-vendas-secao.md` |
 | **Planos** | ✅ Concluído | `outputs/2026-04-23/pagina-vendas-secao.md` |
-| FAQ | ⏳ Pendente | — |
+| **FAQ** | **⏳ Pendente — Prioridade hoje** | — |
 | CTA final | ⏳ Pendente | — |
 
 ---
@@ -60,6 +60,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Reel concept v3 | ✅ Concluído | `outputs/2026-04-21/reel-concept.md` |
 | Post manhã 22/04 | ✅ Concluído | `outputs/2026-04-22/instagram-post-manha.md` |
 | Post manhã 23/04 | ✅ Concluído | `outputs/2026-04-23/instagram-post-manha.md` |
+| Post manhã 24/04 | ✅ Concluído | `outputs/2026-04-24/instagram-post-manha.md` |
 | Reel concept v4 | ✅ Concluído | `outputs/2026-04-22/reel-concept.md` |
 
 ### LinkedIn
@@ -133,9 +134,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-23** | **Manhã** | **Post Instagram (ponto de equilíbrio), Relatório matutino** |
 | **2026-04-23** | **Tarde** | **Reel concept v5 (margem real por R$100), Concorrentes v5 (Omie WhatsApp live, Conta Azul AI Captura), LinkedIn post (reforma tributária)** |
 | **2026-04-23** | **Noite** | **Seção Planos (página de vendas), Outline YouTube Ep.5 (margem de contribuição)** |
+| **2026-04-24** | **Manhã** | **Post Instagram (capital de giro), Relatório matutino** |
 
 ---
 
-*Última atualização: 23/04/2026 — Turno da noite (Bella)*
+*Última atualização: 24/04/2026 — Turno da manhã (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
