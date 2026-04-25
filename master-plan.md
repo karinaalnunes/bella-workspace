@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 25/04/2026 — Turno da tarde (Bella)*
+*Última atualização: 25/04/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -45,7 +45,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Como funciona** | ✅ Concluído | `outputs/2026-04-22/pagina-vendas-secao.md` |
 | **Planos** | ✅ Concluído | `outputs/2026-04-23/pagina-vendas-secao.md` |
 | **FAQ** | ✅ Concluído | `outputs/2026-04-24/pagina-vendas-secao.md` |
-| CTA final | ⏳ Pendente | — |
+| **CTA final** | **✅ Concluído** | `outputs/2026-04-25/pagina-vendas-secao.md` |
 
 ---
 
@@ -85,6 +85,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Ep.4 — Lucro x Caixa: por que o dinheiro some? | ✅ Concluído | `outputs/2026-04-22/youtube-outline.md` |
 | **Ep.5 — Margem de contribuição: o número que ninguém te ensinou** | **✅ Concluído** | `outputs/2026-04-23/youtube-outline.md` |
 | **Ep.6 — Capital de giro: cresci e fiquei sem dinheiro** | **✅ Concluído** | `outputs/2026-04-24/youtube-outline.md` |
+| **Ep.7 — Despesas fixas x variáveis: por que essa diferença muda tudo** | **✅ Concluído** | `outputs/2026-04-25/youtube-outline.md` |
 
 ---
 
@@ -117,7 +118,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios 7+ — Ep.6 concluído)
+- Série YouTube (roteiro episódios 8+ — Ep.7 concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro
 
@@ -146,9 +147,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-24** | **Noite** | **Seção FAQ (página de vendas), Outline YouTube Ep.6 (capital de giro)** |
 | **2026-04-25** | **Manhã** | **Post Instagram (3 perguntas que o DRE responde), Relatório matutino** |
 | **2026-04-25** | **Tarde** | **Reel concept v7 (quanto custa vender R$1), Concorrentes v7 (Omie WhatsApp consolidado, Conta AI Captura multi-CNPJ), LinkedIn post (faturamento vs lucro, 3 indicadores)** |
+| **2026-04-25** | **Noite** | **Seção CTA Final (página de vendas 100% concluída), Outline YouTube Ep.7 (despesas fixas x variáveis)** |
 
 ---
 
-*Última atualização: 25/04/2026 — Turno da tarde (Bella)*
+*Última atualização: 25/04/2026 — Turno da noite (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
