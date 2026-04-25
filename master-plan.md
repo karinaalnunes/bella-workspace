@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 23/04/2026 — Turno da tarde (Bella)*
+*Última atualização: 25/04/2026 — Turno da tarde (Bella)*
 
 ---
 
@@ -62,8 +62,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 23/04 | ✅ Concluído | `outputs/2026-04-23/instagram-post-manha.md` |
 | Post manhã 24/04 | ✅ Concluído | `outputs/2026-04-24/instagram-post-manha.md` |
 | Post manhã 25/04 | ✅ Concluído | `outputs/2026-04-25/instagram-post-manha.md` |
+| Reel concept v7 | ✅ Concluído | `outputs/2026-04-25/reel-concept.md` |
 | Reel concept v4 | ✅ Concluído | `outputs/2026-04-22/reel-concept.md` |
 | Reel concept v6 | ✅ Concluído | `outputs/2026-04-24/reel-concept.md` |
+| Reel concept v7 | ✅ Concluído | `outputs/2026-04-25/reel-concept.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -72,6 +74,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post LinkedIn v3 | ✅ Concluído | `outputs/2026-04-21/linkedin-post.md` |
 | Post LinkedIn v4 | ✅ Concluído | `outputs/2026-04-22/linkedin-post.md` |
 | Post LinkedIn v5 | ✅ Concluído | `outputs/2026-04-24/linkedin-post.md` |
+| Post LinkedIn v6 | ✅ Concluído | `outputs/2026-04-25/linkedin-post.md` |
 
 ### YouTube
 | Entrega | Status | Arquivo |
@@ -142,9 +145,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-24** | **Tarde** | **Reel concept v6 (faturamento vs lucro real), Concorrentes v6 (Omie crédito, Conta Azul CON 2026), LinkedIn post (margem 3%)** |
 | **2026-04-24** | **Noite** | **Seção FAQ (página de vendas), Outline YouTube Ep.6 (capital de giro)** |
 | **2026-04-25** | **Manhã** | **Post Instagram (3 perguntas que o DRE responde), Relatório matutino** |
+| **2026-04-25** | **Tarde** | **Reel concept v7 (quanto custa vender R$1), Concorrentes v7 (Omie WhatsApp consolidado, Conta AI Captura multi-CNPJ), LinkedIn post (faturamento vs lucro, 3 indicadores)** |
 
 ---
 
-*Última atualização: 25/04/2026 — Turno da manhã (Bella)*
+*Última atualização: 25/04/2026 — Turno da tarde (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
