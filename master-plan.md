@@ -148,9 +148,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-25** | **Manhã** | **Post Instagram (3 perguntas que o DRE responde), Relatório matutino** |
 | **2026-04-25** | **Tarde** | **Reel concept v7 (quanto custa vender R$1), Concorrentes v7 (Omie WhatsApp consolidado, Conta AI Captura multi-CNPJ), LinkedIn post (faturamento vs lucro, 3 indicadores)** |
 | **2026-04-25** | **Noite** | **Seção CTA Final (página de vendas 100% concluída), Outline YouTube Ep.7 (despesas fixas x variáveis)** |
+| **2026-04-26** | **Manhã** | **Post Instagram (mix de produtos e lucro real), Relatório matutino** |
 
 ---
 
-*Última atualização: 25/04/2026 — Turno da noite (Bella)*
+*Última atualização: 26/04/2026 — Turno da manhã (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
