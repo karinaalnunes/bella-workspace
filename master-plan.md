@@ -125,7 +125,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios 9+ — Ep.8 concluído)
+- Série YouTube (roteiro episódios 10+ — Ep.9 ✅ concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro
 
@@ -160,9 +160,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-26** | **Noite** | **Página de vendas COMPLETA consolidada (100% pronta para dev), Outline YouTube Ep.8 (precificação)** |
 | **2026-04-27** | **Manhã** | **Post Instagram (descasamento de prazo / caixa), Relatório matutino** |
 | **2026-04-27** | **Tarde** | **Reel concept v9 (crescimento com alavancagem negativa), Concorrentes v9 (Omie WhatsApp produção + crédito, Conta Azul multi-CNPJ, Treasy Kit FP&A), LinkedIn post v8 (ponto de equilíbrio)** |
+| **2026-04-27** | **Noite** | **Hero v2 A/B (página de vendas — variante teste), Outline YouTube Ep.9 (como ler DRE sem contador)** |
 
 ---
 
-*Última atualização: 27/04/2026 — Turno da tarde (Bella)*
+*Última atualização: 27/04/2026 — Turno da noite (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
