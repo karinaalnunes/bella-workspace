@@ -47,6 +47,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **FAQ** | ✅ Concluído | `outputs/2026-04-24/pagina-vendas-secao.md` |
 | **CTA final** | **✅ Concluído** | `outputs/2026-04-25/pagina-vendas-secao.md` |
 | **COMPLETA (consolidada)** | **✅ Concluído** | `outputs/2026-04-26/pagina-vendas-secao.md` |
+| **Hero v2 A/B (variante teste)** | **✅ Concluído** | `outputs/2026-04-27/pagina-vendas-secao.md` |
+| **Prova Social / Depoimentos** | **✅ Concluído** | `outputs/2026-04-28/pagina-vendas-secao.md` |
 
 ---
 
@@ -96,6 +98,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.6 — Capital de giro: cresci e fiquei sem dinheiro** | **✅ Concluído** | `outputs/2026-04-24/youtube-outline.md` |
 | **Ep.7 — Despesas fixas x variáveis: por que essa diferença muda tudo** | **✅ Concluído** | `outputs/2026-04-25/youtube-outline.md` |
 | **Ep.8 — Precificação: como definir o preço certo e nunca mais vender no prejuízo** | **✅ Concluído** | `outputs/2026-04-26/youtube-outline.md` |
+| **Ep.9 — Como ler DRE sem contador** | **✅ Concluído** | `outputs/2026-04-27/youtube-outline.md` |
+| **Ep.10 — DRE na prática: como tomar decisões de crescimento sem arriscar a empresa** | **✅ Concluído** | `outputs/2026-04-28/youtube-outline.md` |
 
 ---
 
@@ -128,7 +132,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios 10+ — Ep.9 ✅ concluído)
+- Série YouTube (roteiro episódios 11+ — Ep.10 ✅ concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro
 
@@ -166,9 +170,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-27** | **Noite** | **Hero v2 A/B (página de vendas — variante teste), Outline YouTube Ep.9 (como ler DRE sem contador)** |
 | **2026-04-28** | **Manhã** | **Post Instagram (custo real de contratar funcionário), Relatório matutino** |
 | **2026-04-28** | **Tarde** | **Reel concept v10 (inadimplência silenciosa), Concorrentes v10 (Omie WhatsApp produção + crédito anunciado), LinkedIn post v9 (Receita Bruta vs Líquida)** |
+| **2026-04-28** | **Noite** | **Seção Prova Social / Depoimentos (página de vendas — elemento crítico), Outline YouTube Ep.10 (decisões de crescimento com DRE)** |
 
 ---
 
-*Última atualização: 28/04/2026 — Turno da tarde (Bella)*
+*Última atualização: 28/04/2026 — Turno da noite (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
