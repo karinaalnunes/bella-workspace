@@ -65,6 +65,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 25/04 | ✅ Concluído | `outputs/2026-04-25/instagram-post-manha.md` |
 | Post manhã 26/04 | ✅ Concluído | `outputs/2026-04-26/instagram-post-manha.md` |
 | Post manhã 27/04 | ✅ Concluído | `outputs/2026-04-27/instagram-post-manha.md` |
+| Post manhã 28/04 | ✅ Concluído | `outputs/2026-04-28/instagram-post-manha.md` |
 | Reel concept v9 | ✅ Concluído | `outputs/2026-04-27/reel-concept.md` |
 | Reel concept v7 | ✅ Concluído | `outputs/2026-04-25/reel-concept.md` |
 | Reel concept v4 | ✅ Concluído | `outputs/2026-04-22/reel-concept.md` |
@@ -161,9 +162,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-27** | **Manhã** | **Post Instagram (descasamento de prazo / caixa), Relatório matutino** |
 | **2026-04-27** | **Tarde** | **Reel concept v9 (crescimento com alavancagem negativa), Concorrentes v9 (Omie WhatsApp produção + crédito, Conta Azul multi-CNPJ, Treasy Kit FP&A), LinkedIn post v8 (ponto de equilíbrio)** |
 | **2026-04-27** | **Noite** | **Hero v2 A/B (página de vendas — variante teste), Outline YouTube Ep.9 (como ler DRE sem contador)** |
+| **2026-04-28** | **Manhã** | **Post Instagram (custo real de contratar funcionário), Relatório matutino** |
 
 ---
 
-*Última atualização: 27/04/2026 — Turno da noite (Bella)*
+*Última atualização: 28/04/2026 — Turno da manhã (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
