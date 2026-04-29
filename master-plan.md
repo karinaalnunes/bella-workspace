@@ -49,6 +49,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **COMPLETA (consolidada)** | **✅ Concluído** | `outputs/2026-04-26/pagina-vendas-secao.md` |
 | **Hero v2 A/B (variante teste)** | **✅ Concluído** | `outputs/2026-04-27/pagina-vendas-secao.md` |
 | **Prova Social / Depoimentos** | **✅ Concluído** | `outputs/2026-04-28/pagina-vendas-secao.md` |
+| **Garantia / Risco Zero** | **✅ Concluído** | `outputs/2026-04-29/pagina-vendas-secao.md` |
 
 ---
 
@@ -101,6 +102,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.8 — Precificação: como definir o preço certo e nunca mais vender no prejuízo** | **✅ Concluído** | `outputs/2026-04-26/youtube-outline.md` |
 | **Ep.9 — Como ler DRE sem contador** | **✅ Concluído** | `outputs/2026-04-27/youtube-outline.md` |
 | **Ep.10 — DRE na prática: como tomar decisões de crescimento sem arriscar a empresa** | **✅ Concluído** | `outputs/2026-04-28/youtube-outline.md` |
+| **Ep.11 — Como usar o DRE para negociar com fornecedores (e cortar custos de verdade)** | **✅ Concluído** | `outputs/2026-04-29/youtube-outline.md` |
 
 ---
 
@@ -133,7 +135,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios 11+ — Ep.10 ✅ concluído)
+- Série YouTube (roteiro episódios 12+ — Ep.11 ✅ concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro
 
@@ -174,6 +176,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-28** | **Noite** | **Seção Prova Social / Depoimentos (página de vendas — elemento crítico), Outline YouTube Ep.10 (decisões de crescimento com DRE)** |
 | **2026-04-29** | **Manhã** | **Post Instagram (produto mais vendido x margem real), Relatório matutino** |
 | **2026-04-29** | **Tarde** | **Reel concept v11 (pró-labore como custo real), Concorrentes v11 (MaisMei/Visma alerta, Omie BI estratégico), LinkedIn post v10 (pró-labore e lucro real)** |
+| **2026-04-29** | **Noite** | **Seção Garantia / Risco Zero (página de vendas), Outline YouTube Ep.11 (DRE para negociar com fornecedores)** |
 
 ---
 
@@ -186,6 +189,6 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 
 ---
 
-*Última atualização: 29/04/2026 — Turno da tarde (Bella)*
+*Última atualização: 29/04/2026 — Turno da noite (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
