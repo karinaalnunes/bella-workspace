@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 25/04/2026 — Turno da noite (Bella)*
+*Última atualização: 30/04/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -51,6 +51,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Prova Social / Depoimentos** | **✅ Concluído** | `outputs/2026-04-28/pagina-vendas-secao.md` |
 | **Garantia / Risco Zero** | **✅ Concluído** | `outputs/2026-04-29/pagina-vendas-secao.md` |
 | **PÁGINA COMPLETA (todas as seções)** | **✅ 100% Pronta** | `outputs/2026-04-26/pagina-vendas-secao.md` |
+| **Comparativo (planilha/contador/ERP vs. Máxima)** | **✅ Concluído** | `outputs/2026-04-30/pagina-vendas-secao.md` |
 
 ---
 
@@ -104,6 +105,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.9 — Como ler DRE sem contador** | **✅ Concluído** | `outputs/2026-04-27/youtube-outline.md` |
 | **Ep.10 — DRE na prática: como tomar decisões de crescimento sem arriscar a empresa** | **✅ Concluído** | `outputs/2026-04-28/youtube-outline.md` |
 | **Ep.11 — Como usar o DRE para negociar com fornecedores (e cortar custos de verdade)** | **✅ Concluído** | `outputs/2026-04-29/youtube-outline.md` |
+| **Ep.12 — DRE vs. Fluxo de Caixa: dois relatórios, uma decisão — qual usar?** | **✅ Concluído** | `outputs/2026-04-30/youtube-outline.md` |
 
 ---
 
@@ -180,6 +182,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-29** | **Noite** | **Seção Garantia / Risco Zero (página de vendas), Outline YouTube Ep.11 (DRE para negociar com fornecedores)** |
 | **2026-04-30** | **Manhã** | **Post Instagram (fechamento de abril — 4 números para checar), Relatório matutino** |
 | **2026-04-30** | **Tarde** | **Reel concept v12 (saldo ≠ lucro — gancho fim de mês), Concorrentes v12 (Omie US$100M aporte, Conta Azul AI Captura multi-CNPJ), LinkedIn post v11 (3 perguntas do DRE de abril)** |
+| **2026-04-30** | **Noite** | **Seção Comparativo página de vendas (planilha/contador/ERP vs. Máxima), Outline YouTube Ep.12 (DRE vs. Fluxo de Caixa)** |
 
 ---
 
@@ -192,9 +195,13 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 ### LinkedIn
 | Post LinkedIn v10 | ✅ Concluído | `outputs/2026-04-29/linkedin-post.md` |
 | Post LinkedIn v11 | ✅ Concluído | `outputs/2026-04-30/linkedin-post.md` |
+| Seção Comparativo (página de vendas) | ✅ Concluído | `outputs/2026-04-30/pagina-vendas-secao.md` |
+
+### YouTube
+| Ep.12 — DRE vs. Fluxo de Caixa | ✅ Concluído | `outputs/2026-04-30/youtube-outline.md` |
 
 ---
 
-*Última atualização: 30/04/2026 — Turno da tarde (Bella)*
+*Última atualização: 30/04/2026 — Turno da noite (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
