@@ -50,6 +50,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Hero v2 A/B (variante teste)** | **✅ Concluído** | `outputs/2026-04-27/pagina-vendas-secao.md` |
 | **Prova Social / Depoimentos** | **✅ Concluído** | `outputs/2026-04-28/pagina-vendas-secao.md` |
 | **Garantia / Risco Zero** | **✅ Concluído** | `outputs/2026-04-29/pagina-vendas-secao.md` |
+| **PÁGINA COMPLETA (todas as seções)** | **✅ 100% Pronta** | `outputs/2026-04-26/pagina-vendas-secao.md` |
 
 ---
 
@@ -177,18 +178,20 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-29** | **Manhã** | **Post Instagram (produto mais vendido x margem real), Relatório matutino** |
 | **2026-04-29** | **Tarde** | **Reel concept v11 (pró-labore como custo real), Concorrentes v11 (MaisMei/Visma alerta, Omie BI estratégico), LinkedIn post v10 (pró-labore e lucro real)** |
 | **2026-04-29** | **Noite** | **Seção Garantia / Risco Zero (página de vendas), Outline YouTube Ep.11 (DRE para negociar com fornecedores)** |
+| **2026-04-30** | **Manhã** | **Post Instagram (fechamento de abril — 4 números para checar), Relatório matutino** |
 
 ---
 
 ### Instagram
 | Post manhã 29/04 | ✅ Concluído | `outputs/2026-04-29/instagram-post-manha.md` |
 | Reel concept v11 | ✅ Concluído | `outputs/2026-04-29/reel-concept.md` |
+| Post manhã 30/04 | ✅ Concluído | `outputs/2026-04-30/instagram-post-manha.md` |
 
 ### LinkedIn
 | Post LinkedIn v10 | ✅ Concluído | `outputs/2026-04-29/linkedin-post.md` |
 
 ---
 
-*Última atualização: 29/04/2026 — Turno da noite (Bella)*
+*Última atualização: 30/04/2026 — Turno da manhã (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
