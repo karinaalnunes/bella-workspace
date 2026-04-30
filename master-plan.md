@@ -179,6 +179,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-29** | **Tarde** | **Reel concept v11 (pró-labore como custo real), Concorrentes v11 (MaisMei/Visma alerta, Omie BI estratégico), LinkedIn post v10 (pró-labore e lucro real)** |
 | **2026-04-29** | **Noite** | **Seção Garantia / Risco Zero (página de vendas), Outline YouTube Ep.11 (DRE para negociar com fornecedores)** |
 | **2026-04-30** | **Manhã** | **Post Instagram (fechamento de abril — 4 números para checar), Relatório matutino** |
+| **2026-04-30** | **Tarde** | **Reel concept v12 (saldo ≠ lucro — gancho fim de mês), Concorrentes v12 (Omie US$100M aporte, Conta Azul AI Captura multi-CNPJ), LinkedIn post v11 (3 perguntas do DRE de abril)** |
 
 ---
 
@@ -186,12 +187,14 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 29/04 | ✅ Concluído | `outputs/2026-04-29/instagram-post-manha.md` |
 | Reel concept v11 | ✅ Concluído | `outputs/2026-04-29/reel-concept.md` |
 | Post manhã 30/04 | ✅ Concluído | `outputs/2026-04-30/instagram-post-manha.md` |
+| Reel concept v12 | ✅ Concluído | `outputs/2026-04-30/reel-concept.md` |
 
 ### LinkedIn
 | Post LinkedIn v10 | ✅ Concluído | `outputs/2026-04-29/linkedin-post.md` |
+| Post LinkedIn v11 | ✅ Concluído | `outputs/2026-04-30/linkedin-post.md` |
 
 ---
 
-*Última atualização: 30/04/2026 — Turno da manhã (Bella)*
+*Última atualização: 30/04/2026 — Turno da tarde (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
