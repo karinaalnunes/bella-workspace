@@ -202,6 +202,15 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 
 ---
 
-*Última atualização: 30/04/2026 — Turno da noite (Bella)*
+| **2026-05-01** | **Manhã** | **Post Instagram (Dia do Trabalho — trabalha 12h mas sabe quanto sobrou?), Relatório matutino** |
+
+---
+
+### Instagram
+| Post manhã 01/05 | ✅ Concluído | `outputs/2026-05-01/instagram-post-manha.md` |
+
+---
+
+*Última atualização: 01/05/2026 — Turno da manhã (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
