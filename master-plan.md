@@ -203,14 +203,19 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 ---
 
 | **2026-05-01** | **Manhã** | **Post Instagram (Dia do Trabalho — trabalha 12h mas sabe quanto sobrou?), Relatório matutino** |
+| **2026-05-01** | **Tarde** | **Reel concept v13 (margem por produto), Concorrentes v13 (Treasy FP&A, Conta AI Captura multi-CNPJ, Omie IA fiscal + banking), LinkedIn post v12 (3 indicadores DRE de maio)** |
 
 ---
 
 ### Instagram
 | Post manhã 01/05 | ✅ Concluído | `outputs/2026-05-01/instagram-post-manha.md` |
+| Reel concept v13 | ✅ Concluído | `outputs/2026-05-01/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v12 | ✅ Concluído | `outputs/2026-05-01/linkedin-post.md` |
 
 ---
 
-*Última atualização: 01/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 01/05/2026 — Turno da tarde (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
