@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 30/04/2026 — Turno da noite (Bella)*
+*Última atualização: 01/05/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -52,6 +52,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Garantia / Risco Zero** | **✅ Concluído** | `outputs/2026-04-29/pagina-vendas-secao.md` |
 | **PÁGINA COMPLETA (todas as seções)** | **✅ 100% Pronta** | `outputs/2026-04-26/pagina-vendas-secao.md` |
 | **Comparativo (planilha/contador/ERP vs. Máxima)** | **✅ Concluído** | `outputs/2026-04-30/pagina-vendas-secao.md` |
+| **Para quem é (qualificação de lead)** | **✅ Concluído** | `outputs/2026-05-01/pagina-vendas-secao.md` |
 
 ---
 
@@ -106,6 +107,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.10 — DRE na prática: como tomar decisões de crescimento sem arriscar a empresa** | **✅ Concluído** | `outputs/2026-04-28/youtube-outline.md` |
 | **Ep.11 — Como usar o DRE para negociar com fornecedores (e cortar custos de verdade)** | **✅ Concluído** | `outputs/2026-04-29/youtube-outline.md` |
 | **Ep.12 — DRE vs. Fluxo de Caixa: dois relatórios, uma decisão — qual usar?** | **✅ Concluído** | `outputs/2026-04-30/youtube-outline.md` |
+| **Ep.13 — Impostos no DRE: o número que devora sua margem sem você perceber** | **✅ Concluído** | `outputs/2026-05-01/youtube-outline.md` |
 
 ---
 
@@ -204,6 +206,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 
 | **2026-05-01** | **Manhã** | **Post Instagram (Dia do Trabalho — trabalha 12h mas sabe quanto sobrou?), Relatório matutino** |
 | **2026-05-01** | **Tarde** | **Reel concept v13 (margem por produto), Concorrentes v13 (Treasy FP&A, Conta AI Captura multi-CNPJ, Omie IA fiscal + banking), LinkedIn post v12 (3 indicadores DRE de maio)** |
+| **2026-05-01** | **Noite** | **Seção "Para quem é" (qualificação de lead — página de vendas), Outline YouTube Ep.13 (impostos no DRE)** |
 
 ---
 
@@ -214,8 +217,12 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 ### LinkedIn
 | Post LinkedIn v12 | ✅ Concluído | `outputs/2026-05-01/linkedin-post.md` |
 
+### Noite 01/05
+| Seção "Para quem é" (página de vendas) | ✅ Concluído | `outputs/2026-05-01/pagina-vendas-secao.md` |
+| Ep.13 YouTube (Impostos no DRE) | ✅ Concluído | `outputs/2026-05-01/youtube-outline.md` |
+
 ---
 
-*Última atualização: 01/05/2026 — Turno da tarde (Bella)*
+*Última atualização: 01/05/2026 — Turno da noite (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
