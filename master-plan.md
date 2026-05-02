@@ -223,6 +223,15 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 
 ---
 
-*Última atualização: 01/05/2026 — Turno da noite (Bella)*
+| **2026-05-02** | **Manhã** | **Post Instagram (índice de pessoal — folha vs. faturamento), Relatório matutino** |
+
+---
+
+### Instagram
+| Post manhã 02/05 | ✅ Concluído | `outputs/2026-05-02/instagram-post-manha.md` |
+
+---
+
+*Última atualização: 02/05/2026 — Turno da manhã (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
