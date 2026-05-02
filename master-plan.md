@@ -53,6 +53,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **PÁGINA COMPLETA (todas as seções)** | **✅ 100% Pronta** | `outputs/2026-04-26/pagina-vendas-secao.md` |
 | **Comparativo (planilha/contador/ERP vs. Máxima)** | **✅ Concluído** | `outputs/2026-04-30/pagina-vendas-secao.md` |
 | **Para quem é (qualificação de lead)** | **✅ Concluído** | `outputs/2026-05-01/pagina-vendas-secao.md` |
+| **Urgência / Por que agir agora** | **✅ Concluído** | `outputs/2026-05-02/pagina-vendas-secao.md` |
 
 ---
 
@@ -108,6 +109,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.11 — Como usar o DRE para negociar com fornecedores (e cortar custos de verdade)** | **✅ Concluído** | `outputs/2026-04-29/youtube-outline.md` |
 | **Ep.12 — DRE vs. Fluxo de Caixa: dois relatórios, uma decisão — qual usar?** | **✅ Concluído** | `outputs/2026-04-30/youtube-outline.md` |
 | **Ep.13 — Impostos no DRE: o número que devora sua margem sem você perceber** | **✅ Concluído** | `outputs/2026-05-01/youtube-outline.md` |
+| **Ep.14 — Sazonalidade no DRE: como não ser pego de surpresa nos meses fracos** | **✅ Concluído** | `outputs/2026-05-02/youtube-outline.md` |
 
 ---
 
@@ -224,14 +226,19 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 ---
 
 | **2026-05-02** | **Manhã** | **Post Instagram (índice de pessoal — folha vs. faturamento), Relatório matutino** |
+| **2026-05-02** | **Noite** | **Seção "Urgência / Por que agir agora" (página de vendas), Outline YouTube Ep.14 (sazonalidade no DRE)** |
 
 ---
 
 ### Instagram
 | Post manhã 02/05 | ✅ Concluído | `outputs/2026-05-02/instagram-post-manha.md` |
 
+### Noite 02/05
+| Seção "Urgência / Por que agir agora" (página de vendas) | ✅ Concluído | `outputs/2026-05-02/pagina-vendas-secao.md` |
+| Ep.14 YouTube (Sazonalidade no DRE) | ✅ Concluído | `outputs/2026-05-02/youtube-outline.md` |
+
 ---
 
-*Última atualização: 02/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 02/05/2026 — Turno da noite (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
