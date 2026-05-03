@@ -218,6 +218,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 
 ### LinkedIn
 | Post LinkedIn v12 | ✅ Concluído | `outputs/2026-05-01/linkedin-post.md` |
+| Post LinkedIn v13 | ✅ Concluído | `outputs/2026-05-03/linkedin-post.md` |
 
 ### Noite 01/05
 | Seção "Para quem é" (página de vendas) | ✅ Concluído | `outputs/2026-05-01/pagina-vendas-secao.md` |
@@ -228,19 +229,26 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-05-02** | **Manhã** | **Post Instagram (índice de pessoal — folha vs. faturamento), Relatório matutino** |
 | **2026-05-02** | **Noite** | **Seção "Urgência / Por que agir agora" (página de vendas), Outline YouTube Ep.14 (sazonalidade no DRE)** |
 | **2026-05-03** | **Manhã** | **Post Instagram (dinheiro na conta, empresa sem crescer — DRE explica), Relatório matutino** |
+| **2026-05-03** | **Tarde** | **Reel concept v14 (cresceu, faturou mais, sobrou menos), Concorrentes v14 (Treasy FP&A, Conta AI multi-CNPJ, Omie IA fiscal + crédito roadmap), LinkedIn post v13 (armadilha do crescimento sem margem)** |
 
 ---
 
 ### Instagram
 | Post manhã 02/05 | ✅ Concluído | `outputs/2026-05-02/instagram-post-manha.md` |
 | Post manhã 03/05 | ✅ Concluído | `outputs/2026-05-03/instagram-post-manha.md` |
+| Reel concept v14 | ✅ Concluído | `outputs/2026-05-03/reel-concept.md` |
 
 ### Noite 02/05
 | Seção "Urgência / Por que agir agora" (página de vendas) | ✅ Concluído | `outputs/2026-05-02/pagina-vendas-secao.md` |
 | Ep.14 YouTube (Sazonalidade no DRE) | ✅ Concluído | `outputs/2026-05-02/youtube-outline.md` |
 
+### Tarde 03/05
+| Reel concept v14 | ✅ Concluído | `outputs/2026-05-03/reel-concept.md` |
+| Concorrentes v14 | ✅ Concluído | `outputs/2026-05-03/concorrentes.md` |
+| Post LinkedIn v13 | ✅ Concluído | `outputs/2026-05-03/linkedin-post.md` |
+
 ---
 
-*Última atualização: 03/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 03/05/2026 — Turno da tarde (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
