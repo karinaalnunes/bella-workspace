@@ -271,15 +271,23 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 
 ---
 
-*Última atualização: 04/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 04/05/2026 — Turno da tarde (Bella)*
 
 ---
 
 ## HISTÓRICO — 04/05/2026
 
 | **2026-05-04** | **Manhã** | **Post Instagram (5 minutos de DRE toda segunda-feira), Relatório matutino** |
+| **2026-05-04** | **Tarde** | **Reel concept v15 (3 sinais de crescimento para trás), Concorrentes v15 (Treasy FP&A Kit, Conta Azul AI Captura, Omie WhatsApp + US$100M), LinkedIn post v14 (ERP vs. diagnóstico financeiro)** |
 
 ### Instagram
 | Post manhã 04/05 | ✅ Concluído | `outputs/2026-05-04/instagram-post-manha.md` |
+| Reel concept v15 | ✅ Concluído | `outputs/2026-05-04/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v14 | ✅ Concluído | `outputs/2026-05-04/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v15 | ✅ Concluído | `outputs/2026-05-04/concorrentes.md` |
 
 *Bella — Assistente Autônoma Máxima Finance IA*
