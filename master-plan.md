@@ -297,10 +297,11 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 | **2026-05-04** | **Noite** | **Seção "Sobre a Fundadora / Credibilidade" (página de vendas), Outline YouTube Ep.16 (DRE que convence sócio e banco)** |
 | **2026-05-05** | **Manhã** | **Post Instagram (3 despesas fora do preço — pró-labore, inadimplência, depreciação), Relatório matutino** |
 | **2026-05-05** | **Tarde** | **Reel concept v16 (DRE — 99% erraram), Concorrentes v16 (Treasy FP&A Summit, Conta AI Captura, Omie US$100M), LinkedIn post v15 (3 perguntas que o DRE responde)** |
+| **2026-05-05** | **Noite** | **Seção "Dados & Prova por Números" (página de vendas — 5 cards estatísticas de mercado + método semáforo do DRE), Outline YouTube Ep.17 (como reduzir custos sem demitir)** |
 
 ---
 
-## PÁGINA DE VENDAS — STATUS ATUAL (04/05/2026)
+## PÁGINA DE VENDAS — STATUS ATUAL (05/05/2026)
 
 Todas as seções core + complementares concluídas. Página 100% pronta para dev.
 
@@ -312,7 +313,8 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 - Para quem é (qualificação de lead) ✅
 - Urgência / Por que agir agora ✅
 - Antes & Depois / Transformação ✅
-- **Sobre a Fundadora / Credibilidade ✅** ← novo
+- Sobre a Fundadora / Credibilidade ✅
+- **Dados & Prova por Números ✅** ← novo (noite 05/05)
 
 **Próximo passo na página:** Implementação no código (dev).
 
@@ -330,8 +332,12 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 ### Inteligência Competitiva
 | Concorrentes v16 | ✅ Concluído | `outputs/2026-05-05/concorrentes.md` |
 
+### Noite 05/05
+| Seção "Dados & Prova por Números" (página de vendas) | ✅ Concluído | `outputs/2026-05-05/pagina-vendas-secao.md` |
+| Ep.17 YouTube (Como reduzir custos sem demitir) | ✅ Concluído | `outputs/2026-05-05/youtube-outline.md` |
+
 ---
 
-*Última atualização: 05/05/2026 — Turno da tarde (Bella)*
+*Última atualização: 05/05/2026 — Turno da noite (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
