@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 01/05/2026 — Turno da noite (Bella)*
+*Última atualização: 05/05/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -295,6 +295,7 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 | Ep.16 YouTube (O DRE que convence sócio e banco) | ✅ Concluído | `outputs/2026-05-04/youtube-outline.md` |
 
 | **2026-05-04** | **Noite** | **Seção "Sobre a Fundadora / Credibilidade" (página de vendas), Outline YouTube Ep.16 (DRE que convence sócio e banco)** |
+| **2026-05-05** | **Manhã** | **Post Instagram (3 despesas fora do preço — pró-labore, inadimplência, depreciação), Relatório matutino** |
 
 ---
 
@@ -316,6 +317,13 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 
 ---
 
-*Última atualização: 04/05/2026 — Turno da noite (Bella)*
+## HISTÓRICO — 05/05/2026
+
+### Instagram
+| Post manhã 05/05 | ✅ Concluído | `outputs/2026-05-05/instagram-post-manha.md` |
+
+---
+
+*Última atualização: 05/05/2026 — Turno da manhã (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
