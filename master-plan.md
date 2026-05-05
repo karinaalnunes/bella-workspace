@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 05/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 05/05/2026 — Turno da tarde (Bella)*
 
 ---
 
@@ -296,6 +296,7 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 
 | **2026-05-04** | **Noite** | **Seção "Sobre a Fundadora / Credibilidade" (página de vendas), Outline YouTube Ep.16 (DRE que convence sócio e banco)** |
 | **2026-05-05** | **Manhã** | **Post Instagram (3 despesas fora do preço — pró-labore, inadimplência, depreciação), Relatório matutino** |
+| **2026-05-05** | **Tarde** | **Reel concept v16 (DRE — 99% erraram), Concorrentes v16 (Treasy FP&A Summit, Conta AI Captura, Omie US$100M), LinkedIn post v15 (3 perguntas que o DRE responde)** |
 
 ---
 
@@ -321,9 +322,16 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 
 ### Instagram
 | Post manhã 05/05 | ✅ Concluído | `outputs/2026-05-05/instagram-post-manha.md` |
+| Reel concept v16 | ✅ Concluído | `outputs/2026-05-05/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v15 | ✅ Concluído | `outputs/2026-05-05/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v16 | ✅ Concluído | `outputs/2026-05-05/concorrentes.md` |
 
 ---
 
-*Última atualização: 05/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 05/05/2026 — Turno da tarde (Bella)*
 
 *Bella — Assistente Autônoma Máxima Finance IA*
