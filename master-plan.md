@@ -357,9 +357,35 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 ### Inteligência Competitiva
 | Concorrentes v17 | ✅ Concluído | `outputs/2026-05-06/concorrentes.md` |
 
+### Noite 06/05
+| Seção "Quebra de Objeções" (página de vendas — 6 objeções com respostas diretas) | ✅ Concluído | `outputs/2026-05-06/pagina-vendas-secao.md` |
+| Ep.18 YouTube (Quando o DRE diz "pare de crescer": os sinais que ninguém quer ver) | ✅ Concluído | `outputs/2026-05-06/youtube-outline.md` |
+
+| **2026-05-06** | **Noite** | **Seção "Quebra de Objeções" (página de vendas — 6 objeções + respostas), Outline YouTube Ep.18 (sinais de alerta no DRE antes de crise)** |
+
 ---
 
-*Última atualização: 06/05/2026 — Turno da tarde (Bella)*
+## PÁGINA DE VENDAS — STATUS ATUAL (06/05/2026)
+
+Todas as seções core + complementares + suporte de conversão concluídas. Página 100% pronta para dev.
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- **Quebra de Objeções ✅** ← novo (noite 06/05)
+
+**Próximo passo na página:** Implementação no código (dev).
+
+---
+
+*Última atualização: 06/05/2026 — Turno da noite (Bella)*
 
 ---
 
