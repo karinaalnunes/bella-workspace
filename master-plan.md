@@ -338,6 +338,17 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 
 ---
 
-*Última atualização: 05/05/2026 — Turno da noite (Bella)*
+*Última atualização: 06/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 06/05/2026
+
+| **2026-05-06** | **Manhã** | **Post Instagram (antes de contratar, olhe a margem no DRE), Relatório matutino** |
+
+### Instagram
+| Post manhã 06/05 | ✅ Concluído | `outputs/2026-05-06/instagram-post-manha.md` |
+
+---
 
 *Bella — Assistente Autônoma Máxima Finance IA*
