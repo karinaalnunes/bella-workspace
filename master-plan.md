@@ -345,9 +345,21 @@ Todas as seções core + complementares concluídas. Página 100% pronta para de
 ## HISTÓRICO — 06/05/2026
 
 | **2026-05-06** | **Manhã** | **Post Instagram (antes de contratar, olhe a margem no DRE), Relatório matutino** |
+| **2026-05-06** | **Tarde** | **Reel concept v17 (você acha que tá lucrando — DRE sabe a verdade), Concorrentes v17 (Treasy Kit 2026, Conta AI Captura WhatsApp, Omie agente generativo), LinkedIn post v16 (lucro líquido real vs saldo do banco)** |
 
 ### Instagram
 | Post manhã 06/05 | ✅ Concluído | `outputs/2026-05-06/instagram-post-manha.md` |
+| Reel concept v17 | ✅ Concluído | `outputs/2026-05-06/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v16 | ✅ Concluído | `outputs/2026-05-06/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v17 | ✅ Concluído | `outputs/2026-05-06/concorrentes.md` |
+
+---
+
+*Última atualização: 06/05/2026 — Turno da tarde (Bella)*
 
 ---
 
