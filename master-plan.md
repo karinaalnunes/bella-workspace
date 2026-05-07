@@ -392,9 +392,21 @@ Todas as seções core + complementares + suporte de conversão concluídas. Pá
 ## HISTÓRICO — 07/05/2026
 
 | **2026-05-07** | **Manhã** | **Post Instagram (3 custos invisíveis que comem o lucro — retrabalho, estoque parado, descasamento de prazo), Relatório matutino** |
+| **2026-05-07** | **Tarde** | **Reel concept v18 (o número que o contador nunca mostrou), Concorrentes v18 (Treasy FP&A 2026, Conta AI Captura, Omie IA fiscal + WhatsApp), LinkedIn post v17 (DRE vs. saldo bancário)** |
 
 ### Instagram
 | Post manhã 07/05 | ✅ Concluído | `outputs/2026-05-07/instagram-post-manha.md` |
+| Reel concept v18 | ✅ Concluído | `outputs/2026-05-07/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v17 | ✅ Concluído | `outputs/2026-05-07/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v18 | ✅ Concluído | `outputs/2026-05-07/concorrentes.md` |
+
+---
+
+*Última atualização: 07/05/2026 — Turno da tarde (Bella)*
 
 ---
 
