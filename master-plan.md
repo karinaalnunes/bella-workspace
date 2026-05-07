@@ -385,7 +385,16 @@ Todas as seções core + complementares + suporte de conversão concluídas. Pá
 
 ---
 
-*Última atualização: 06/05/2026 — Turno da noite (Bella)*
+*Última atualização: 07/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 07/05/2026
+
+| **2026-05-07** | **Manhã** | **Post Instagram (3 custos invisíveis que comem o lucro — retrabalho, estoque parado, descasamento de prazo), Relatório matutino** |
+
+### Instagram
+| Post manhã 07/05 | ✅ Concluído | `outputs/2026-05-07/instagram-post-manha.md` |
 
 ---
 
