@@ -440,9 +440,21 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 ## HISTÓRICO — 08/05/2026
 
 | **2026-05-08** | **Manhã** | **Post Instagram (4 perguntas para fechar a semana certo — DRE de sexta), Relatório matutino** |
+| **2026-05-08** | **Tarde** | **Reel concept v19 (faturou R$ 80 mil — sabe quanto sobrou?), Concorrentes v19 (Omie IA fiscal produção, Conta Azul CON agosto, Treasy+Nibo), LinkedIn post v18 (reforma tributária + DRE)** |
 
 ### Instagram
 | Post manhã 08/05 | ✅ Concluído | `outputs/2026-05-08/instagram-post-manha.md` |
+| Reel concept v19 | ✅ Concluído | `outputs/2026-05-08/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v18 | ✅ Concluído | `outputs/2026-05-08/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v19 | ✅ Concluído | `outputs/2026-05-08/concorrentes.md` |
+
+---
+
+*Última atualização: 08/05/2026 — Turno da tarde (Bella)*
 
 ---
 
