@@ -433,7 +433,16 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 
 ---
 
-*Última atualização: 07/05/2026 — Turno da noite (Bella)*
+*Última atualização: 08/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 08/05/2026
+
+| **2026-05-08** | **Manhã** | **Post Instagram (4 perguntas para fechar a semana certo — DRE de sexta), Relatório matutino** |
+
+### Instagram
+| Post manhã 08/05 | ✅ Concluído | `outputs/2026-05-08/instagram-post-manha.md` |
 
 ---
 
