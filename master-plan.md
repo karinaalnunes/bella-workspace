@@ -452,9 +452,37 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 ### Inteligência Competitiva
 | Concorrentes v19 | ✅ Concluído | `outputs/2026-05-08/concorrentes.md` |
 
+### Noite 08/05
+| Sequência E-mails de Ativação / Onboarding (5 e-mails — boas-vindas→conversão) | ✅ Concluído | `outputs/2026-05-08/pagina-vendas-secao.md` |
+| Ep.20 YouTube (DRE para Serviços: Custo Real da Hora Vendida) | ✅ Concluído | `outputs/2026-05-08/youtube-outline.md` |
+
+| **2026-05-08** | **Noite** | **Sequência de E-mails de Ativação/Onboarding (5 e-mails prontos para automação), Outline YouTube Ep.20 (DRE para serviços — custo real da hora vendida)** |
+
 ---
 
-*Última atualização: 08/05/2026 — Turno da tarde (Bella)*
+## PÁGINA DE VENDAS — STATUS ATUAL (08/05/2026)
+
+Todas as seções core + complementares + suporte de conversão + captação de leads + onboarding concluídas.
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE em 5 Minutos ✅
+- **Sequência de E-mails de Ativação (5 e-mails) ✅** ← novo (noite 08/05)
+
+**Próximo passo:** Copy para Tráfego Pago (Meta Ads) + implementação no código (dev).
+
+---
+
+*Última atualização: 08/05/2026 — Turno da noite (Bella)*
 
 ---
 
