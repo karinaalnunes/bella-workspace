@@ -501,13 +501,46 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 ### Inteligência Competitiva
 | Concorrentes v20 | ✅ Concluído | `outputs/2026-05-09/concorrentes.md` |
 
+### Noite 09/05
+| Copy para Meta Ads (5 anúncios prontos — dor/medo/prova social/solução/urgência) | ✅ Concluído | `outputs/2026-05-09/pagina-vendas-secao.md` |
+| Ep.21 YouTube (Ticket Médio no DRE: Como Aumentar o Lucro Sem Vender Mais) | ✅ Concluído | `outputs/2026-05-09/youtube-outline.md` |
+
+| **2026-05-09** | **Noite** | **Copy Meta Ads (5 anúncios completos com headline/texto/CTA), Outline YouTube Ep.21 (ticket médio no DRE)** |
+
 ---
 
-## PRÓXIMOS PASSOS (09/05/2026)
+## PÁGINA DE VENDAS — STATUS ATUAL (09/05/2026)
+
+Todas as seções core + complementares + suporte de conversão + captação de leads + onboarding + tráfego pago concluídas.
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE em 5 Minutos ✅
+- Sequência de E-mails de Ativação (5 e-mails) ✅
+- **Copy para Meta Ads (5 anúncios) ✅** ← novo (noite 09/05)
+
+**Próximo passo:** Criativos visuais (mockups do app) para acompanhar os anúncios + implementação no código (dev).
+
+---
+
+## PRÓXIMOS PASSOS (10/05/2026)
 
 1. 🔥 **Finalizar DashboardPage** — gargalo crítico
-2. 📣 **Copy para Meta Ads** — 3–5 anúncios prontos para ativar no lançamento
+2. 🎨 **Criativos visuais Meta Ads** — mockups do app para acompanhar os 5 anúncios
 3. 💳 **Planejar integração Stripe** — definir planos × features × webhooks
+
+---
+
+*Última atualização: 09/05/2026 — Turno da noite (Bella)*
 
 ---
 
