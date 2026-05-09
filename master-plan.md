@@ -482,7 +482,24 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 
 ---
 
-*Última atualização: 08/05/2026 — Turno da noite (Bella)*
+*Última atualização: 09/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 09/05/2026
+
+| **2026-05-09** | **Manhã** | **Post Instagram (o dono que lê o DRE todo mês — sabedoria prática, carrossel 6 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 09/05 | ✅ Concluído | `outputs/2026-05-09/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (09/05/2026)
+
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico
+2. 📣 **Copy para Meta Ads** — 3–5 anúncios prontos para ativar no lançamento
+3. 💳 **Planejar integração Stripe** — definir planos × features × webhooks
 
 ---
 
