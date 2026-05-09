@@ -482,16 +482,24 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 
 ---
 
-*Última atualização: 09/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 09/05/2026 — Turno da tarde (Bella)*
 
 ---
 
 ## HISTÓRICO — 09/05/2026
 
 | **2026-05-09** | **Manhã** | **Post Instagram (o dono que lê o DRE todo mês — sabedoria prática, carrossel 6 slides), Relatório matutino** |
+| **2026-05-09** | **Tarde** | **Reel concept v20 (dois sócios, mesma empresa, resultados diferentes), Concorrentes v20 (Omie Série D US$150M — alerta crítico, Conta Azul AI WhatsApp multi-CNPJ, Treasy FP&A Summit), LinkedIn post v19 (narrativa dois empresários)** |
 
 ### Instagram
 | Post manhã 09/05 | ✅ Concluído | `outputs/2026-05-09/instagram-post-manha.md` |
+| Reel concept v20 | ✅ Concluído | `outputs/2026-05-09/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v19 | ✅ Concluído | `outputs/2026-05-09/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v20 | ✅ Concluído | `outputs/2026-05-09/concorrentes.md` |
 
 ---
 
