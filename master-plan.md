@@ -532,15 +532,24 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 
 ---
 
+## HISTÓRICO — 10/05/2026
+
+| **2026-05-10** | **Manhã** | **Post Instagram (domingo é dia de números — 3 métricas que definem a semana), Relatório matutino** |
+
+### Instagram
+| Post manhã 10/05 | ✅ Concluído | `outputs/2026-05-10/instagram-post-manha.md` |
+
+---
+
 ## PRÓXIMOS PASSOS (10/05/2026)
 
-1. 🔥 **Finalizar DashboardPage** — gargalo crítico
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
 2. 🎨 **Criativos visuais Meta Ads** — mockups do app para acompanhar os 5 anúncios
 3. 💳 **Planejar integração Stripe** — definir planos × features × webhooks
 
 ---
 
-*Última atualização: 09/05/2026 — Turno da noite (Bella)*
+*Última atualização: 10/05/2026 — Turno da manhã (Bella)*
 
 ---
 
