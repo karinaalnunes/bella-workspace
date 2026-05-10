@@ -535,9 +535,17 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 ## HISTÓRICO — 10/05/2026
 
 | **2026-05-10** | **Manhã** | **Post Instagram (domingo é dia de números — 3 métricas que definem a semana), Relatório matutino** |
+| **2026-05-10** | **Tarde** | **Reel concept v21 (reforma tributária + DRE), Concorrentes v21 (Treasy FP&A Kit, Conta AI WhatsApp multi-CNPJ + CON agosto, Omie mobile + reforma), LinkedIn post v20 (reforma tributária e o DRE que muda)** |
 
 ### Instagram
 | Post manhã 10/05 | ✅ Concluído | `outputs/2026-05-10/instagram-post-manha.md` |
+| Reel concept v21 | ✅ Concluído | `outputs/2026-05-10/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v20 | ✅ Concluído | `outputs/2026-05-10/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v21 | ✅ Concluído | `outputs/2026-05-10/concorrentes.md` |
 
 ---
 
@@ -546,10 +554,11 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
 2. 🎨 **Criativos visuais Meta Ads** — mockups do app para acompanhar os 5 anúncios
 3. 💳 **Planejar integração Stripe** — definir planos × features × webhooks
+4. ⚠️ **Deploy antes de agosto** — Conta Azul CON 2026 (5–6 ago) pode ser palco de anúncio de IA avançada
 
 ---
 
-*Última atualização: 10/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 10/05/2026 — Turno da tarde (Bella)*
 
 ---
 
