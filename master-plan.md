@@ -507,11 +507,17 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 
 | **2026-05-09** | **Noite** | **Copy Meta Ads (5 anúncios completos com headline/texto/CTA), Outline YouTube Ep.21 (ticket médio no DRE)** |
 
+### Noite 10/05
+| VSL — Roteiro do Vídeo de Vendas (3–4 min completo + versão 30s para anúncio) | ✅ Concluído | `outputs/2026-05-10/pagina-vendas-secao.md` |
+| Ep.22 YouTube (DRE e Sócio: Como Usar os Números para Tomar Decisões Sem Brigar) | ✅ Concluído | `outputs/2026-05-10/youtube-outline.md` |
+
+| **2026-05-10** | **Noite** | **VSL — Roteiro completo do Vídeo de Vendas (landing page + versão 30s para Meta Ads), Outline YouTube Ep.22 (DRE e sócios — árbitro neutro das decisões)** |
+
 ---
 
-## PÁGINA DE VENDAS — STATUS ATUAL (09/05/2026)
+## PÁGINA DE VENDAS — STATUS ATUAL (10/05/2026)
 
-Todas as seções core + complementares + suporte de conversão + captação de leads + onboarding + tráfego pago concluídas.
+Todas as seções core + complementares + suporte de conversão + captação de leads + onboarding + tráfego pago + VSL concluídas.
 
 **Seções adicionais produzidas (pós-consolidação):**
 - Hero v2 A/B ✅
@@ -526,9 +532,10 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 - Quebra de Objeções ✅
 - Lead Magnet / Checklist DRE em 5 Minutos ✅
 - Sequência de E-mails de Ativação (5 e-mails) ✅
-- **Copy para Meta Ads (5 anúncios) ✅** ← novo (noite 09/05)
+- Copy para Meta Ads (5 anúncios) ✅
+- **VSL — Roteiro do Vídeo de Vendas (3–4 min + versão 30s) ✅** ← novo (noite 10/05)
 
-**Próximo passo:** Criativos visuais (mockups do app) para acompanhar os anúncios + implementação no código (dev).
+**Próximo passo:** Gravação do VSL + criativos visuais (mockups do app) para Meta Ads + implementação no código (dev).
 
 ---
 
@@ -549,16 +556,17 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 
 ---
 
-## PRÓXIMOS PASSOS (10/05/2026)
+## PRÓXIMOS PASSOS (10/05/2026 — pós turno noite)
 
 1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
-2. 🎨 **Criativos visuais Meta Ads** — mockups do app para acompanhar os 5 anúncios
-3. 💳 **Planejar integração Stripe** — definir planos × features × webhooks
-4. ⚠️ **Deploy antes de agosto** — Conta Azul CON 2026 (5–6 ago) pode ser palco de anúncio de IA avançada
+2. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+3. 🎨 **Criativos visuais Meta Ads** — mockups do app para acompanhar os 5 anúncios
+4. 💳 **Planejar integração Stripe** — definir planos × features × webhooks
+5. ⚠️ **Deploy antes de agosto** — Conta Azul CON 2026 (5–6 ago) pode ser palco de anúncio de IA avançada
 
 ---
 
-*Última atualização: 10/05/2026 — Turno da tarde (Bella)*
+*Última atualização: 10/05/2026 — Turno da noite (Bella)*
 
 ---
 
