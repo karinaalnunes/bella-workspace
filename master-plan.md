@@ -566,7 +566,24 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 
 ---
 
-*Última atualização: 10/05/2026 — Turno da noite (Bella)*
+*Última atualização: 11/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 11/05/2026
+
+| **2026-05-11** | **Manhã** | **Post Instagram (reunião de segunda começa com 3 números do DRE — carrossel 5 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 11/05 | ✅ Concluído | `outputs/2026-05-11/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (11/05/2026)
+
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
+2. 🎨 **Criativos visuais Meta Ads** — mockups do app para acompanhar os 5 anúncios (copy pronto em outputs/2026-05-09/pagina-vendas-secao.md)
+3. 💳 **Planejar integração Stripe** — especificar features por plano + webhooks antes de codar
 
 ---
 
