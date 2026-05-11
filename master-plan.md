@@ -566,7 +566,7 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 
 ---
 
-*Última atualização: 11/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 11/05/2026 — Turno da tarde (Bella)*
 
 ---
 
@@ -579,11 +579,27 @@ Todas as seções core + complementares + suporte de conversão + captação de 
 
 ---
 
-## PRÓXIMOS PASSOS (11/05/2026)
+## HISTÓRICO — 11/05/2026
+
+| **2026-05-11** | **Tarde** | **Reel concept v22 (ponto de equilíbrio — você sabe esse número?), Concorrentes v22 (Treasy FP&A Summit, Conta Azul CON, Omie WhatsApp produção), LinkedIn post v21 (DRE + ponto de equilíbrio)** |
+
+### Instagram
+| Reel concept v22 | ✅ Concluído | `outputs/2026-05-11/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v21 | ✅ Concluído | `outputs/2026-05-11/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v22 | ✅ Concluído | `outputs/2026-05-11/concorrentes.md` |
+
+---
+
+## PRÓXIMOS PASSOS (11/05/2026 — pós turno tarde)
 
 1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
-2. 🎨 **Criativos visuais Meta Ads** — mockups do app para acompanhar os 5 anúncios (copy pronto em outputs/2026-05-09/pagina-vendas-secao.md)
-3. 💳 **Planejar integração Stripe** — especificar features por plano + webhooks antes de codar
+2. ⚠️ **Deploy antes de agosto** — Conta Azul CON 2026 (previsão agosto) pode anunciar IA avançada; Treasy FP&A Summit 12–13/mai (monitorar)
+3. 🎨 **Criativos visuais Meta Ads** — mockups do app para acompanhar os 5 anúncios (copy pronto em outputs/2026-05-09/pagina-vendas-secao.md)
+4. 💳 **Planejar integração Stripe** — especificar features por plano + webhooks antes de codar
 
 ---
 
