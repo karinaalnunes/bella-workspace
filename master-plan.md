@@ -653,23 +653,31 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 ## HISTÓRICO — 12/05/2026
 
 | **2026-05-12** | **Manhã** | **Post Instagram (3 sinais que o preço está errado — DRE prova), Relatório matutino** |
+| **2026-05-12** | **Tarde** | **Reel concept v23 (valuation — você saberia o preço da sua empresa?), Concorrentes v23 (Treasy Summit hoje, Conta AI Captura, Omie crédito WhatsApp), LinkedIn post v22 (margem vs. faturamento)** |
 
 ### Instagram
 | Post manhã 12/05 | ✅ Concluído | `outputs/2026-05-12/instagram-post-manha.md` |
+| Reel concept v23 | ✅ Concluído | `outputs/2026-05-12/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v22 | ✅ Concluído | `outputs/2026-05-12/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v23 | ✅ Concluído | `outputs/2026-05-12/concorrentes.md` |
 
 ---
 
-## PRÓXIMOS PASSOS (12/05/2026 — turno manhã)
+## PRÓXIMOS PASSOS (12/05/2026 — pós turno tarde)
 
 1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
-2. 👀 **Monitorar Treasy FP&A Summit 12–13/mai** — capturar anúncios de produto novo
+2. 👀 **Monitorar Treasy FP&A Summit amanhã (13/mai)** — verificar anúncios de produto com IA para PMEs
 3. 💳 **Especificar integração Stripe** — features por plano + webhooks antes de codar
 4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
-5. ⚠️ **Deploy antes de agosto** — Conta Azul CON 2026 (previsão agosto)
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul Con 2026 (5–6/ago, São Paulo)
 
 ---
 
-*Última atualização: 12/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 12/05/2026 — Turno da tarde (Bella)*
 
 ---
 
