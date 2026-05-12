@@ -650,4 +650,27 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
+## HISTÓRICO — 12/05/2026
+
+| **2026-05-12** | **Manhã** | **Post Instagram (3 sinais que o preço está errado — DRE prova), Relatório matutino** |
+
+### Instagram
+| Post manhã 12/05 | ✅ Concluído | `outputs/2026-05-12/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (12/05/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
+2. 👀 **Monitorar Treasy FP&A Summit 12–13/mai** — capturar anúncios de produto novo
+3. 💳 **Especificar integração Stripe** — features por plano + webhooks antes de codar
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de agosto** — Conta Azul CON 2026 (previsão agosto)
+
+---
+
+*Última atualização: 12/05/2026 — Turno da manhã (Bella)*
+
+---
+
 *Bella — Assistente Autônoma Máxima Finance IA*
