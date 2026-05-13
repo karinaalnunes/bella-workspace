@@ -766,4 +766,52 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
+| **2026-05-13** | **Noite** | **Copy para Checkout / Tela de Pagamento (microcopy Stripe + cards dos planos + FAQ checkout + tokens dev), Outline YouTube Ep.25 (Como Sair do Vermelho Usando o DRE: Método dos 3 Cortes)** |
+
+### Noite 13/05
+| Copy para Checkout / Tela de Pagamento (Stripe) | ✅ Concluído | `outputs/2026-05-13/pagina-vendas-secao.md` |
+| Ep.25 YouTube (Como Sair do Vermelho Usando o DRE: O Método dos 3 Cortes) | ✅ Concluído | `outputs/2026-05-13/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (13/05/2026)
+
+Todas as seções core + complementares + conversão + tráfego pago + inside sales + pós-venda + checkout concluídas.
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE em 5 Minutos ✅
+- Sequência de E-mails de Ativação (5 e-mails) ✅
+- Copy para Meta Ads (5 anúncios) ✅
+- VSL — Roteiro do Vídeo de Vendas (3–4 min + versão 30s) ✅
+- Script de Inside Sales / WhatsApp (5 mensagens + reativação + indicação) ✅
+- Thank You Page / Página de Obrigado (ativação + upsell condicional) ✅
+- **Copy para Checkout / Tela de Pagamento (Stripe — cards + microcopy + tokens dev) ✅** ← novo (noite 13/05)
+
+**Próximo passo:** Gravação do VSL + implementação no código (dev) + integração Stripe (copy do checkout está pronta).
+
+---
+
+## PRÓXIMOS PASSOS (13/05/2026 — pós turno noite)
+
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
+2. 💳 **Integração Stripe** — copy do checkout pronta (`outputs/2026-05-13/pagina-vendas-secao.md`), dev pode implementar `<PlansGrid>` agora
+3. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–6 meses)
+
+---
+
+*Última atualização: 13/05/2026 — Turno da noite (Bella)*
+
+---
+
 *Bella — Assistente Autônoma Máxima Finance IA*
