@@ -734,13 +734,35 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-## PRÓXIMOS PASSOS (13/05/2026 — turno manhã)
+## HISTÓRICO — 13/05/2026
+
+| **2026-05-13** | **Tarde** | **Reel concept v24 (jornada do R$1 faturado), Concorrentes v24 (Treasy Summit ao vivo — gap PME confirmado, Omie agente generativo roadmap, Conta Azul AI Captura multi-CNPJ), LinkedIn post v23 (EBITDA em 3 passos)** |
+
+### Instagram
+| Reel concept v24 | ✅ Concluído | `outputs/2026-05-13/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v23 | ✅ Concluído | `outputs/2026-05-13/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v24 | ✅ Concluído | `outputs/2026-05-13/concorrentes.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 13/05/2026
+
+**Treasy FP&A Summit (12–13/mai):** Confirmado foco enterprise (CFOs, controllers). Nenhuma menção a PME. Gap da Máxima validado ao vivo.
+**Conta Azul AI Captura:** Integração WhatsApp multi-grupo (multi-CNPJ) para BPO. Captura doc → sugere lançamento. Não interpreta DRE.
+**Omie:** Agente generativo declarado no roadmap. Janela de lançamento da Máxima estimada em 3–6 meses.
+
+---
+
+## PRÓXIMOS PASSOS (13/05/2026 — pós turno tarde)
 
 1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
-2. 👀 **Monitorar Treasy FP&A Summit (hoje, 13/mai)** — verificar anúncios de IA para PMEs
+2. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); Omie agente generativo em roadmap (janela ~3–6 meses)
 3. 💳 **Especificar integração Stripe** — features por plano + webhooks antes de codar
 4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
-5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul Con 2026 (5–6/ago, São Paulo)
 
 ---
 
