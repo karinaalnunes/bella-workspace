@@ -721,7 +721,26 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-*Última atualização: 12/05/2026 — Turno da noite (Bella)*
+*Última atualização: 13/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 13/05/2026
+
+| **2026-05-13** | **Manhã** | **Post Instagram (EBITDA — o número que o banco olha antes de aprovar crédito), Relatório matutino** |
+
+### Instagram
+| Post manhã 13/05 | ✅ Concluído | `outputs/2026-05-13/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (13/05/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
+2. 👀 **Monitorar Treasy FP&A Summit (hoje, 13/mai)** — verificar anúncios de IA para PMEs
+3. 💳 **Especificar integração Stripe** — features por plano + webhooks antes de codar
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul Con 2026 (5–6/ago, São Paulo)
 
 ---
 
