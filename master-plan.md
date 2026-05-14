@@ -817,15 +817,23 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 ## HISTÓRICO — 14/05/2026
 
 | **2026-05-14** | **Manhã** | **Post Instagram (fatura mais, lucra menos — alavancagem operacional negativa no DRE), Relatório matutino** |
+| **2026-05-14** | **Tarde** | **Reel concept v25 (produto mais vendido que dá prejuízo — margem negativa), Concorrentes v25 (Treasy enterprise confirmado, Conta Azul CON ago, Omie WhatsApp produção), LinkedIn post v24 (margem de contribuição real por produto)** |
 
 ### Instagram
 | Post manhã 14/05 | ✅ Concluído | `outputs/2026-05-14/instagram-post-manha.md` |
+| Reel concept v25 | ✅ Concluído | `outputs/2026-05-14/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v24 | ✅ Concluído | `outputs/2026-05-14/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v25 | ✅ Concluído | `outputs/2026-05-14/concorrentes.md` |
 
 ---
 
-## PRÓXIMOS PASSOS (14/05/2026 — pós turno manhã)
+## PRÓXIMOS PASSOS (14/05/2026 — pós turno tarde)
 
-1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento (definir 3 widgets MVP)
 2. 💳 **Integração Stripe** — copy do checkout pronta (`outputs/2026-05-13/pagina-vendas-secao.md`), dev pode implementar `<PlansGrid>` hoje
 3. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
 4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–6 meses)
