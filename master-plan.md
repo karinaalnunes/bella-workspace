@@ -818,6 +818,7 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 | **2026-05-14** | **Manhã** | **Post Instagram (fatura mais, lucra menos — alavancagem operacional negativa no DRE), Relatório matutino** |
 | **2026-05-14** | **Tarde** | **Reel concept v25 (produto mais vendido que dá prejuízo — margem negativa), Concorrentes v25 (Treasy enterprise confirmado, Conta Azul CON ago, Omie WhatsApp produção), LinkedIn post v24 (margem de contribuição real por produto)** |
+| **2026-05-14** | **Noite** | **Sequência de E-mails de Retenção (3 e-mails: Semana 1 / Mês 1 / Reativação pós-inatividade), Outline YouTube Ep.26 (DRE para Comércio vs. Serviços)** |
 
 ### Instagram
 | Post manhã 14/05 | ✅ Concluído | `outputs/2026-05-14/instagram-post-manha.md` |
@@ -829,14 +830,51 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 ### Inteligência Competitiva
 | Concorrentes v25 | ✅ Concluído | `outputs/2026-05-14/concorrentes.md` |
 
+### Noite 14/05
+| Sequência de E-mails de Retenção (3 e-mails pós-venda — semana 1 / mês 1 / reativação) | ✅ Concluído | `outputs/2026-05-14/pagina-vendas-secao.md` |
+| Ep.26 YouTube (DRE para Comércio vs. Serviços: Margem Bruta ideal para cada negócio) | ✅ Concluído | `outputs/2026-05-14/youtube-outline.md` |
+
 ---
 
-## PRÓXIMOS PASSOS (14/05/2026 — pós turno tarde)
+## PÁGINA DE VENDAS — STATUS ATUAL (14/05/2026)
+
+Todas as seções + suporte de conversão + tráfego pago + inside sales + pós-venda + checkout + retenção concluídas.
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE em 5 Minutos ✅
+- Sequência de E-mails de Ativação (5 e-mails) ✅
+- Copy para Meta Ads (5 anúncios) ✅
+- VSL — Roteiro do Vídeo de Vendas (3–4 min + versão 30s) ✅
+- Script de Inside Sales / WhatsApp (5 mensagens + reativação + indicação) ✅
+- Thank You Page / Página de Obrigado (ativação + upsell condicional) ✅
+- Copy para Checkout / Tela de Pagamento (Stripe — cards + microcopy + tokens dev) ✅
+- **Sequência de E-mails de Retenção (3 e-mails: Semana 1 / Mês 1 / Reativação) ✅** ← novo (noite 14/05)
+
+**Próximo passo:** Gravação do VSL + implementação no código (dev) + integração Stripe + configurar automação de e-mails (Resend / Loops.so).
+
+---
+
+## PRÓXIMOS PASSOS (14/05/2026 — pós turno noite)
 
 1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento (definir 3 widgets MVP)
 2. 💳 **Integração Stripe** — copy do checkout pronta (`outputs/2026-05-13/pagina-vendas-secao.md`), dev pode implementar `<PlansGrid>` hoje
-3. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
-4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–6 meses)
+3. 📧 **Configurar automação de e-mails** — e-mails de retenção prontos (`outputs/2026-05-14/pagina-vendas-secao.md`); integrar com Resend ou Loops.so via webhooks Stripe
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–6 meses)
+
+---
+
+*Última atualização: 14/05/2026 — Turno da noite (Bella)*
 
 ---
 
