@@ -810,7 +810,25 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-*Última atualização: 13/05/2026 — Turno da noite (Bella)*
+*Última atualização: 14/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 14/05/2026
+
+| **2026-05-14** | **Manhã** | **Post Instagram (fatura mais, lucra menos — alavancagem operacional negativa no DRE), Relatório matutino** |
+
+### Instagram
+| Post manhã 14/05 | ✅ Concluído | `outputs/2026-05-14/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (14/05/2026 — pós turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico para o lançamento
+2. 💳 **Integração Stripe** — copy do checkout pronta (`outputs/2026-05-13/pagina-vendas-secao.md`), dev pode implementar `<PlansGrid>` hoje
+3. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–6 meses)
 
 ---
 
