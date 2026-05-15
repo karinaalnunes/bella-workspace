@@ -910,6 +910,10 @@ Todas as seções + suporte de conversão + tráfego pago + inside sales + pós-
 ### Inteligência Competitiva
 | Concorrentes v26 | ✅ Concluído | `outputs/2026-05-15/concorrentes.md` |
 
+### Noite 15/05
+| Popup Exit-Intent (3 variantes) + E-mail Carrinho Abandonado (2 e-mails + tokens dev + métricas) | ✅ Concluído | `outputs/2026-05-15/pagina-vendas-secao.md` |
+| Ep.27 YouTube (DRE e Reforma Tributária 2026: o que muda no lucro e como se preparar) | ✅ Concluído | `outputs/2026-05-15/youtube-outline.md` |
+
 ---
 
 ## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 15/05/2026
@@ -930,7 +934,46 @@ Todas as seções + suporte de conversão + tráfego pago + inside sales + pós-
 
 ---
 
-*Última atualização: 15/05/2026 — Turno da tarde (Bella)*
+## PÁGINA DE VENDAS — STATUS ATUAL (15/05/2026)
+
+Todas as seções core + complementares + conversão + tráfego pago + inside sales + pós-venda + checkout + retenção + recuperação de leads concluídas.
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE em 5 Minutos ✅
+- Sequência de E-mails de Ativação (5 e-mails) ✅
+- Copy para Meta Ads (5 anúncios) ✅
+- VSL — Roteiro do Vídeo de Vendas (3–4 min + versão 30s) ✅
+- Script de Inside Sales / WhatsApp (5 mensagens + reativação + indicação) ✅
+- Thank You Page / Página de Obrigado (ativação + upsell condicional) ✅
+- Copy para Checkout / Tela de Pagamento (Stripe — cards + microcopy + tokens dev) ✅
+- Sequência de E-mails de Retenção (3 e-mails: Semana 1 / Mês 1 / Reativação) ✅
+- **Popup Exit-Intent (3 variantes) + E-mail Carrinho Abandonado (2 e-mails + webhook Stripe) ✅** ← novo (noite 15/05)
+
+**Próximo passo:** Implementação no código (dev) + configurar webhook Stripe para e-mail de carrinho abandonado + gravação do VSL.
+
+---
+
+## PRÓXIMOS PASSOS (15/05/2026 — pós turno noite)
+
+1. 🔥 **Finalizar DashboardPage** — definir 3 widgets MVP + implementar (gargalo crítico do lançamento)
+2. 💳 **Criar produtos no Stripe** — ação de 10 min que desbloqueia o dev; copy em `outputs/2026-05-13/pagina-vendas-secao.md`; webhook de carrinho abandonado em `outputs/2026-05-15/pagina-vendas-secao.md`
+3. 📧 **Configurar e-mail marketing** — e-mails prontos (ativação: `05-08`, retenção: `05-14`, carrinho: `05-15`); integrar via Resend + webhooks Stripe
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–5 meses)
+
+---
+
+*Última atualização: 15/05/2026 — Turno da noite (Bella)*
 
 ---
 
