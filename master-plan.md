@@ -878,4 +878,27 @@ Todas as seções + suporte de conversão + tráfego pago + inside sales + pós-
 
 ---
 
+## HISTÓRICO — 15/05/2026
+
+| **2026-05-15** | **Manhã** | **Post Instagram (DRE x Fluxo de Caixa — dois relatórios, dois papéis, carrossel 5 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 15/05 | ✅ Concluído | `outputs/2026-05-15/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (15/05/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — definir 3 widgets MVP + implementar (gargalo crítico do lançamento)
+2. 💳 **Integração Stripe** — criar produtos no painel + configurar webhooks sandbox; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`
+3. 📧 **Configurar e-mail marketing** — escolher Resend ou Loops.so + conectar via webhook Stripe; e-mails prontos em `outputs/2026-05-08` e `outputs/2026-05-14`
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–6 meses)
+
+---
+
+*Última atualização: 15/05/2026 — Turno da manhã (Bella)*
+
+---
+
 *Bella — Assistente Autônoma Máxima Finance IA*
