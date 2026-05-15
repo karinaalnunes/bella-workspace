@@ -893,11 +893,44 @@ Todas as seções + suporte de conversão + tráfego pago + inside sales + pós-
 2. 💳 **Integração Stripe** — criar produtos no painel + configurar webhooks sandbox; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`
 3. 📧 **Configurar e-mail marketing** — escolher Resend ou Loops.so + conectar via webhook Stripe; e-mails prontos em `outputs/2026-05-08` e `outputs/2026-05-14`
 4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
-5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–6 meses)
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–5 meses)
 
 ---
 
-*Última atualização: 15/05/2026 — Turno da manhã (Bella)*
+## HISTÓRICO — 15/05/2026
+
+| **2026-05-15** | **Tarde** | **Reel concept v26 (contratar com base no DRE — custo real do funcionário), Concorrentes v26 (Treasy enterprise, Conta AI multi-CNPJ, Omie agente generativo roadmap), LinkedIn post v25 (revisão de meio de ano — o "acho que" que custa caro)** |
+
+### Instagram
+| Reel concept v26 | ✅ Concluído | `outputs/2026-05-15/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v25 | ✅ Concluído | `outputs/2026-05-15/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v26 | ✅ Concluído | `outputs/2026-05-15/concorrentes.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 15/05/2026
+
+**Treasy:** FP&A Summit (12–13/mai) confirmou foco enterprise (CFOs, controllers). Nenhuma iniciativa de IA para PME. Gap da Máxima validado.
+**Conta Azul AI Captura:** Multi-CNPJ via grupos de WhatsApp operacional para BPO. Captura documentos → sugere lançamento. Não interpreta DRE. CON 2026 em 5–6/ago pode anunciar expansão.
+**Omie:** Agente generativo declarado no roadmap. WhatsApp ERP em produção (1.000+ clientes beta). US$100M de aporte (Partners Group). Janela da Máxima estimada em **3–5 meses**.
+
+---
+
+## PRÓXIMOS PASSOS (15/05/2026 — pós turno tarde)
+
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico do lançamento
+2. 💳 **Criar produtos no Stripe** (Gratuito / Pro R$97 / Business R$297) — ação de 10 min que desbloqueia o dev; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`
+3. 📧 **Configurar automação de e-mails** — e-mails de ativação e retenção prontos; integrar com Resend ou Loops.so via webhooks Stripe
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–5 meses)
+
+---
+
+*Última atualização: 15/05/2026 — Turno da tarde (Bella)*
 
 ---
 
