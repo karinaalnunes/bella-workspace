@@ -973,20 +973,28 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-*Última atualização: 16/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 16/05/2026 — Turno da tarde (Bella)*
 
 ---
 
 ## HISTÓRICO — 16/05/2026
 
 | **2026-05-16** | **Manhã** | **Post Instagram (sábado de números — saldo na conta vs. lucro real, carrossel 4 slides), Relatório matutino** |
+| **2026-05-16** | **Tarde** | **Reel concept v27 (trabalhando de graça — margem líquida real), Concorrentes v27 (Omie IA fiscal + WhatsApp produção, Conta Azul AI Captura 2026, Treasy enterprise confirmado), LinkedIn post v26 (storytelling margem 4%)** |
 
 ### Instagram
 | Post manhã 16/05 | ✅ Concluído | `outputs/2026-05-16/instagram-post-manha.md` |
+| Reel concept v27 | ✅ Concluído | `outputs/2026-05-16/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v26 | ✅ Concluído | `outputs/2026-05-16/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v27 | ✅ Concluído | `outputs/2026-05-16/concorrentes.md` |
 
 ---
 
-## PRÓXIMOS PASSOS (16/05/2026 — turno manhã)
+## PRÓXIMOS PASSOS (16/05/2026 — pós turno tarde)
 
 1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
 2. 💳 **Criar produtos no Stripe** (Gratuito / Pro R$97 / Business R$297) + configurar sandbox + webhook `checkout.session.completed`
