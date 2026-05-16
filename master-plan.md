@@ -973,7 +973,26 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-*Última atualização: 15/05/2026 — Turno da noite (Bella)*
+*Última atualização: 16/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 16/05/2026
+
+| **2026-05-16** | **Manhã** | **Post Instagram (sábado de números — saldo na conta vs. lucro real, carrossel 4 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 16/05 | ✅ Concluído | `outputs/2026-05-16/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (16/05/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+2. 💳 **Criar produtos no Stripe** (Gratuito / Pro R$97 / Business R$297) + configurar sandbox + webhook `checkout.session.completed`
+3. 📧 **Escolher e configurar e-mail marketing** — Recomendação: Resend (integra com Supabase Edge Functions); e-mails prontos em `05-08`, `05-14`, `05-15`
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–5 meses)
 
 ---
 
