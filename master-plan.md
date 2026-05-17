@@ -1044,4 +1044,28 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
+## HISTÓRICO — 17/05/2026
+
+| **2026-05-17** | **Manhã** | **Post Instagram (5 perguntas que o DRE responde em 5 minutos nesse domingo — carrossel 6 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 17/05 | ✅ Concluído | `outputs/2026-05-17/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (17/05/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
+2. 💳 **Criar produtos no Stripe** (Gratuito / Pro R$97 / Business R$297) + sandbox + webhook `checkout.session.completed`
+3. 📧 **Configurar e-mail marketing** — Resend + webhooks Stripe; e-mails prontos em `05-08`, `05-14`, `05-15`
+4. 🔗 **Implementar Programa de Indicação** — tabela `referrals` no Supabase + lógica Stripe (copy em `05-16`)
+5. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–5 meses)
+
+---
+
+*Última atualização: 17/05/2026 — Turno da manhã (Bella)*
+
+---
+
 *Bella — Assistente Autônoma Máxima Finance IA*
