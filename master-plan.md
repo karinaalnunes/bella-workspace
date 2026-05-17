@@ -1000,9 +1000,9 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-## PÁGINA DE VENDAS — STATUS ATUAL (16/05/2026)
+## PÁGINA DE VENDAS — STATUS ATUAL (17/05/2026)
 
-Todas as seções core + complementares + conversão + tráfego pago + inside sales + pós-venda + checkout + retenção + recuperação de leads + crescimento viral concluídas.
+Todas as seções core + complementares + conversão + tráfego pago + inside sales + pós-venda + checkout + retenção + recuperação de leads + crescimento viral + onboarding in-app concluídas.
 
 **Seções produzidas (pós-consolidação):**
 - Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
@@ -1011,7 +1011,8 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 - E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
 - Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
 - E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
-- **Programa de Indicação / Referral ✅** ← novo (noite 16/05)
+- Programa de Indicação / Referral ✅
+- **Onboarding Flow / Copy do Primeiro Acesso (copy in-app completo) ✅** ← novo (noite 17/05)
 
 **Próximo passo:** Implementação no código (dev) + Stripe + gravação do VSL.
 
@@ -1047,24 +1048,30 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 ## HISTÓRICO — 17/05/2026
 
 | **2026-05-17** | **Manhã** | **Post Instagram (5 perguntas que o DRE responde em 5 minutos nesse domingo — carrossel 6 slides), Relatório matutino** |
+| **2026-05-17** | **Noite** | **Onboarding Flow / Copy do Primeiro Acesso (copy in-app completo — boas-vindas, upload, loading, diagnóstico, tooltips, empty state, notificações), Outline YouTube Ep.29 (Reserva Financeira para PMEs: quanto guardar e onde o DRE mostra a resposta)** |
 
 ### Instagram
 | Post manhã 17/05 | ✅ Concluído | `outputs/2026-05-17/instagram-post-manha.md` |
 
+### Noite 17/05
+| Onboarding Flow / Copy do Primeiro Acesso (copy in-app completo) | ✅ Concluído | `outputs/2026-05-17/pagina-vendas-secao.md` |
+| Ep.29 YouTube (Reserva Financeira para PMEs) | ✅ Concluído | `outputs/2026-05-17/youtube-outline.md` |
+
 ---
 
-## PRÓXIMOS PASSOS (17/05/2026 — turno manhã)
+## PRÓXIMOS PASSOS (17/05/2026 — turno noite)
 
 1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
 2. 💳 **Criar produtos no Stripe** (Gratuito / Pro R$97 / Business R$297) + sandbox + webhook `checkout.session.completed`
-3. 📧 **Configurar e-mail marketing** — Resend + webhooks Stripe; e-mails prontos em `05-08`, `05-14`, `05-15`
-4. 🔗 **Implementar Programa de Indicação** — tabela `referrals` no Supabase + lógica Stripe (copy em `05-16`)
-5. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
-6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–5 meses)
+3. 🖥️ **Implementar Onboarding Flow** — copy completo em `outputs/2026-05-17/pagina-vendas-secao.md`; inclui tokens dev, tooltips (Intro.js/Shepherd.js), variantes de diagnóstico
+4. 📧 **Configurar e-mail marketing** — Resend + webhooks Stripe; e-mails prontos em `05-08`, `05-14`, `05-15`
+5. 🔗 **Implementar Programa de Indicação** — tabela `referrals` no Supabase + lógica Stripe (copy em `05-16`)
+6. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–5 meses)
 
 ---
 
-*Última atualização: 17/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 17/05/2026 — Turno da noite (Bella)*
 
 ---
 
