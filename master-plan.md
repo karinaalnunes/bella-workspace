@@ -1071,7 +1071,42 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-*Última atualização: 17/05/2026 — Turno da noite (Bella)*
+*Última atualização: 18/05/2026 — Turno da tarde (Bella)*
+
+---
+
+## HISTÓRICO — 18/05/2026
+
+| **2026-05-18** | **Manhã** | **Post Instagram (inadimplência no DRE — o roubo silencioso, carrossel 6 slides), Relatório matutino** |
+| **2026-05-18** | **Tarde** | **Reel concept v28 (faturamento alto, lucro zero — paradoxo da margem), Concorrentes v28 (Treasy enterprise, Conta Azul AI Captura multi-CNPJ, Omie App BI + agente generativo roadmap), LinkedIn post v27 (decisão de segunda sem DRE)** |
+
+### Instagram
+| Post manhã 18/05 | ✅ Concluído | `outputs/2026-05-18/instagram-post-manha.md` |
+| Reel concept v28 | ✅ Concluído | `outputs/2026-05-18/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v27 | ✅ Concluído | `outputs/2026-05-18/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v28 | ✅ Concluído | `outputs/2026-05-18/concorrentes.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 18/05/2026
+
+**Treasy:** FP&A Summit enterprise confirmado. Nenhuma iniciativa de IA para PME. Kit Planejamento 2026 + Jornada 4 dias (enterprise). Gap da Máxima totalmente válido.
+**Conta Azul AI Captura:** WhatsApp multi-CNPJ para BPO operacional. Captura documentos → sugere lançamentos. Não interpreta DRE. **CON 2026 em 5–6/ago (São Paulo)** — risco de anúncio de IA para empresário final.
+**Omie:** Agente generativo como prioridade #1 de 2026. App BI Omie para PME ativo — **primeira convergência com território da Máxima detectada**. WhatsApp ERP em produção. US$100M aporte. Janela da Máxima estimada em **3–5 meses**.
+
+---
+
+## PRÓXIMOS PASSOS (18/05/2026 — pós turno tarde)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+2. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `outputs/2026-05-13/pagina-vendas-secao.md`
+3. 📧 **Configurar e-mail marketing** — Resend + webhooks Stripe; e-mails prontos em `05-08`, `05-14`, `05-15`
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de 5 de agosto** — CON 2026 (Conta Azul); Omie agente generativo em roadmap (janela ~3–5 meses)
 
 ---
 
