@@ -1090,6 +1090,12 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 ### Inteligência Competitiva
 | Concorrentes v28 | ✅ Concluído | `outputs/2026-05-18/concorrentes.md` |
 
+### Noite 18/05
+| Copy Upsell in-App / Modal de Upgrade (Gratuito → Pro — 3 modais + banners + e-mail reativação + tokens dev) | ✅ Concluído | `outputs/2026-05-18/pagina-vendas-secao.md` |
+| Ep.30 YouTube (DRE e Crescimento: Quando Crescer Está Matando Seu Negócio) | ✅ Concluído | `outputs/2026-05-18/youtube-outline.md` |
+
+| **2026-05-18** | **Noite** | **Copy Upsell in-App — 3 modais de upgrade (Gratuito → Pro) + banners + tokens dev, Outline YouTube Ep.30 (crescimento destrutivo no DRE)** |
+
 ---
 
 ## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 18/05/2026
@@ -1107,6 +1113,39 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 3. 📧 **Configurar e-mail marketing** — Resend + webhooks Stripe; e-mails prontos em `05-08`, `05-14`, `05-15`
 4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
 5. ⚠️ **Deploy antes de 5 de agosto** — CON 2026 (Conta Azul); Omie agente generativo em roadmap (janela ~3–5 meses)
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (18/05/2026)
+
+Todas as seções core + complementares + conversão + tráfego pago + inside sales + pós-venda + checkout + retenção + recuperação de leads + crescimento viral + onboarding + upsell in-app concluídas.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- **Copy Upsell in-App — 3 modais de upgrade + banners + tokens dev ✅** ← novo (noite 18/05)
+
+**Próximo passo:** Implementação no código (dev) + Stripe + gravação do VSL.
+
+---
+
+## PRÓXIMOS PASSOS (18/05/2026 — pós turno noite)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente
+2. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; modais de upsell prontos em `05-18`
+3. 🖥️ **Implementar `<UpsellModal>`** — 3 variantes prontas em `outputs/2026-05-18/pagina-vendas-secao.md`; tokens dev incluídos
+4. 📧 **Configurar e-mail marketing** — Resend + webhooks Stripe; e-mails prontos em `05-08`, `05-14`, `05-15`
+5. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–5 meses)
+
+---
+
+*Última atualização: 18/05/2026 — Turno da noite (Bella)*
 
 ---
 
