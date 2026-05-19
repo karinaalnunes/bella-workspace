@@ -1149,4 +1149,48 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
+## HISTÓRICO — 19/05/2026
+
+| **2026-05-19** | **Noite** | **Copy Upsell Pro → Business (5 peças: 2 modais in-app + banner 3 variantes + e-mail 60d + tokens dev), Outline YouTube Ep.31 (DRE e Benchmarking Setorial)** |
+
+### Noite 19/05
+| Copy Upsell Pro → Business (modais + banner + e-mail + tokens dev) | ✅ Concluído | `outputs/2026-05-19/pagina-vendas-secao.md` |
+| Ep.31 YouTube (DRE e Benchmarking: Sua empresa está indo bem ou só sobrevivendo?) | ✅ Concluído | `outputs/2026-05-19/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (19/05/2026)
+
+Todas as seções core + complementares + conversão + tráfego pago + inside sales + pós-venda + checkout + retenção + recuperação + crescimento viral + onboarding + upsell Free→Pro + upsell Pro→Business concluídas.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro (3 modais + banners + tokens dev) ✅
+- **Copy Upsell in-App Pro→Business (2 modais + 3 variantes banner + e-mail 60d + tokens dev) ✅** ← novo (noite 19/05)
+
+**Próximo passo:** Implementação no código (dev) + Stripe + gravação do VSL.
+
+---
+
+## PRÓXIMOS PASSOS (19/05/2026 — pós turno noite)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+2. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; modais Free→Pro em `05-18`; modais Pro→Business em `05-19`
+3. 🖥️ **Implementar `<UpsellModalBusiness>`** — 2 variantes prontas em `outputs/2026-05-19/pagina-vendas-secao.md`; tokens dev incluídos
+4. 📧 **Configurar e-mail marketing** — e-mail de upgrade 60d pronto em `05-19`; Resend + webhooks Stripe
+5. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 19/05/2026 — Turno da noite (Bella)*
+
+---
+
 *Bella — Assistente Autônoma Máxima Finance IA*
