@@ -1196,13 +1196,21 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 ## HISTÓRICO — 20/05/2026
 
 | **2026-05-20** | **Manhã** | **Post Instagram (resultado financeiro negativo — o roubo legal no DRE, carrossel 5 slides), Relatório matutino** |
+| **2026-05-20** | **Tarde** | **Reel concept v29 (você sabe quanto vai sobrar no dia 30?), Concorrentes v29 (Omie IA fiscal + campanha IA, Conta Azul CON ago, Treasy enterprise), LinkedIn post v28 (3 perguntas que o DRE responde)** |
 
 ### Instagram
 | Post manhã 20/05 | ✅ Concluído | `outputs/2026-05-20/instagram-post-manha.md` |
+| Reel concept v29 | ✅ Concluído | `outputs/2026-05-20/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v28 | ✅ Concluído | `outputs/2026-05-20/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v29 | ✅ Concluído | `outputs/2026-05-20/concorrentes.md` |
 
 ---
 
-## PRÓXIMOS PASSOS (20/05/2026 — turno manhã)
+## PRÓXIMOS PASSOS (20/05/2026 — turno tarde)
 
 1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
 2. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; modais Free→Pro em `05-18`; modais Pro→Business em `05-19`
@@ -1212,7 +1220,7 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-*Última atualização: 20/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 20/05/2026 — Turno da tarde (Bella)*
 
 ---
 
