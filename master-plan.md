@@ -1193,4 +1193,27 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
+## HISTÓRICO — 20/05/2026
+
+| **2026-05-20** | **Manhã** | **Post Instagram (resultado financeiro negativo — o roubo legal no DRE, carrossel 5 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 20/05 | ✅ Concluído | `outputs/2026-05-20/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (20/05/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; modais Free→Pro em `05-18`; modais Pro→Business em `05-19`
+3. 📧 **Configurar e-mail marketing (Resend)** — e-mails de ativação (`05-08`), retenção (`05-14`), carrinho abandonado (`05-15`), upgrade 60d (`05-19`) prontos; conectar via webhooks Stripe
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 20/05/2026 — Turno da manhã (Bella)*
+
+---
+
 *Bella — Assistente Autônoma Máxima Finance IA*
