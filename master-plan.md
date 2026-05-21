@@ -1305,7 +1305,47 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-*Última atualização: 21/05/2026 — Turno da tarde (Bella)*
+| **2026-05-21** | **Noite** | **Sequência de Pré-Lançamento / Waitlist (página de espera + 3 e-mails D-14/D-7/D-1 + tokens Supabase + Resend), Outline YouTube Ep.33 (DRE Mensal vs. DRE Acumulado)** |
+
+### Noite 21/05
+| Sequência de Pré-Lançamento / Waitlist (copy + e-mails + tokens dev) | ✅ Concluído | `outputs/2026-05-21/pagina-vendas-secao.md` |
+| Ep.33 YouTube (DRE Mensal vs. DRE Acumulado — o erro que faz comemorar na hora errada) | ✅ Concluído | `outputs/2026-05-21/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (21/05/2026)
+
+Todas as seções core + complementares + conversão + tráfego pago + inside sales + pós-venda + checkout + retenção + recuperação + crescimento viral + onboarding + upsell + webinar + pré-lançamento concluídas.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro (3 modais + banners) ✅
+- Copy Upsell in-App Pro→Business (2 modais + 3 variantes banner + e-mail) ✅
+- Script de Webinar / Aula ao Vivo (60–75 min + e-mails pós-webinar + captação) ✅
+- **Sequência de Pré-Lançamento / Waitlist (página VIP + 3 e-mails D-14/D-7/D-1 + tokens Supabase + Resend) ✅** ← novo (noite 21/05)
+
+**Próximo passo:** Publicar waitlist agora → agendar webinar (semana 02–06/jun) → finalizar DashboardPage → deploy.
+
+---
+
+## PRÓXIMOS PASSOS (21/05/2026 — pós turno noite)
+
+1. 🚀 **Publicar página de waitlist** — copy pronto em `05-21`; deploy imediato em `maximafinance.com.br/lista-vip`; tabela `waitlist` no Supabase + Edge Function Resend
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+3. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; modais Free→Pro em `05-18`; modais Pro→Business em `05-19`
+4. 🎓 **Agendar webinar** — data sugerida: 03 ou 04/jun; roteiro em `05-20`; disparo e-mail de convite para lista waitlist após publicar
+5. 📧 **Configurar e-mail marketing (Resend)** — conectar com webhooks Stripe; sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 21/05/2026 — Turno da noite (Bella)*
 
 ---
 
