@@ -1353,20 +1353,36 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-*Última atualização: 22/05/2026 — Turno da manhã (Bella)*
+*Última atualização: 22/05/2026 — Turno da tarde (Bella)*
 
 ---
 
 ## HISTÓRICO — 22/05/2026
 
 | **2026-05-22** | **Manhã** | **Post Instagram (armadilha do desconto de 10% — margem real no DRE), Relatório matutino** |
+| **2026-05-22** | **Tarde** | **Reel concept v31 (saldo ≠ lucro — urgência de fechamento de maio), Concorrentes v31 (Omie IA Fiscal + Cash, Conta Azul multi-CNPJ, Treasy enterprise), LinkedIn post v30 (resultado real vs. saldo do banco)** |
 
 ### Instagram
 | Post manhã 22/05 | ✅ Concluído | `outputs/2026-05-22/instagram-post-manha.md` |
+| Reel concept v31 | ✅ Concluído | `outputs/2026-05-22/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v30 | ✅ Concluído | `outputs/2026-05-22/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v31 | ✅ Concluído | `outputs/2026-05-22/concorrentes.md` |
 
 ---
 
-## PRÓXIMOS PASSOS (22/05/2026 — turno manhã)
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 22/05/2026
+
+**Omie:** IA Fiscal lançada e operacional (automatiza tributação + aprende com legislação). Omie Cash ativo (conta digital PJ + Pix + boletos integrados ao ERP). Agente generativo ainda em roadmap — janela da Máxima: **3–4 meses**.
+**Conta Azul AI Captura:** Multi-CNPJ via grupos de WhatsApp operacional para BPO. Captura documentos → sugere lançamento. Não interpreta DRE. **CON 2026: 5–6/ago, São Paulo** — risco de anúncio de expansão para empresário final.
+**Treasy:** Kit de Planejamento Orçamentário 2026 + metodologia FP&A enterprise (OBZ, simulação de cenários). Sem IA generativa identificada. Foco 100% enterprise. Gap de PME da Máxima totalmente intacto.
+
+---
+
+## PRÓXIMOS PASSOS (22/05/2026 — turno tarde)
 
 1. 🚀 **Publicar página de waitlist** — copy pronto em `05-21`; deploy em `maximafinance.com.br/lista-vip`; tabela `waitlist` no Supabase + Edge Function Resend (URGENTE — cada dia sem lista é lead perdido)
 2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
