@@ -1390,3 +1390,48 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 4. 🎓 **Agendar webinar** — data sugerida: 03 ou 04/jun; roteiro completo em `05-20`; disparar convite para waitlist logo após publicar
 5. 📧 **Configurar e-mail marketing (Resend)** — e-mails prontos em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`; conectar via webhooks Stripe
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+| **2026-05-22** | **Noite** | **Kit Open Cart / Semana de Lançamento (5 e-mails + countdown stories + WhatsApp abertura + tokens dev + lógica Stripe/Supabase), Outline YouTube Ep.34 (Fechamento de Maio no DRE: 5 números que definem junho)** |
+
+### Noite 22/05
+| Kit Open Cart / Semana de Lançamento (5 e-mails + stories + WhatsApp + tokens dev) | ✅ Concluído | `outputs/2026-05-22/pagina-vendas-secao.md` |
+| Ep.34 YouTube (Fechamento de Maio no DRE: Os 5 Números que Vão Definir Seu Junho) | ✅ Concluído | `outputs/2026-05-22/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (22/05/2026)
+
+Todas as seções core + complementares + conversão + tráfego pago + inside sales + pós-venda + checkout + retenção + recuperação + crescimento viral + onboarding + upsell + webinar + pré-lançamento + open cart concluídas.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro (3 modais + banners) ✅
+- Copy Upsell in-App Pro→Business (2 modais + 3 variantes banner + e-mail) ✅
+- Script de Webinar / Aula ao Vivo (60–75 min + e-mails pós-webinar + captação) ✅
+- Sequência de Pré-Lançamento / Waitlist (página VIP + 3 e-mails D-14/D-7/D-1 + tokens dev) ✅
+- **Kit Open Cart / Semana de Lançamento (5 e-mails + countdown stories + WhatsApp + tokens dev) ✅** ← novo (noite 22/05)
+
+**Próximo passo:** Publicar waitlist AGORA → agendar webinar 03/jun → finalizar DashboardPage → deploy → lançar Open Cart na semana de 03/jun.
+
+---
+
+## PRÓXIMOS PASSOS (22/05/2026 — pós turno noite)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (cada dia sem lista = lead perdido antes do lançamento)
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — define data de deploy)
+3. 🎓 **Confirmar webinar para 03 ou 04/jun** — roteiro completo em `05-20`; página de captação + Zoom + disparo de e-mail para waitlist
+4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; kit Open Cart completo em `05-22`
+5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`; conectar via webhooks Stripe
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 22/05/2026 — Turno da noite (Bella)*
