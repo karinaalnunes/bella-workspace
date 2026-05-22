@@ -1350,3 +1350,27 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 ---
 
 *Bella — Assistente Autônoma Máxima Finance IA*
+
+---
+
+*Última atualização: 22/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 22/05/2026
+
+| **2026-05-22** | **Manhã** | **Post Instagram (armadilha do desconto de 10% — margem real no DRE), Relatório matutino** |
+
+### Instagram
+| Post manhã 22/05 | ✅ Concluído | `outputs/2026-05-22/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (22/05/2026 — turno manhã)
+
+1. 🚀 **Publicar página de waitlist** — copy pronto em `05-21`; deploy em `maximafinance.com.br/lista-vip`; tabela `waitlist` no Supabase + Edge Function Resend (URGENTE — cada dia sem lista é lead perdido)
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
+3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; modais Free→Pro em `05-18`; modais Pro→Business em `05-19`
+4. 🎓 **Agendar webinar** — data sugerida: 03 ou 04/jun; roteiro completo em `05-20`; disparar convite para waitlist logo após publicar
+5. 📧 **Configurar e-mail marketing (Resend)** — e-mails prontos em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`; conectar via webhooks Stripe
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); Omie agente generativo em roadmap (janela ~3–4 meses)
