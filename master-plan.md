@@ -1445,13 +1445,47 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 ### Instagram
 | Post manhã 23/05 | ✅ Concluído | `outputs/2026-05-23/instagram-post-manha.md` |
 
+### Noite 23/05
+| Página de Confirmação do Webinar + Sequência de Lembretes (D-2/D-1/Dia D + WhatsApp) | ✅ Concluído | `outputs/2026-05-23/pagina-vendas-secao.md` |
+| Ep.35 YouTube (Ritual de Fechamento de Maio: 5 passos para preparar junho com o DRE) | ✅ Concluído | `outputs/2026-05-23/youtube-outline.md` |
+
+| **2026-05-23** | **Noite** | **Página de Confirmação do Webinar + 3 e-mails de lembrete (D-2/D-1/Dia D) + WhatsApp Dia D, Outline YouTube Ep.35 (Ritual de Fechamento de Maio — 5 passos com DRE)** |
+
 ---
 
-## PRÓXIMOS PASSOS (23/05/2026 — turno manhã)
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (23/05/2026)
+
+Todas as seções core + complementares + conversão + tráfego pago + inside sales + pós-venda + checkout + retenção + recuperação + crescimento viral + onboarding + upsell + webinar + pré-lançamento + open cart + confirmação de webinar concluídas.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro (3 modais + banners) ✅
+- Copy Upsell in-App Pro→Business (2 modais + 3 variantes banner + e-mail) ✅
+- Script de Webinar / Aula ao Vivo (60–75 min + e-mails pós-webinar + captação) ✅
+- Sequência de Pré-Lançamento / Waitlist (página VIP + 3 e-mails D-14/D-7/D-1 + tokens dev) ✅
+- Kit Open Cart / Semana de Lançamento (5 e-mails + countdown stories + WhatsApp + tokens dev) ✅
+- **Página de Confirmação do Webinar + Lembretes D-2/D-1/Dia D + WhatsApp ✅** ← novo (noite 23/05)
+
+**Próximo passo:** Publicar waitlist AGORA → agendar webinar 03/jun → finalizar DashboardPage → deploy.
+
+---
+
+## PRÓXIMOS PASSOS (23/05/2026 — turno noite)
 
 1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (cada dia sem lista = lead perdido antes do webinar de 03/jun)
 2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — janela fechando com webinar em 03/jun)
 3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; kit Open Cart completo em `05-22`
-4. 🎓 **Confirmar webinar para 03 ou 04/jun** — roteiro completo em `05-20`; disparar convite para waitlist logo após publicar
-5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`; conectar via webhooks Stripe
-6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 74 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+4. 🎓 **Configurar página de confirmação do webinar** — copy + sequência D-2/D-1/Dia D pronta em `05-23`; tokens Supabase + Resend incluídos; WhatsApp Dia D às 19h30 pronto
+5. 🎬 **Publicar Ep.35 YouTube na semana de 02/jun** — outline completo em `05-23`; corte 60s para Reels; carrossel LinkedIn com os 5 passos do ritual
+6. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`; conectar via webhooks Stripe
+7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 74 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 23/05/2026 — Turno da noite (Bella)*
