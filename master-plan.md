@@ -1488,4 +1488,28 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
+*Última atualização: 24/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 24/05/2026
+
+| **2026-05-24** | **Manhã** | **Post Instagram (3 alertas que o DRE emite toda semana — carrossel 5 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 24/05 | ✅ Concluído | `outputs/2026-05-24/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (24/05/2026 — turno manhã)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em 10 dias — 03/jun)
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
+3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; modais Free→Pro em `05-18`; modais Pro→Business em `05-19`
+4. 🎓 **Confirmar webinar para 03 ou 04/jun** — configurar página de confirmação (`05-23`) + Zoom + disparo e-mail para waitlist após publicar
+5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`; conectar via webhooks Stripe
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
 *Última atualização: 23/05/2026 — Turno da noite (Bella)*
