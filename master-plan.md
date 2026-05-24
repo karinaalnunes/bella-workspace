@@ -1512,4 +1512,42 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
+*Última atualização: 24/05/2026 — Turno da tarde (Bella)*
+
+---
+
+## HISTÓRICO — 24/05/2026 (continuação)
+
+| **2026-05-24** | **Tarde** | **Reel concept v32 (3 números que separam empresas que crescem das que sobrevivem), Concorrentes v32 (Omie App BI convergência detectada, Conta Azul CON 5–6/ago, Treasy enterprise), LinkedIn post v31 (Faturei. Mas sobrou quanto?)** |
+
+### Instagram
+| Reel concept v32 | ✅ Concluído | `outputs/2026-05-24/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v31 | ✅ Concluído | `outputs/2026-05-24/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v32 | ✅ Concluído | `outputs/2026-05-24/concorrentes.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 24/05/2026
+
+**Omie:** App BI para PME ativo com dashboards de gestão estratégica — **primeira convergência de território com a Máxima detectada**. IA Fiscal (alíquotas IBS/CBS) operacional. ERP via WhatsApp em produção. Agente generativo em roadmap. Janela da Máxima: **3–4 meses**.
+**Conta Azul:** AI Captura multi-CNPJ via grupos de WhatsApp (foco BPO). Não interpreta DRE. **CON 2026 confirmado: 5–6/ago, São Paulo** — 73 dias para o deploy da Máxima.
+**Treasy:** Kit FP&A 2026 + Jornada 4 dias + podcasts enterprise. Sem IA generativa para PME. Gap da Máxima 100% intacto.
+
+---
+
+## PRÓXIMOS PASSOS (24/05/2026 — turno tarde)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em 10 dias — 03/jun)
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
+3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+4. 🎓 **Confirmar webinar para 03 ou 04/jun** — página de confirmação + sequência D-2/D-1/Dia D pronta em `05-23`
+5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 73 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
 *Última atualização: 23/05/2026 — Turno da noite (Bella)*
