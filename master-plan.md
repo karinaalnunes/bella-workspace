@@ -1529,6 +1529,12 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 ### Inteligência Competitiva
 | Concorrentes v32 | ✅ Concluído | `outputs/2026-05-24/concorrentes.md` |
 
+### Noite 24/05
+| Anúncios de Captação para o Webinar (5 anúncios Meta Ads + segmentação + tokens dev) | ✅ Concluído | `outputs/2026-05-24/pagina-vendas-secao.md` |
+| Ep.36 YouTube (DRE para E-commerce: 4 indicadores — loja lucrativa vs. loja que sangra) | ✅ Concluído | `outputs/2026-05-24/youtube-outline.md` |
+
+| **2026-05-24** | **Noite** | **Anúncios de Captação para o Webinar (5 criativos Meta Ads prontos — dor/curiosidade/autoridade/urgência/objeção + segmentação + tokens dev), Outline YouTube Ep.36 (DRE para E-commerce: 4 indicadores que separam loja lucrativa da loja que sangra)** |
+
 ---
 
 ## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 24/05/2026
@@ -1539,15 +1545,15 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-## PRÓXIMOS PASSOS (24/05/2026 — turno tarde)
+## PRÓXIMOS PASSOS (24/05/2026 — pós turno noite)
 
-1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em 10 dias — 03/jun)
-2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
-3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
-4. 🎓 **Confirmar webinar para 03 ou 04/jun** — página de confirmação + sequência D-2/D-1/Dia D pronta em `05-23`
-5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`
-6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 73 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em **9 dias** — 03/jun)
+2. 📣 **Rodar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget sugerido R$ 60/dia × 9 dias = R$ 540; segmentação detalhada no arquivo
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
+4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; modais Free→Pro em `05-18`; modais Pro→Business em `05-19`
+5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`; conectar via webhooks Stripe
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 72 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
 
 ---
 
-*Última atualização: 23/05/2026 — Turno da noite (Bella)*
+*Última atualização: 24/05/2026 — Turno da noite (Bella)*
