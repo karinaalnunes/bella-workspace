@@ -1580,4 +1580,38 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 
 ---
 
-*Última atualização: 24/05/2026 — Turno da noite (Bella)*
+*Última atualização: 25/05/2026 — Turno da tarde (Bella)*
+
+---
+
+## HISTÓRICO — 25/05/2026 (continuação)
+
+| **2026-05-25** | **Tarde** | **Reel concept v33 (metade do ano passou — você sabe se tá lucrando?), Concorrentes v33 (Omie IA preditiva + agente generativo roadmap, Conta Azul AI Captura lançamentos simples, Treasy enterprise), LinkedIn post v32 (37 dias para fechar o semestre)** |
+
+### Instagram
+| Reel concept v33 | ✅ Concluído | `outputs/2026-05-25/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v32 | ✅ Concluído | `outputs/2026-05-25/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v33 | ✅ Concluído | `outputs/2026-05-25/concorrentes.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 25/05/2026
+
+**Omie:** IA preditiva de inadimplência declarada no roadmap 2026 (com base em volume de dados do ERP). Agente generativo como prioridade #1. ERP via WhatsApp em produção. US$100M aporte (Partners Group). App BI para PME ativo — convergência com território da Máxima. Janela: **3–4 meses**.
+**Conta Azul:** Conta AI Captura expande com IA para lançamentos financeiros (linguagem simples → sugestão de lançamento). Não interpreta DRE. CON 2026 em **5–6/ago, São Paulo** — 72 dias para o deploy da Máxima.
+**Treasy:** FP&A Summit enterprise (12–13/mai) confirmou foco em CFOs/controllers — zero iniciativa para PME sem gestor financeiro. Gap da Máxima 100% intacto.
+
+---
+
+## PRÓXIMOS PASSOS (25/05/2026 — turno tarde)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em **9 dias** — 03/jun)
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — meses em aberto)
+3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; modais Free→Pro em `05-18`; modais Pro→Business em `05-19`
+4. 📣 **Rodar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 9 dias = R$ 540; segmentação detalhada no arquivo
+5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`; conectar via webhooks Stripe
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 72 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
