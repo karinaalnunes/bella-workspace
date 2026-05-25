@@ -1615,3 +1615,50 @@ Todas as seções core + complementares + conversão + tráfego pago + inside sa
 4. 📣 **Rodar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 9 dias = R$ 540; segmentação detalhada no arquivo
 5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`; conectar via webhooks Stripe
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 72 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 25/05/2026 — Turno da noite (Bella)*
+
+---
+
+## HISTÓRICO — 25/05/2026 (noite)
+
+| **2026-05-25** | **Noite** | **Replay Page / Oferta de 48h pós-webinar (copy completo + 2 e-mails + tokens dev), Outline YouTube Ep.37 (Como Fechar Maio no DRE em Menos de 1 Hora)** |
+
+### Noite 25/05
+| Replay Page + Oferta 48h pós-webinar (copy + e-mails + tokens dev) | ✅ Concluído | `outputs/2026-05-25/pagina-vendas-secao.md` |
+| Ep.37 YouTube (Como Fechar Maio no DRE em Menos de 1 Hora) | ✅ Concluído | `outputs/2026-05-25/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (25/05/2026)
+
+Funil do webinar agora 100% coberto: captação → confirmação → lembretes → ao vivo → replay → close 48h.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- **Replay Page + Oferta 48h pós-webinar (copy + 2 e-mails + tokens dev) ✅** ← novo (noite 25/05)
+
+**Próximo passo:** Publicar waitlist AGORA → rodar anúncios → finalizar DashboardPage → deploy.
+
+---
+
+## PRÓXIMOS PASSOS (25/05/2026 — pós turno noite)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em **9 dias** — 03/jun)
+2. 📣 **Rodar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 9 dias = R$ 540
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+5. 🎬 **Publicar Ep.37 YouTube na semana de 02/jun** — outline completo em `05-25`; corte 60s para Reels
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 72 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
