@@ -1723,4 +1723,47 @@ Funil do webinar agora 100% coberto: captação → confirmação → lembretes 
 
 ---
 
-*Última atualização: 26/05/2026 — Turno da tarde (Bella)*
+| **2026-05-26** | **Noite** | **Sequência "No-Show" / Não Apareceu (4 e-mails + 2 WhatsApp + tokens dev — para inscritos que faltaram ao webinar), Outline YouTube Ep.38 (Quanto Custa Cada Cliente no DRE)** |
+
+### Noite 26/05
+| Sequência No-Show — Não Apareceu (4 e-mails + 2 WhatsApp + tokens Supabase/Resend) | ✅ Concluído | `outputs/2026-05-26/pagina-vendas-secao.md` |
+| Ep.38 YouTube (Quanto Custa Cada Cliente? O Número que o DRE Esconde) | ✅ Concluído | `outputs/2026-05-26/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (26/05/2026 — noite)
+
+Funil do webinar 100% coberto: captação → confirmação → lembretes → ao vivo → replay → close 48h → **recuperação de no-shows ✅**.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅
+- **Sequência No-Show / Não Apareceu (4 e-mails + 2 WhatsApp + tokens dev) ✅** ← novo (noite 26/05)
+
+**Próximo passo:** Publicar waitlist AGORA → rodar anúncios → finalizar DashboardPage → deploy.
+
+---
+
+## PRÓXIMOS PASSOS (26/05/2026 — pós turno noite)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em **8 dias** — 03/jun)
+2. 📣 **Rodar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 8 dias = R$ 480
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+5. 🔔 **Implementar sequência No-Show** — tokens Supabase + Resend prontos em `05-26`; ativar gatilho `attended = false` 2h após fim do webinar (03/jun ~22h)
+6. 🎬 **Publicar Ep.38 YouTube semana de 02/jun** — outline completo em `05-26`; corte 60s para Reels; carrossel LinkedIn
+7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 71 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 26/05/2026 — Turno da noite (Bella)*
