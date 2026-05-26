@@ -1662,3 +1662,27 @@ Funil do webinar agora 100% coberto: captação → confirmação → lembretes 
 4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
 5. 🎬 **Publicar Ep.37 YouTube na semana de 02/jun** — outline completo em `05-25`; corte 60s para Reels
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 72 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 26/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 26/05/2026
+
+| **2026-05-26** | **Manhã** | **Post Instagram (segunda começa no DRE — 3 decisões com os números na mão, carrossel 6 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 26/05 | ✅ Concluído | `outputs/2026-05-26/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (26/05/2026 — turno manhã)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em **8 dias** — 03/jun)
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
+3. 📣 **Rodar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 8 dias = R$ 480; segmentação no arquivo
+4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`; conectar via webhooks Stripe
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 71 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
