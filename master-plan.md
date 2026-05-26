@@ -1686,3 +1686,41 @@ Funil do webinar agora 100% coberto: captação → confirmação → lembretes 
 4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
 5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`; conectar via webhooks Stripe
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 71 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+## HISTÓRICO — 26/05/2026 (continuação)
+
+| **2026-05-26** | **Tarde** | **Reel concept v34 (qual dia do mês sua empresa começa a lucrar?), Concorrentes v34 (Omie agente generativo + ERP WhatsApp produção, Conta Azul AI Captura multi-CNPJ, Treasy enterprise), LinkedIn post v33 (ponto de equilíbrio no tempo)** |
+
+### Instagram
+| Reel concept v34 | ✅ Concluído | `outputs/2026-05-26/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v33 | ✅ Concluído | `outputs/2026-05-26/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v34 | ✅ Concluído | `outputs/2026-05-26/concorrentes.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 26/05/2026
+
+**Treasy:** FP&A enterprise confirmado (CFOs, controllers). Kit Planejamento 2026. Sem IA generativa para PME. Gap da Máxima 100% intacto.
+**Conta Azul:** AI Captura multi-CNPJ via grupos de WhatsApp (foco BPO). Captura documentos → sugere lançamento. Não interpreta DRE. **CON 2026: 5–6/ago, São Paulo** — 71 dias para o deploy da Máxima.
+**Omie:** ERP 100% operável via WhatsApp (texto + voz) em produção com ~1.000 clientes beta. Agente generativo como prioridade #1 de 2026. IA preditiva de inadimplência no roadmap. US$100M aporte. Ainda não interpreta DRE. Janela da Máxima: **3–4 meses**.
+
+---
+
+## PRÓXIMOS PASSOS (26/05/2026 — turno tarde)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em **8 dias** — 03/jun)
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
+3. 📣 **Rodar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 8 dias = R$ 480
+4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`; conectar via webhooks Stripe
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 71 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 26/05/2026 — Turno da tarde (Bella)*
