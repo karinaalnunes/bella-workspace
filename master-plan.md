@@ -1791,3 +1791,40 @@ Funil do webinar 100% coberto: captação → confirmação → lembretes → ao
 4. 📣 **Rodar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 7 dias = R$ 420
 5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`, `05-26`; conectar via webhooks Stripe
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 70 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 27/05/2026 — Turno da tarde (Bella)*
+
+---
+
+## HISTÓRICO — 27/05/2026
+
+| **2026-05-27** | **Tarde** | **Reel concept v27 (crescimento que empobrece — faturou mais, sobrou menos), Concorrentes v27 (Omie IA para insights fiscais 2026, Conta Azul AI Captura WhatsApp, Treasy enterprise confirmado), LinkedIn post v26 (terceirizar finanças para o contador — o erro silencioso)** |
+
+### Instagram
+| Reel concept v27 | ✅ Concluído | `outputs/2026-05-27/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v26 | ✅ Concluído | `outputs/2026-05-27/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v27 | ✅ Concluído | `outputs/2026-05-27/concorrentes.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 27/05/2026
+
+**Treasy:** FP&A Summit (12–13/mai) enterprise confirmado. Artigo de BI para PME publicado — sinal de conteúdo, não produto. Nenhuma iniciativa de IA para PME. Gap da Máxima mantido.
+**Conta Azul:** AI Captura WhatsApp + e-mail operacional (extração de documentos, não interpretação de DRE). CON 2026 em 5–6/ago. Adquirida pela Visma 2025; ecossistema expandindo (MaisMei).
+**Omie:** Estratégia 2026 declarada = dobrar no WhatsApp + IA para insights fiscais. Generative agent no roadmap. Meta: 1M clientes/2030, US$1B receita. Janela da Máxima: **3–4 meses**.
+
+---
+
+## PRÓXIMOS PASSOS (27/05/2026 — pós turno tarde)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; webinar em **7 dias** (03/jun); cada dia sem lista = inscrito perdido
+2. 🔥 **Finalizar DashboardPage** — gargalo crítico do lançamento
+3. 💳 **Criar produtos no Stripe** (15 min) — copy em `05-13`
+4. 📣 **Ativar anúncios de captação do webinar** — 5 criativos prontos em `05-24`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 70 dias); Omie IA em roadmap (janela ~3–4 meses)
