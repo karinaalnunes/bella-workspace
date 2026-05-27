@@ -1794,13 +1794,14 @@ Funil do webinar 100% coberto: captação → confirmação → lembretes → ao
 
 ---
 
-*Última atualização: 27/05/2026 — Turno da tarde (Bella)*
+*Última atualização: 27/05/2026 — Turno da noite (Bella)*
 
 ---
 
 ## HISTÓRICO — 27/05/2026
 
 | **2026-05-27** | **Tarde** | **Reel concept v27 (crescimento que empobrece — faturou mais, sobrou menos), Concorrentes v27 (Omie IA para insights fiscais 2026, Conta Azul AI Captura WhatsApp, Treasy enterprise confirmado), LinkedIn post v26 (terceirizar finanças para o contador — o erro silencioso)** |
+| **2026-05-27** | **Noite** | **Copy Anti-Churn / Cancelamento — Sequência de Salvamento (modal 3 passos + 5 variantes + 3 e-mails + WhatsApp + tokens dev Stripe/Supabase/Resend), Outline YouTube Ep.39 (DRE de Maio Fechado: balanço em 30 minutos + checklist)** |
 
 ### Instagram
 | Reel concept v27 | ✅ Concluído | `outputs/2026-05-27/reel-concept.md` |
@@ -1810,6 +1811,44 @@ Funil do webinar 100% coberto: captação → confirmação → lembretes → ao
 
 ### Inteligência Competitiva
 | Concorrentes v27 | ✅ Concluído | `outputs/2026-05-27/concorrentes.md` |
+
+### Noite 27/05
+| Copy Anti-Churn / Cancelamento (modal 3 passos + 5 variantes + e-mails + WhatsApp + tokens dev) | ✅ Concluído | `outputs/2026-05-27/pagina-vendas-secao.md` |
+| Ep.39 YouTube (DRE de Maio Fechado: balanço em 30 min + checklist) | ✅ Concluído | `outputs/2026-05-27/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (27/05/2026)
+
+Funil completo + recuperação de churn coberta.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅ | Sequência No-Show ✅
+- **Copy Anti-Churn / Cancelamento (modal 3 passos + 5 variantes + 3 e-mails + WhatsApp + tokens dev) ✅** ← novo (noite 27/05)
+
+**Próximo passo:** Publicar waitlist AGORA → finalizar DashboardPage → deploy → lançar Open Cart na semana do webinar (03/jun).
+
+---
+
+## PRÓXIMOS PASSOS (27/05/2026 — pós turno noite)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; webinar em **7 dias** (03/jun) — cada dia sem lista = inscrito perdido
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento — semanas em aberto)
+3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; **implementar `<CancelModal>`** com tokens prontos em `05-27`
+4. 📣 **Ativar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 7 dias = R$ 420
+5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`, `05-26`, `05-27`; conectar via webhooks Stripe
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 70 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
 
 ---
 
