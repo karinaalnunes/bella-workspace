@@ -1877,17 +1877,34 @@ Funil completo + recuperação de churn coberta.
 ## HISTÓRICO — 28/05/2026
 
 | **2026-05-28** | **Manhã** | **Post Instagram (última semana de maio — projeção de resultado com o DRE, carrossel 6 slides), Relatório matutino** |
+| **2026-05-28** | **Tarde** | **Reel concept v28 (maio fechou — a verdade aparece no DRE), Concorrentes v28 (Treasy enterprise, Conta Azul AI Captura CON 2026, Omie agente generativo + IA preditiva), LinkedIn post v28 (margem líquida: o número que define junho)** |
 
 ### Instagram
 | Post manhã 28/05 | ✅ Concluído | `outputs/2026-05-28/instagram-post-manha.md` |
+| Reel concept v28 | ✅ Concluído | `outputs/2026-05-28/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v28 | ✅ Concluído | `outputs/2026-05-28/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v28 | ✅ Concluído | `outputs/2026-05-28/concorrentes.md` |
 
 ---
 
-## PRÓXIMOS PASSOS (28/05/2026 — turno manhã)
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 28/05/2026
 
-1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; `maximafinance.com.br/lista-vip`; tabela `waitlist` Supabase + Edge Function Resend (webinar em **6 dias** — 03/jun)
-2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento — semanas em aberto)
-3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; `<CancelModal>` tokens prontos em `05-27`
+**Treasy:** FP&A enterprise consolidado. Zero movimento para PME. Gap da Máxima mantido.
+**Conta Azul:** AI Captura multi-CNPJ via WhatsApp operacional (BPO). Não interpreta DRE. **CON 2026: 5–6/ago, São Paulo — 68 dias para o deploy da Máxima.**
+**Omie:** ERP via WhatsApp em produção (1.000+ beta). Agente generativo como prioridade #1 de 2026. IA preditiva de inadimplência anunciada. US$100M aporte (Partners Group). Ainda não interpreta DRE. Janela da Máxima: **3–4 meses**.
+
+---
+
+## PRÓXIMOS PASSOS (28/05/2026 — turno tarde)
+
+1. 🚀 **Publicar página de waitlist AGORA** — copy em `05-21`; webinar em **6 dias** (03/jun); cada dia sem lista = inscrito perdido
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
 4. 📣 **Ativar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 6 dias = R$ 360
-5. 📧 **Configurar Resend** — sequências prontas em `05-08`, `05-14`, `05-15`, `05-20`, `05-21`, `05-22`, `05-23`, `05-26`, `05-27`; conectar via webhooks Stripe
-6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 69 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 68 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+*Última atualização: 28/05/2026 — Turno da tarde (Bella)*
