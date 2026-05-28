@@ -1908,3 +1908,50 @@ Funil completo + recuperação de churn coberta.
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 68 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
 
 *Última atualização: 28/05/2026 — Turno da tarde (Bella)*
+
+---
+
+| **2026-05-28** | **Noite** | **Seção "Canal de Contadores / Parceiros B2B" (página de vendas — posicionamento parceria, comissões, tokens dev Supabase/Stripe/Resend), Outline YouTube Ep.40 (DRE de Junho: como planejar o primeiro mês do segundo semestre)** |
+
+### Noite 28/05
+| Seção "Canal de Contadores / Parceiros B2B" (copy completo + tokens dev + métricas) | ✅ Concluído | `outputs/2026-05-28/pagina-vendas-secao.md` |
+| Ep.40 YouTube (DRE de Junho: Como Planejar o Primeiro Mês do Segundo Semestre) | ✅ Concluído | `outputs/2026-05-28/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (28/05/2026)
+
+Funil completo + recuperação de churn + canal de parceiros cobertos.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅ | Sequência No-Show ✅
+- Copy Anti-Churn / Cancelamento ✅
+- **Canal de Contadores / Parceiros B2B (copy + tokens dev + métricas) ✅** ← novo (noite 28/05)
+
+**Próximo passo:** Publicar waitlist AGORA → finalizar DashboardPage → deploy → webinar 03/jun → implementar `/parceiros`.
+
+---
+
+## PRÓXIMOS PASSOS (28/05/2026 — pós turno noite)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; webinar em **6 dias** (03/jun); cada dia sem lista = inscrito perdido
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+3. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+4. 📣 **Ativar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 6 dias = R$ 360
+5. 🤝 **Implementar página de parceiros `/parceiros`** — copy + tokens prontos em `05-28`; tabelas `partners` e `partner_referrals` no Supabase
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 68 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 28/05/2026 — Turno da noite (Bella)*
