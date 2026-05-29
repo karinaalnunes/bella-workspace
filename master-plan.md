@@ -1955,3 +1955,27 @@ Funil completo + recuperação de churn + canal de parceiros cobertos.
 ---
 
 *Última atualização: 28/05/2026 — Turno da noite (Bella)*
+
+---
+
+*Última atualização: 29/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 29/05/2026
+
+| **2026-05-29** | **Manhã** | **Post Instagram (sexta de apuração — 3 números do DRE que definem se junho vai ser tranquilo ou apertado, carrossel 5 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 29/05 | ✅ Concluído | `outputs/2026-05-29/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (29/05/2026 — turno manhã)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; webinar em **5 dias** (03/jun); cada dia sem lista = inscrito perdido
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+3. 📣 **Ativar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 5 dias = R$ 300
+4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+5. 🤝 **Implementar página de parceiros `/parceiros`** — copy + tokens prontos em `05-28`; tabelas `partners` e `partner_referrals` no Supabase
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 68 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
