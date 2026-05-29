@@ -1965,17 +1965,22 @@ Funil completo + recuperação de churn + canal de parceiros cobertos.
 ## HISTÓRICO — 29/05/2026
 
 | **2026-05-29** | **Manhã** | **Post Instagram (sexta de apuração — 3 números do DRE que definem se junho vai ser tranquilo ou apertado, carrossel 5 slides), Relatório matutino** |
+| **2026-05-29** | **Noite** | **Semana de Aquecimento Pré-Webinar (D-5 a D-1 — Stories + Feed + WhatsApp para a lista), Outline YouTube Ep.41 (DRE e Férias de Julho: como não ser pego de surpresa pela queda de faturamento)** |
 
 ### Instagram
 | Post manhã 29/05 | ✅ Concluído | `outputs/2026-05-29/instagram-post-manha.md` |
 
+### Noite 29/05
+| Semana de Aquecimento Pré-Webinar (D-5 a D-1 — Stories + Feed + WhatsApp) | ✅ Concluído | `outputs/2026-05-29/pagina-vendas-secao.md` |
+| Ep.41 YouTube (DRE e Férias de Julho: Como Não Ser Pego de Surpresa pela Queda de Faturamento) | ✅ Concluído | `outputs/2026-05-29/youtube-outline.md` |
+
 ---
 
-## PRÓXIMOS PASSOS (29/05/2026 — turno manhã)
+## PRÓXIMOS PASSOS (29/05/2026 — pós turno noite)
 
-1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; webinar em **5 dias** (03/jun); cada dia sem lista = inscrito perdido
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; webinar em **4 dias** (03/jun); cada dia sem lista = inscrito perdido
 2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
-3. 📣 **Ativar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 5 dias = R$ 300
-4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
-5. 🤝 **Implementar página de parceiros `/parceiros`** — copy + tokens prontos em `05-28`; tabelas `partners` e `partner_referrals` no Supabase
-6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 68 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+3. 📣 **Ativar anúncios de captação do webinar** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 4 dias = R$ 240
+4. 💬 **Executar sequência de aquecimento WhatsApp** — mensagens D-5/D-3/D-1 prontas em `05-29`; enviar D-5 amanhã (30/05)
+5. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 67 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
