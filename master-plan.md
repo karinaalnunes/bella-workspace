@@ -2008,3 +2008,53 @@ Funil completo + recuperação de churn + canal de parceiros cobertos.
 4. 📣 **Ativar anúncios Meta Ads** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 4 dias = R$ 240 até o webinar
 5. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 66 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+## HISTÓRICO — 30/05/2026 (noite)
+
+| **2026-05-30** | **Noite** | **Kit D-Day — Guia Completo para o Dia do Webinar (checklist técnico + script de abertura + momentos de engajamento + 3 variantes de CTA ao vivo + rotina pós-live + tokens dev), Outline YouTube Ep.42 (DRE e Distribuição de Lucros: quando é seguro retirar dinheiro da empresa)** |
+
+### Noite 30/05
+| Kit D-Day — Guia Completo para o Dia do Webinar (03/jun) | ✅ Concluído | `outputs/2026-05-30/pagina-vendas-secao.md` |
+| Ep.42 YouTube (DRE e Distribuição de Lucros: quando é seguro retirar dinheiro) | ✅ Concluído | `outputs/2026-05-30/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (30/05/2026)
+
+Funil do webinar 100% coberto + operação D-Day documentada.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅ | Sequência No-Show ✅
+- Copy Anti-Churn / Cancelamento ✅ | Canal de Contadores / Parceiros B2B ✅
+- Semana de Aquecimento Pré-Webinar (D-5 a D-1) ✅
+- **Kit D-Day — Guia Completo para o Dia do Webinar (checklist + script + engajamento + CTA + tokens dev) ✅** ← novo (noite 30/05)
+
+**Próximo passo:** Executar D-Day em 03/jun com o kit completo → converter inscritos em clientes pagantes.
+
+---
+
+## PRÓXIMOS PASSOS (30/05/2026 — pós turno noite)
+
+1. 🚀 **Publicar página de waitlist AMANHÃ CEDO** — copy em `05-21`; webinar em **4 dias** (03/jun); cada hora sem lista = inscrito perdido antes do webinar
+2. 💬 **Disparar mensagem D-4 no WhatsApp** (31/05) — sequência de aquecimento pronta em `05-29`
+3. 📣 **Ativar anúncios Meta Ads** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 4 dias = R$ 240
+4. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+5. 📋 **Usar Kit D-Day no dia 03/jun** — guia completo em `05-30`; executar checklist técnico a partir das 16h; abertura às 20h
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 66 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 30/05/2026 — Turno da noite (Bella)*
