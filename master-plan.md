@@ -1984,3 +1984,27 @@ Funil completo + recuperação de churn + canal de parceiros cobertos.
 4. 💬 **Executar sequência de aquecimento WhatsApp** — mensagens D-5/D-3/D-1 prontas em `05-29`; enviar D-5 amanhã (30/05)
 5. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 67 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 30/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 30/05/2026
+
+| **2026-05-30** | **Manhã** | **Post Instagram (fechamento de maio — 3 números para apurar esse sábado, carrossel 5 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 30/05 | ✅ Concluído | `outputs/2026-05-30/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (30/05/2026 — turno manhã)
+
+1. 🚀 **Publicar página de waitlist AGORA** — webinar em **4 dias** (03/jun); copy em `05-21`; tabela `waitlist` no Supabase + Edge Function Resend (prioridade máxima)
+2. 💬 **Disparar mensagem D-5 no WhatsApp** — sequência de aquecimento do webinar pronta em `05-29`; hoje é o D-5, primeira mensagem deve sair hoje
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento — semanas em aberto)
+4. 📣 **Ativar anúncios Meta Ads** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 4 dias = R$ 240 até o webinar
+5. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 66 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
