@@ -2058,3 +2058,27 @@ Funil do webinar 100% coberto + operação D-Day documentada.
 ---
 
 *Última atualização: 30/05/2026 — Turno da noite (Bella)*
+
+---
+
+*Última atualização: 31/05/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 31/05/2026
+
+| **2026-05-31** | **Manhã** | **Post Instagram (último domingo de maio — 5 perguntas do DRE para fechar o mês, carrossel 7 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 31/05 | ✅ Concluído | `outputs/2026-05-31/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (31/05/2026 — turno manhã)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; webinar em **3 dias** (03/jun); cada hora sem lista = inscrito perdido
+2. 💬 **Disparar mensagem D-3 no WhatsApp** — sequência de aquecimento pré-webinar pronta em `05-29`; hoje é D-3
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico do lançamento)
+4. 📣 **Ativar anúncios Meta Ads** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 3 dias = R$ 180
+5. 📋 **Usar Kit D-Day no dia 03/jun** — guia completo em `05-30`; checklist técnico a partir das 16h; abertura às 20h
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 66 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
