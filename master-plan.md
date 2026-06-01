@@ -2065,6 +2065,10 @@ Funil do webinar 100% coberto + operação D-Day documentada.
 
 ---
 
+*Última atualização: 01/06/2026 — Turno da manhã (Bella)*
+
+---
+
 ## HISTÓRICO — 31/05/2026
 
 | **2026-05-31** | **Manhã** | **Post Instagram (último domingo de maio — 5 perguntas do DRE para fechar o mês, carrossel 7 slides), Relatório matutino** |
@@ -2125,3 +2129,23 @@ Funil do webinar 100% coberto + nurturing de longo prazo para leads frios adicio
 5. 🔔 **Implementar sequência de nurturing longo prazo** — tokens Supabase/Resend prontos em `05-31`; ativar gatilho após expiração da oferta 48h pós-webinar (05/jun ~20h)
 6. 🎬 **Publicar Ep.43 YouTube semana de 02/jun** — outline completo em `05-31`; corte 60s para Reels; carrossel LinkedIn com as 5 decisões
 7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 65 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+## HISTÓRICO — 01/06/2026
+
+| **2026-06-01** | **Manhã** | **Post Instagram (5 números do DRE do 1º semestre para checar agora — carrossel 7 slides), Relatório matutino** |
+
+### Instagram
+| Post manhã 01/06 | ✅ Concluído | `outputs/2026-06-01/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (01/06/2026 — turno manhã)
+
+1. 🚀 **Publicar página de waitlist HOJE** — copy em `05-21`; webinar em **2 dias** (03/jun); URGÊNCIA MÁXIMA — cada hora sem lista = inscrito perdido
+2. 💬 **Disparar mensagem D-2 no WhatsApp** — sequência de aquecimento pronta em `05-29`; hoje é D-2
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+4. 📣 **Ativar anúncios Meta Ads** — 5 criativos prontos em `05-24`; budget R$ 60/dia × 2 dias = R$ 120
+5. 📋 **Usar Kit D-Day no dia 03/jun** — guia completo em `05-30`; checklist técnico a partir das 16h; abertura às 20h
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 65 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
