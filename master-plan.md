@@ -2187,21 +2187,42 @@ Funil do webinar 100% coberto + nurturing de longo prazo + retargeting pós-webi
 - Kit D-Day — Guia Completo para o Dia do Webinar ✅
 - Sequência de Nurturing de Longo Prazo (3 e-mails D+30/D+60/D+90) ✅
 - **Sequência de Retargeting Pós-Webinar (5 anúncios Meta Ads D+1 a D+7 + segmentação + tokens dev) ✅** ← novo (noite 01/06)
+- **Oferta de Lançamento D-Day — Bônus Exclusivos do Webinar (slide de oferta + script CTA ao vivo + copy checkout + tokens Stripe + métricas) ✅** ← novo (noite 02/06)
 
-**Próximo passo:** Executar webinar 03/jun → ativar retargeting D+1 → converter leads → publicar Ep.44 na semana de 02/jun.
-
----
-
-## PRÓXIMOS PASSOS (01/06/2026 — pós turno noite)
-
-1. 🚀 **Publicar página de waitlist AMANHÃ CEDO** — copy em `05-21`; webinar em **2 dias** (03/jun); URGÊNCIA MÁXIMA
-2. 💬 **Disparar mensagem D-1 no WhatsApp** (02/jun) — sequência de aquecimento pronta em `05-29`
-3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
-4. 📋 **Executar Kit D-Day em 03/jun** — guia completo em `05-30`; checklist técnico a partir das 16h; abertura às 20h
-5. 📣 **Ativar Retargeting pós-webinar D+1** — 5 anúncios prontos em `06-01`; ativar em 04/jun logo após encerramento da oferta 48h; budget R$ 80/dia
-6. 🎬 **Publicar Ep.44 YouTube semana de 02/jun** — outline completo em `06-01`; corte 60s para Reels; carrossel LinkedIn com os 4 números do DRE do semestre
-7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 65 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+**Próximo passo:** Executar webinar 03/jun com Kit D-Day + oferta de lançamento → ativar retargeting D+1 → converter leads.
 
 ---
 
-*Última atualização: 01/06/2026 — Turno da noite (Bella)*
+## HISTÓRICO — 02/06/2026
+
+| **2026-06-02** | **Manhã** | **Post Instagram D-1 webinar ("Metade do ano passou — você sabe se lucrou?"), Relatório matutino** |
+| **2026-06-02** | **Noite** | **Oferta de Lançamento D-Day (slide de oferta + script CTA ao vivo + copy checkout + tokens Stripe), Outline YouTube Ep.45 (Folha de Pagamento no DRE: custo real da equipe)** |
+
+### Manhã 02/06
+| Post Instagram D-1 webinar | ✅ Concluído | `outputs/2026-06-02/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-02/relatorio-manha.md` |
+
+### Noite 02/06
+| Oferta de Lançamento D-Day (copy completo para o webinar) | ✅ Concluído | `outputs/2026-06-02/pagina-vendas-secao.md` |
+| Ep.45 YouTube (Folha de Pagamento no DRE: custo real da equipe) | ✅ Concluído | `outputs/2026-06-02/youtube-outline.md` |
+
+---
+
+### YouTube
+| Ep.44 — DRE do 2º Semestre: Como Ajustar o Que Não Funcionou | ✅ Concluído | `outputs/2026-06-01/youtube-outline.md` |
+| **Ep.45 — Folha de Pagamento no DRE: Quanto Seu Time Realmente Custa** | **✅ Concluído** | `outputs/2026-06-02/youtube-outline.md` |
+
+---
+
+## PRÓXIMOS PASSOS (02/06/2026 — pós turno noite)
+
+1. 🎯 **AMANHÃ É O WEBINAR (03/jun, 20h)** — Kit D-Day em `05-30`; oferta pronta em `06-02`; disparar mensagem D-Day às 19h30 (WhatsApp)
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+3. 📣 **Ativar Retargeting pós-webinar D+1** — 5 anúncios prontos em `06-01`; ativar em 04/jun; budget R$ 80/dia
+4. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; coupon `LANCAMENTO_WEBINAR_JUNHO` + tokens em `06-02`
+5. 🎬 **Publicar Ep.44 e Ep.45 YouTube** — outlines completos em `06-01` e `06-02`
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 64 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 02/06/2026 — Turno da noite (Bella)*
