@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 05/05/2026 — Turno da tarde (Bella)*
+*Última atualização: 02/06/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -2153,10 +2153,15 @@ Funil do webinar 100% coberto + nurturing de longo prazo para leads frios adicio
 ---
 
 | **2026-06-01** | **Noite** | **Sequência de Retargeting Pós-Webinar — 5 anúncios Meta Ads D+1 a D+7 (objeção/urgência/curiosidade/prova social/reengajamento + segmentação + cronograma + tokens dev), Outline YouTube Ep.44 (DRE do 2º Semestre: ajuste o que não funcionou antes que seja tarde)** |
+| **2026-06-02** | **Manhã** | **Post Instagram D-1 webinar (metade do ano passou — você sabe se lucrou? + CTA webinar amanhã — carrossel 6 slides), Relatório matutino** |
 
 ### Noite 01/06
 | Sequência de Retargeting Pós-Webinar (5 anúncios Meta Ads + segmentação + cronograma + tokens dev) | ✅ Concluído | `outputs/2026-06-01/pagina-vendas-secao.md` |
 | Ep.44 YouTube (DRE do 2º Semestre: Como Ajustar o Que Não Funcionou e Planejar com Números Reais) | ✅ Concluído | `outputs/2026-06-01/youtube-outline.md` |
+
+### Manhã 02/06
+| Post Instagram D-1 webinar (D-1 do webinar — "Metade do ano passou. Você sabe se lucrou?") | ✅ Concluído | `outputs/2026-06-02/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades D-1: waitlist, WhatsApp, Kit D-Day) | ✅ Concluído | `outputs/2026-06-02/relatorio-manha.md` |
 
 ---
 
