@@ -2251,3 +2251,58 @@ Funil do webinar 100% coberto + nurturing de longo prazo + retargeting pós-webi
 4. 📣 **Ativar Retargeting D+1 amanhã (04/jun)** — 5 anúncios prontos em `06-01`; budget R$ 80/dia
 5. 🎬 **Publicar Ep.44 e Ep.45 YouTube** — outlines prontos em `06-01` e `06-02`
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 63 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+## HISTÓRICO — 03/06/2026
+
+| **2026-06-03** | **Manhã** | **Post Instagram D-Day webinar (lucro real do 1º semestre + CTA 20h), Relatório matutino** |
+| **2026-06-03** | **Noite** | **Sequência de E-mails Pós-Compra do Webinar (D+0/D+1/D+3 — onboarding de novos clientes com tokens dev), Outline YouTube Ep.46 (DRE e Gestão de Estoque — giro de estoque + 3 erros + ritual mensal)** |
+
+### Noite 03/06
+| Sequência E-mails Pós-Compra Webinar (D+0 boas-vindas / D+1 ativação / D+3 engajamento + tokens dev) | ✅ Concluído | `outputs/2026-06-03/pagina-vendas-secao.md` |
+| Ep.46 YouTube (DRE e Gestão de Estoque: Por Que Seu Dinheiro Some no Almoxarifado) | ✅ Concluído | `outputs/2026-06-03/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (03/06/2026)
+
+Funil do webinar 100% coberto + onboarding de compradores coberto.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅ | Sequência No-Show ✅
+- Copy Anti-Churn / Cancelamento ✅ | Canal de Contadores / Parceiros B2B ✅
+- Semana de Aquecimento Pré-Webinar (D-5 a D-1) ✅
+- Kit D-Day — Guia Completo para o Dia do Webinar ✅
+- Sequência de Nurturing de Longo Prazo (3 e-mails D+30/D+60/D+90) ✅
+- Sequência de Retargeting Pós-Webinar (5 anúncios Meta Ads D+1 a D+7) ✅
+- Oferta de Lançamento D-Day — Bônus Exclusivos do Webinar ✅
+- **Sequência E-mails Pós-Compra Webinar (D+0/D+1/D+3 + tokens dev) ✅** ← novo (noite 03/06)
+
+**Próximo passo:** Ativar retargeting D+1 (04/jun) → finalizar DashboardPage → deploy.
+
+---
+
+## PRÓXIMOS PASSOS (03/06/2026 — pós turno noite)
+
+1. 🔔 **Ativar sequência e-mails pós-compra** — 3 e-mails prontos em `06-03`; configurar no Resend com gatilho `stripe.checkout.session.completed`; tokens dev incluídos no arquivo
+2. 📣 **Ativar Retargeting D+1 amanhã (04/jun)** — 5 anúncios prontos em `06-01`; budget R$ 80/dia × 7 dias
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+4. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; coupon `LANCAMENTO_WEBINAR_JUNHO`; copy em `05-13`
+5. 🎬 **Publicar Ep.46 YouTube semana de 09/jun** — outline completo em `06-03`; corte 60s sobre erro 2 (mix de produtos) para Reels
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 63 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 03/06/2026 — Turno da noite (Bella)*
