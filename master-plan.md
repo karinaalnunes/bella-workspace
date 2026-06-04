@@ -2329,3 +2329,42 @@ Funil do webinar 100% coberto + onboarding de compradores coberto.
 ---
 
 *Última atualização: 04/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 04/06/2026 (Tarde)
+
+| **2026-06-04** | **Tarde** | **Reel concept v28 (faturamento vs. lucro real — quanto sobrou de verdade?), Concorrentes v28 (Treasy enterprise/FP&A Summit, Conta Azul AI Captura multi-CNPJ + CON agosto, Omie WhatsApp ERP + crédito roadmap), LinkedIn post v28 (margem real vs. faturamento)** |
+
+### Instagram
+| Reel concept v28 | ✅ Concluído | `outputs/2026-06-04/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v28 | ✅ Concluído | `outputs/2026-06-04/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v28 | ✅ Concluído | `outputs/2026-06-04/concorrentes.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 04/06/2026
+
+**Treasy:** FP&A Summit (12–13/mai) confirmou foco exclusivamente enterprise. Nenhuma iniciativa de IA ou produto para PME sem controller. Gap da Máxima confirmado.
+**Conta Azul:** AI Captura com multi-CNPJ via WhatsApp para BPO em produção. Não interpreta DRE. CON 2026 em **5–6/ago** — risco de anúncio de expansão de IA. Faltam **62 dias**.
+**Omie:** ERP 100% operável via WhatsApp em produção. Crédito conversacional declarado como próximo passo. IA tributária em produção. Janela da Máxima: **3–4 meses**.
+
+**Gap que persiste:** Nenhum dos três interpreta DRE em linguagem simples para o dono da PME.
+
+---
+
+## PRÓXIMOS PASSOS (04/06/2026 — pós turno tarde)
+
+1. 🎬 **Gravar Reel v28** — roteiro pronto em `outputs/2026-06-04/reel-concept.md`; hook dos 3 primeiros segundos já escrito; celular + fundo neutro + 40 min
+2. 📣 **Ativar retargeting D+1 no Meta Ads** — 5 anúncios prontos em `06-01`; budget R$ 80/dia
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+4. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 62 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 04/06/2026 — Turno da tarde (Bella)*
