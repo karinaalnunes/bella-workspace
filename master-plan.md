@@ -2419,3 +2419,28 @@ Funil do webinar 100% coberto + fechamento de oferta das 48h completo.
 5. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
 6. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; coupon `LANCAMENTO_WEBINAR_JUNHO`
 7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 62 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 05/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 05/06/2026
+
+| **2026-06-05** | **Manhã** | **Post Instagram (sexta de apuração — 3 perguntas do DRE antes de virar a semana, carrossel 6 slides), Relatório matutino** |
+
+### Manhã 05/06
+| Post Instagram (sexta de números — 3 perguntas do DRE toda semana) | ✅ Concluído | `outputs/2026-06-05/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades D+2: fechamento oferta, DashboardPage, Stripe + retargeting) | ✅ Concluído | `outputs/2026-06-05/relatorio-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (05/06/2026 — turno manhã)
+
+1. 📧 **HOJE — Disparar E-mail 3 às 17h** — urgência máxima, oferta encerra às 20h; sequência completa em `outputs/2026-06-04/pagina-vendas-secao.md`; cancelar envio para quem já comprou
+2. ⏰ **Expirar cupom `LANCAMENTO_WEBINAR_JUNHO` às 20h** — Stripe Dashboard; sem isso a oferta não fecha
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+4. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+5. 📣 **Ativar retargeting D+2 Meta Ads** — 5 anúncios prontos em `06-01`; budget R$ 80/dia
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 61 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
