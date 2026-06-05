@@ -2444,3 +2444,40 @@ Funil do webinar 100% coberto + fechamento de oferta das 48h completo.
 4. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
 5. 📣 **Ativar retargeting D+2 Meta Ads** — 5 anúncios prontos em `06-01`; budget R$ 80/dia
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 61 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+## HISTÓRICO — 05/06/2026 (Tarde)
+
+| **2026-06-05** | **Tarde** | **Reel concept v29 (revisão de meio de ano — 3 indicadores DRE de junho), Concorrentes v29 (Omie IA fiscal + preditiva em produção, Conta Azul CON 2026 em 61 dias, Treasy enterprise confirmado), LinkedIn post v29 (DRE de maio — 3 perguntas de virada de semestre)** |
+
+### Tarde 05/06
+| Reel concept v29 (metade do ano — 3 indicadores DRE para junho) | ✅ Concluído | `outputs/2026-06-05/reel-concept.md` |
+| Concorrentes v29 (Omie IA fiscal + preditiva, Conta Azul CON ago, Treasy enterprise) | ✅ Concluído | `outputs/2026-06-05/concorrentes.md` |
+| Post LinkedIn v29 (3 perguntas do DRE de maio para revisão de semestre) | ✅ Concluído | `outputs/2026-06-05/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-05/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 05/06/2026
+
+**Omie:** IA fiscal em produção + análise preditiva de estoque e clientes funcionando. Agente generativo ainda em roadmap sem data. Breakeven adiado para 2028 — gastos bilionários em IA. Gap da Máxima persiste: Omie não interpreta DRE para o empresário.
+**Conta Azul:** AI Captura com leitura de docs (WhatsApp/e-mail/upload/DDA) + sugestão de lançamentos em produção. Foco: contador e BPO. CON 2026 em **5–6/ago** — risco de anúncio de IA voltada ao empresário. Faltam **61 dias**.
+**Treasy:** Kit Planejamento Orçamentário 2026 lançado. FP&A Summit confirmou foco enterprise. Sem IA. Ameaça baixa.
+
+**Gap que persiste:** Nenhum dos três interpreta DRE em linguagem simples para o dono da PME.
+
+---
+
+## PRÓXIMOS PASSOS (05/06/2026 — pós turno tarde)
+
+1. 📧 **HOJE às 17h — Disparar E-mail 3** — urgência máxima, oferta encerra às 20h; `outputs/2026-06-04/pagina-vendas-secao.md`
+2. ⏰ **Expirar cupom `LANCAMENTO_WEBINAR_JUNHO` às 20h** — Stripe Dashboard
+3. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+4. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+5. 📣 **Ativar retargeting D+2 Meta Ads** — 5 anúncios prontos em `06-01`; budget R$ 80/dia
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 61 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 05/06/2026 — Turno da tarde (Bella)*
