@@ -2481,3 +2481,57 @@ Funil do webinar 100% coberto + fechamento de oferta das 48h completo.
 ---
 
 *Última atualização: 05/06/2026 — Turno da tarde (Bella)*
+
+---
+
+## HISTÓRICO — 05/06/2026 (Noite)
+
+| **2026-06-05** | **Noite** | **Seção "Calculadora de ROI / Quanto Custa Não Saber Seus Números" (página de vendas — 3 cenários reais + tabela comparativa + CTA integrado), Outline YouTube Ep.48 (Revisão de Meio de Ano pelo DRE: As 5 Decisões do Segundo Semestre)** |
+
+### Noite 05/06
+| Seção "Calculadora de ROI — Quanto Custa Não Saber Seus Números" (página de vendas) | ✅ Concluído | `outputs/2026-06-05/pagina-vendas-secao.md` |
+| Ep.48 YouTube (Revisão de Meio de Ano pelo DRE: As 5 Decisões que Definem o Segundo Semestre) | ✅ Concluído | `outputs/2026-06-05/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (05/06/2026)
+
+Funil do webinar 100% coberto + fechamento de oferta das 48h completo + seção de ROI adicionada.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅ | Sequência No-Show ✅
+- Copy Anti-Churn / Cancelamento ✅ | Canal de Contadores / Parceiros B2B ✅
+- Semana de Aquecimento Pré-Webinar (D-5 a D-1) ✅ | Kit D-Day ✅
+- Sequência de Nurturing de Longo Prazo (D+30/D+60/D+90) ✅
+- Sequência de Retargeting Pós-Webinar (5 anúncios Meta Ads D+1 a D+7) ✅
+- Oferta de Lançamento D-Day — Bônus Exclusivos do Webinar ✅
+- Sequência E-mails Pós-Compra Webinar (D+0/D+1/D+3) ✅
+- E-mails de Fechamento da Oferta Webinar — Últimas 48h (3 e-mails + tokens dev Stripe/Resend) ✅
+- **Calculadora de ROI — "Quanto Custa Não Saber Seus Números" (3 cenários + comparativo + CTA) ✅** ← novo (noite 05/06)
+
+**Próximo passo:** Retargeting D+3 Meta Ads → finalizar DashboardPage → criar produtos Stripe → deploy.
+
+---
+
+## PRÓXIMOS PASSOS (05/06/2026 — pós turno noite)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`
+3. 📣 **Ativar retargeting D+3 Meta Ads** — 5 anúncios prontos em `06-01`; budget R$ 80/dia
+4. 🎬 **Publicar Ep.48 YouTube semana que vem** — timing perfeito (revisão de meio de ano); outline completo em `06-05`; corte 60s sobre alavancagem operacional para Reels
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 61 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+*Última atualização: 05/06/2026 — Turno da noite (Bella)*
