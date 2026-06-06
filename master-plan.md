@@ -2559,3 +2559,37 @@ Funil do webinar 100% coberto + fechamento de oferta das 48h completo + seção 
 3. 📣 **Ativar retargeting D+3 Meta Ads** — hoje é D+3 do webinar (03/jun); 5 anúncios prontos em `06-01`; budget R$ 80/dia
 4. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline completo em `06-05`
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 60 dias); Omie agente generativo em roadmap (janela ~3–4 meses)
+
+---
+
+| **2026-06-06** | **Tarde** | **Reel concept v30 (metade do ano — DRE de maio já sabe a resposta), Concorrentes v30 (Treasy enterprise, Conta AI relatórios linguagem natural, Omie beta 1k clientes), LinkedIn post v30 (3 números do DRE de maio para o 2º semestre)** |
+
+### Tarde 06/06
+| Reel concept v30 | ✅ Concluído | `outputs/2026-06-06/reel-concept.md` |
+| Concorrentes v30 | ✅ Concluído | `outputs/2026-06-06/concorrentes.md` |
+| Post LinkedIn v30 | ✅ Concluído | `outputs/2026-06-06/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-06/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 06/06/2026
+
+**Treasy:** Kit Planejamento 2026 disponível; Summit confirmou foco enterprise. Sem ameaça à Máxima.
+**Conta Azul:** IA Captura operacional (docs via WhatsApp); IA começa a gerar relatórios em linguagem natural (template, não diagnóstico). CON 2026 (5–6/ago) — risco de anúncio voltado ao empresário.
+**Omie:** Agente generativo testado com ~1.000 clientes em beta (AWS + Meta API oficial). Janela estimada: 3–5 meses até expandir para diagnóstico de DRE.
+
+**Gap da Máxima mantido:** Nenhum concorrente interpreta DRE para o dono da PME em linguagem simples. Prazo crítico: **deploy antes de 5 de agosto**.
+
+---
+
+## PRÓXIMOS PASSOS (06/06/2026 — turno tarde)
+
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico do lançamento (semanas em aberto)
+2. 💳 **Criar produtos no Stripe** — 15 min; coupon `LANCAMENTO_WEBINAR_JUNHO`; copy em `05-13`
+3. 📣 **Ativar retargeting D+3 Meta Ads** — anúncios prontos em `06-01`; budget R$ 80/dia
+4. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; timing perfeito (revisão de meio de ano)
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 60 dias); Omie beta em expansão
+
+---
+
+*Última atualização: 06/06/2026 — Turno da tarde (Bella)*
