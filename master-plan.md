@@ -2648,3 +2648,27 @@ Funil completo + seção de resultados esperados (linha do tempo Dia 1 → Dia 3
 ---
 
 *Última atualização: 06/06/2026 — Turno da noite (Bella)*
+
+---
+
+*Última atualização: 07/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 07/06/2026
+
+| **2026-06-07** | **Manhã** | **Post Instagram (domingo de planejamento: 4 perguntas do DRE de maio que definem o 2º semestre — carrossel 7 slides), Relatório matutino** |
+
+### Manhã 07/06
+| Post Instagram (domingo de planejamento: 4 perguntas do DRE de maio — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-07/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades: DashboardPage, Stripe, retargeting D+4) | ✅ Concluído | `outputs/2026-06-07/relatorio-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (07/06/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe** (15 min) — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; coupon `LANCAMENTO_WEBINAR_JUNHO`
+3. 📣 **Ativar retargeting D+4 Meta Ads** — hoje é D+4 do webinar (03/jun); 5 anúncios prontos em `06-01`; budget R$ 80/dia
+4. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline completo em `06-05`; Ep.49 pronto para sequência
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 59 dias); Omie agente generativo em beta (~1k clientes)
