@@ -2672,3 +2672,25 @@ Funil completo + seção de resultados esperados (linha do tempo Dia 1 → Dia 3
 3. 📣 **Ativar retargeting D+4 Meta Ads** — hoje é D+4 do webinar (03/jun); 5 anúncios prontos em `06-01`; budget R$ 80/dia
 4. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline completo em `06-05`; Ep.49 pronto para sequência
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 59 dias); Omie agente generativo em beta (~1k clientes)
+
+---
+
+| **2026-06-07** | **Tarde** | **Reel concept v31 (2º semestre começa com DRE — not achismo), Concorrentes v31 (Treasy enterprise, Conta AI Captura Gemini, Omie WhatsApp + agente generativo beta), LinkedIn post v31 (DRE do 1º semestre antes de planejar o 2º)** |
+
+### Tarde 07/06
+| Reel concept v31 | ✅ Concluído | `outputs/2026-06-07/reel-concept.md` |
+| Concorrentes v31 | ✅ Concluído | `outputs/2026-06-07/concorrentes.md` |
+| Post LinkedIn v31 | ✅ Concluído | `outputs/2026-06-07/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-07/relatorio-tarde.md` |
+
+---
+
+## PRÓXIMOS PASSOS (07/06/2026 — pós turno tarde)
+
+1. 🔥 **Finalizar DashboardPage** — gargalo crítico; sem isso não tem deploy
+2. 💳 **Criar produtos no Stripe agora (15 min)** — Gratuito / Pro R$97 / Business R$297; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`
+3. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); Omie agente generativo em beta ~1k clientes (janela ~3–4 meses)
+4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
+5. 📣 **Ativar retargeting Meta Ads** — D+4 do webinar de 03/jun; 5 anúncios prontos em `outputs/2026-06-01/pagina-vendas-secao.md`
+
+*Última atualização: 07/06/2026 — Turno da tarde (Bella)*
