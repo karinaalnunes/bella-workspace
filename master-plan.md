@@ -2756,17 +2756,56 @@ Funil completo + cases por segmento adicionados.
 ## HISTÓRICO — 08/06/2026
 
 | **2026-06-08** | **Manhã** | **Post Instagram (faturar 100k e não sobrar nada — erro de margem que 7 em cada 10 PMEs cometem — carrossel 7 slides), Relatório matutino** |
+| **2026-06-08** | **Noite** | **Landing Page de Trial / Diagnóstico Gratuito (página completa + formulário + comparativo trial vs. Pro + tokens dev + métricas), Outline YouTube Ep.51 (DRE Linha por Linha — o que cada número realmente significa)** |
 
 ### Manhã 08/06
 | Post Instagram (faturar 100k e não sobrar nada — margem líquida vs. faturamento — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-08/instagram-post-manha.md` |
 | Relatório matutino (3 prioridades: DashboardPage, Stripe, retargeting D+5) | ✅ Concluído | `outputs/2026-06-08/relatorio-manha.md` |
 
+### Noite 08/06
+| Landing Page de Trial / Diagnóstico Gratuito (copy completa + tokens dev + métricas + A/B) | ✅ Concluído | `outputs/2026-06-08/pagina-vendas-secao.md` |
+| Ep.51 YouTube (DRE Linha por Linha: O Que Cada Número Realmente Significa) | ✅ Concluído | `outputs/2026-06-08/youtube-outline.md` |
+
 ---
 
-## PRÓXIMOS PASSOS (08/06/2026 — turno manhã)
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (08/06/2026)
+
+Funil completo + topo de funil (tráfego frio) coberto com landing page de trial/diagnóstico gratuito.
+
+**Seções produzidas (consolidado — acumulado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅ | Sequência No-Show ✅
+- Copy Anti-Churn / Cancelamento ✅ | Canal de Contadores / Parceiros B2B ✅
+- Semana de Aquecimento Pré-Webinar (D-5 a D-1) ✅ | Kit D-Day ✅
+- Sequência de Nurturing de Longo Prazo (D+30/D+60/D+90) ✅
+- Sequência de Retargeting Pós-Webinar (5 anúncios Meta Ads D+1 a D+7) ✅
+- Oferta de Lançamento D-Day — Bônus Exclusivos do Webinar ✅
+- Sequência E-mails Pós-Compra Webinar (D+0/D+1/D+3) ✅
+- E-mails de Fechamento da Oferta Webinar — Últimas 48h ✅
+- Calculadora de ROI — "Quanto Custa Não Saber Seus Números" ✅
+- Seção "Resultados Esperados — O que Muda nos Primeiros 30 Dias" ✅
+- Cases Reais por Segmento — Comércio / Serviços / Indústria ✅
+- **Landing Page de Trial / Diagnóstico Gratuito (topo de funil — tráfego frio → cadastro) ✅** ← novo (noite 08/06)
+
+**Próximo passo:** Implementar `/diagnostico-gratuito` no código → criar produtos Stripe → finalizar DashboardPage → deploy.
+
+---
+
+## PRÓXIMOS PASSOS (08/06/2026 — pós turno noite)
 
 1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
 2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`; coupon `LANCAMENTO_WEBINAR_JUNHO`
-3. 📣 **Ativar retargeting D+5 Meta Ads** — hoje é D+5 do webinar (03/jun); 5 anúncios prontos em `06-01`; budget R$ 80/dia
-4. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline completo em `06-05`; Ep.49 e Ep.50 prontos para sequência
-5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 58 dias); Omie agente generativo em beta (~1k clientes)
+3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page de trial pronta em `outputs/2026-06-08/pagina-vendas-secao.md`; tokens dev incluídos; tabela `trial_signups` no Supabase
+4. 📣 **Ativar retargeting Meta Ads** — hoje é D+5 do webinar (03/jun); 5 anúncios prontos em `06-01`; budget R$ 80/dia
+5. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline completo em `06-05`; Ep.49, Ep.50 e Ep.51 prontos para sequência
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 58 dias); Omie agente generativo em beta (~1k clientes)
