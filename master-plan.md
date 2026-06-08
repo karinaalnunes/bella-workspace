@@ -2693,7 +2693,7 @@ Funil completo + seção de resultados esperados (linha do tempo Dia 1 → Dia 3
 4. 🎬 **Gravar o VSL** — roteiro pronto em `outputs/2026-05-10/pagina-vendas-secao.md`
 5. 📣 **Ativar retargeting Meta Ads** — D+4 do webinar de 03/jun; 5 anúncios prontos em `outputs/2026-06-01/pagina-vendas-secao.md`
 
-*Última atualização: 07/06/2026 — Turno da noite (Bella)*
+*Última atualização: 08/06/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -2746,3 +2746,27 @@ Funil completo + cases por segmento adicionados.
 3. 📣 **Ativar retargeting D+4 Meta Ads** — 5 anúncios prontos em `06-01`; budget R$ 80/dia
 4. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline completo em `06-05`; Ep.49 e Ep.50 prontos para sequência
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 59 dias); Omie agente generativo em beta (~1k clientes)
+
+---
+
+*Última atualização: 08/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 08/06/2026
+
+| **2026-06-08** | **Manhã** | **Post Instagram (faturar 100k e não sobrar nada — erro de margem que 7 em cada 10 PMEs cometem — carrossel 7 slides), Relatório matutino** |
+
+### Manhã 08/06
+| Post Instagram (faturar 100k e não sobrar nada — margem líquida vs. faturamento — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-08/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades: DashboardPage, Stripe, retargeting D+5) | ✅ Concluído | `outputs/2026-06-08/relatorio-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (08/06/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`; coupon `LANCAMENTO_WEBINAR_JUNHO`
+3. 📣 **Ativar retargeting D+5 Meta Ads** — hoje é D+5 do webinar (03/jun); 5 anúncios prontos em `06-01`; budget R$ 80/dia
+4. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline completo em `06-05`; Ep.49 e Ep.50 prontos para sequência
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 58 dias); Omie agente generativo em beta (~1k clientes)
