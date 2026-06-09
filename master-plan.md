@@ -2809,3 +2809,28 @@ Funil completo + topo de funil (tráfego frio) coberto com landing page de trial
 4. 📣 **Ativar retargeting Meta Ads** — hoje é D+5 do webinar (03/jun); 5 anúncios prontos em `06-01`; budget R$ 80/dia
 5. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline completo em `06-05`; Ep.49, Ep.50 e Ep.51 prontos para sequência
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 58 dias); Omie agente generativo em beta (~1k clientes)
+
+---
+
+*Última atualização: 09/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 09/06/2026
+
+| **2026-06-09** | **Manhã** | **Post Instagram (ticket médio × margem — vender mais pode lucrar menos — carrossel 6 slides), Relatório matutino** |
+
+### Manhã 09/06
+| Post Instagram (ticket médio × margem — paradoxo de vender mais e lucrar menos) | ✅ Concluído | `outputs/2026-06-09/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades: DashboardPage, Stripe, /diagnostico-gratuito) | ✅ Concluído | `outputs/2026-06-09/relatorio-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (09/06/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`; coupon `LANCAMENTO_WEBINAR_JUNHO`
+3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page de trial pronta em `outputs/2026-06-08/pagina-vendas-secao.md`; tokens dev incluídos; tabela `trial_signups` no Supabase
+4. 📣 **Ativar retargeting Meta Ads** — D+6 do webinar (03/jun); 5 anúncios prontos em `06-01`; budget R$ 80/dia
+5. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline em `06-05`; Ep.49, Ep.50 e Ep.51 prontos para sequência
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 57 dias); Omie agente generativo em beta (~1k clientes)
