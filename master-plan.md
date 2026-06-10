@@ -2956,4 +2956,71 @@ Funil completo + reativação de trial (topo → fundo de funil coberto 360°).
 
 ---
 
-*Última atualização: 10/06/2026 — Turno da tarde (Bella)*
+*Última atualização: 10/06/2026 — Turno da noite (Bella)*
+
+---
+
+## HISTÓRICO — 10/06/2026 (Noite)
+
+| **2026-06-10** | **Noite** | **Sequência de DMs para Instagram — Prospecção Ativa de PMEs (7 templates + estratégia de uso + métricas de referência), Outline YouTube Ep.53 (DRE e Contratação: 4 Números que Dizem se Você Pode Contratar Agora)** |
+
+### Noite 10/06
+| Sequência de DMs para Instagram — Prospecção Ativa (7 templates + estratégia + métricas) | ✅ Concluído | `outputs/2026-06-10/pagina-vendas-secao.md` |
+| Ep.53 YouTube (DRE e Contratação: 4 Números que Dizem se Você Pode Contratar Agora) | ✅ Concluído | `outputs/2026-06-10/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (10/06/2026)
+
+Funil completo + prospecção ativa via Instagram adicionada.
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅ | Sequência No-Show ✅
+- Copy Anti-Churn / Cancelamento ✅ | Canal de Contadores / Parceiros B2B ✅
+- Semana de Aquecimento Pré-Webinar (D-5 a D-1) ✅ | Kit D-Day ✅
+- Sequência de Nurturing de Longo Prazo (D+30/D+60/D+90) ✅
+- Sequência de Retargeting Pós-Webinar (5 anúncios Meta Ads D+1 a D+7) ✅
+- Oferta de Lançamento D-Day — Bônus Exclusivos do Webinar ✅
+- Sequência E-mails Pós-Compra Webinar (D+0/D+1/D+3) ✅
+- E-mails de Fechamento da Oferta Webinar — Últimas 48h ✅
+- Calculadora de ROI — "Quanto Custa Não Saber Seus Números" ✅
+- Seção "Resultados Esperados — O que Muda nos Primeiros 30 Dias" ✅
+- Cases Reais por Segmento — Comércio / Serviços / Indústria ✅
+- Landing Page de Trial / Diagnóstico Gratuito ✅
+- Sequência de Reativação de Trial Expirado (3 e-mails D+3/D+7/D+14) ✅
+- **Sequência de DMs para Instagram — Prospecção Ativa (7 templates + estratégia + métricas) ✅** ← novo (noite 10/06)
+
+**Próximo passo:** Implementar `/diagnostico-gratuito` + sequência de reativação no Resend → criar produtos Stripe → finalizar DashboardPage → deploy.
+
+---
+
+## YOUTUBE — STATUS ATUAL (10/06/2026)
+
+| Ep.53 — DRE e Contratação: 4 Números que Dizem se Você Pode Contratar Agora | **✅ Concluído** | `outputs/2026-06-10/youtube-outline.md` |
+
+---
+
+## PRÓXIMOS PASSOS (10/06/2026 — pós turno noite)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; coupon `LANCAMENTO_WEBINAR_JUNHO`
+3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `06-08`; tokens dev incluídos; tabela `trial_signups` no Supabase
+4. 📧 **Configurar sequência de reativação no Resend** — 3 e-mails prontos em `06-09`; query SQL incluída; cron job 10h via pg_cron
+5. 📲 **Usar DMs Instagram** — 7 templates prontos em `06-10`; meta: 5–10 abordagens/dia; priorizar quem salvou posts ou respondeu Stories
+6. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline em `06-05`; Ep.49 a Ep.53 na fila
+7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 56 dias); Omie agente generativo em beta (~1k clientes)
+
+---
+
+*Última atualização: 10/06/2026 — Turno da noite (Bella)*
