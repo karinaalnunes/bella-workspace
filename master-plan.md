@@ -2922,3 +2922,38 @@ Funil completo + reativação de trial (topo → fundo de funil coberto 360°).
 4. 📧 **Configurar sequência de reativação no Resend** — 3 e-mails prontos em `outputs/2026-06-09/pagina-vendas-secao.md`; query SQL incluída; cron job diário 10h via pg_cron
 5. 🎬 **Publicar Ep.48 YouTube** — timing perfeito (revisão de meio de ano); outline em `06-05`; Ep.49 a Ep.52 na fila
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 56 dias); Omie agente generativo em beta (~1k clientes)
+
+---
+
+| **2026-06-10** | **Tarde** | **Reel concept v26 (trabalhei o mês todo — sobrou R$2k — margem líquida real), Concorrentes v26 (Omie.IA Fiscal produção + agentes de IA, Conta Azul AI Captura + CON agosto, Treasy enterprise confirmado), LinkedIn post v26 (DRE do 1º semestre — 3 perguntas para o 2º semestre)** |
+
+### Tarde 10/06
+| Reel concept v26 (margem líquida — trabalhei para quem?) | ✅ Concluído | `outputs/2026-06-10/reel-concept.md` |
+| Concorrentes v26 (Omie IA Fiscal, Conta Azul AI Captura, Treasy enterprise) | ✅ Concluído | `outputs/2026-06-10/concorrentes.md` |
+| Post LinkedIn v26 (DRE 1º semestre — 3 perguntas para o 2º semestre) | ✅ Concluído | `outputs/2026-06-10/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-10/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 10/06/2026
+
+**Treasy:** FP&A enterprise consolidado. Kit Planejamento 2026 como marketing educacional. Sem IA conversacional, sem PME. Gap da Máxima validado.
+**Conta Azul AI Captura:** Lança documentos via WhatsApp/e-mail automaticamente para BPOs. Não interpreta DRE. CON 2026 (5–6/ago) pode anunciar análise para o empresário — monitorar.
+**Omie:** Omie.IA Fiscal em produção (atualização IBS/CBS automática — reforma tributária). Agentes de IA em rollout: classifica despesas, aprova contas a pagar, alerta anomalias. Sem diagnóstico de DRE ainda. **Janela estimada: 3–4 meses.**
+
+**Gap da Máxima MANTIDO:** Nenhum concorrente interpreta DRE em linguagem simples para o dono da PME.
+
+---
+
+## PRÓXIMOS PASSOS (10/06/2026 — pós turno tarde)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; copy em `05-13`; coupon `LANCAMENTO_WEBINAR_JUNHO`
+3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `06-08`; tokens dev incluídos; tabela `trial_signups` no Supabase
+4. 📧 **Configurar sequência de reativação no Resend** — 3 e-mails prontos em `06-09`; query SQL incluída; cron job 10h via pg_cron
+5. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; Ep.49 a Ep.52 na fila
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 55 dias); Omie agente generativo em beta (~1k clientes)
+
+---
+
+*Última atualização: 10/06/2026 — Turno da tarde (Bella)*
