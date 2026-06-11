@@ -3034,19 +3034,36 @@ Funil completo + prospecção ativa via Instagram adicionada.
 ## HISTÓRICO — 11/06/2026
 
 | **2026-06-11** | **Manhã** | **Post Instagram (metade do ano passou — 3 perguntas que o DRE responde antes do 2º semestre — carrossel 7 slides), Relatório matutino** |
+| **2026-06-11** | **Tarde** | **Reel concept v27 (6 meses foram — lucrou ou só faturou?), Concorrentes v27 (Omie agentes IA fiscal, Conta Azul AI Captura + instituição de pagamento, Treasy enterprise), LinkedIn post v27 (revisão de meio de ano com DRE)** |
 
 ### Manhã 11/06
 | Post Instagram (metade do ano — 3 perguntas que o DRE responde para planejar o 2º semestre — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-11/instagram-post-manha.md` |
 | Relatório matutino (3 prioridades: DashboardPage, Stripe, post Instagram) | ✅ Concluído | `outputs/2026-06-11/relatorio-manha.md` |
 
+### Tarde 11/06
+| Reel concept v27 (6 meses foram — lucrou ou só faturou? — sazonal, alto potencial de salvamento) | ✅ Concluído | `outputs/2026-06-11/reel-concept.md` |
+| Concorrentes v27 (Omie agentes IA fiscal, Conta Azul instituição de pagamento + AI Captura, Treasy enterprise) | ✅ Concluído | `outputs/2026-06-11/concorrentes.md` |
+| Post LinkedIn v27 (revisão de meio de ano — extrato ≠ resultado — 3 perguntas do DRE) | ✅ Concluído | `outputs/2026-06-11/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-11/relatorio-tarde.md` |
+
 ---
 
-## PRÓXIMOS PASSOS (11/06/2026 — turno manhã)
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 11/06/2026
+
+**Omie:** Agentes generativos em beta (~1k clientes) — foco: fiscal/operacional (IBS/CBS, despesas, contas a pagar). Sem análise de DRE. Janela: 3–4 meses.
+**Conta Azul:** AI Captura consolidada (documentos → lançamentos para BPOs). Agora instituição de pagamento, mira R$500M. CON 2026 em 55 dias — monitorar anúncios de produto.
+**Treasy:** FP&A enterprise confirmado (Kit 2026, Jornada Meta ao Resultado). Sem IA conversacional. Não compete com a Máxima.
+
+**Gap da Máxima MANTIDO:** Nenhum concorrente interpreta DRE em linguagem simples para o dono da PME.
+
+---
+
+## PRÓXIMOS PASSOS (11/06/2026 — pós turno tarde)
 
 1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
 2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`; coupon `LANCAMENTO_WEBINAR_JUNHO`
-3. 📲 **Publicar post Instagram ao meio-dia** — carrossel pronto em `outputs/2026-06-11/instagram-post-manha.md`; tema revisão de meio de ano (muito oportuno)
-4. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`; tokens dev incluídos; tabela `trial_signups` no Supabase
-5. 📧 **Configurar sequência de reativação no Resend** — 3 e-mails prontos em `outputs/2026-06-09/pagina-vendas-secao.md`; query SQL incluída; cron job 10h via pg_cron
+3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`; tokens dev incluídos; tabela `trial_signups` no Supabase
+4. 📧 **Configurar sequência de reativação no Resend** — 3 e-mails prontos em `outputs/2026-06-09/pagina-vendas-secao.md`; query SQL incluída; cron job 10h via pg_cron
+5. 📲 **Usar DMs Instagram** — 7 templates prontos em `06-10`; meta: 5–10 abordagens/dia
 6. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; Ep.49 a Ep.53 na fila
-7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 55 dias); Omie agente generativo em beta (~1k clientes)
+7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **55 dias**); Omie agente generativo em beta (~1k clientes)
