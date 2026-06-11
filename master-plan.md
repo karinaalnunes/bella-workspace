@@ -3067,3 +3067,68 @@ Funil completo + prospecção ativa via Instagram adicionada.
 5. 📲 **Usar DMs Instagram** — 7 templates prontos em `06-10`; meta: 5–10 abordagens/dia
 6. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; Ep.49 a Ep.53 na fila
 7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **55 dias**); Omie agente generativo em beta (~1k clientes)
+
+---
+
+| **2026-06-11** | **Noite** | **Kit Campanha de Meio de Ano (e-mail + SMS/WhatsApp + Stories + Push + Banner in-app + cronograma + tokens dev), Outline YouTube Ep.54 (DRE do 2º Semestre: Como Planejar os Próximos 6 Meses com os Números do 1º)** |
+
+### Noite 11/06
+| Kit Campanha de Meio de Ano (6 peças: e-mail + SMS + Stories + Push + Banner + cronograma + tokens dev) | ✅ Concluído | `outputs/2026-06-11/pagina-vendas-secao.md` |
+| Ep.54 YouTube (DRE do 2º Semestre: Como Planejar os Próximos 6 Meses com os Números do 1º) | ✅ Concluído | `outputs/2026-06-11/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (11/06/2026)
+
+Funil completo + campanha de meio de ano adicionada (timing: junho/julho).
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅ | Sequência No-Show ✅
+- Copy Anti-Churn / Cancelamento ✅ | Canal de Contadores / Parceiros B2B ✅
+- Semana de Aquecimento Pré-Webinar (D-5 a D-1) ✅ | Kit D-Day ✅
+- Sequência de Nurturing de Longo Prazo (D+30/D+60/D+90) ✅
+- Sequência de Retargeting Pós-Webinar (5 anúncios Meta Ads D+1 a D+7) ✅
+- Oferta de Lançamento D-Day — Bônus Exclusivos do Webinar ✅
+- Sequência E-mails Pós-Compra Webinar (D+0/D+1/D+3) ✅
+- E-mails de Fechamento da Oferta Webinar — Últimas 48h ✅
+- Calculadora de ROI — "Quanto Custa Não Saber Seus Números" ✅
+- Seção "Resultados Esperados — O que Muda nos Primeiros 30 Dias" ✅
+- Cases Reais por Segmento — Comércio / Serviços / Indústria ✅
+- Landing Page de Trial / Diagnóstico Gratuito ✅
+- Sequência de Reativação de Trial Expirado (3 e-mails D+3/D+7/D+14) ✅
+- Sequência de DMs para Instagram — Prospecção Ativa (7 templates) ✅
+- **Kit Campanha de Meio de Ano (e-mail + SMS + Stories + Push + Banner + cronograma + tokens) ✅** ← novo (noite 11/06)
+
+**Próximo passo:** Disparar campanha de meio de ano (cronograma pronto em `06-11`) + implementar `/diagnostico-gratuito` + criar produtos Stripe + finalizar DashboardPage → deploy.
+
+---
+
+## YOUTUBE — STATUS ATUAL (11/06/2026)
+
+| Ep.54 — DRE do 2º Semestre: Como Planejar os Próximos 6 Meses com os Números do 1º | **✅ Concluído** | `outputs/2026-06-11/youtube-outline.md` |
+
+---
+
+## PRÓXIMOS PASSOS (11/06/2026 — pós turno noite)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 📣 **Disparar campanha de meio de ano** — cronograma pronto em `06-11`; 1ª peça: push in-app hoje mesmo; e-mail amanhã 12/06
+3. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06
+4. 🌐 **Implementar `/diagnostico-gratuito`** — landing page em `06-08`; tokens dev incluídos
+5. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; Ep.49 a Ep.54 na fila; Ep.54 ideal para publicar 16–17/jun (meio de ano)
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **55 dias**); Omie agente generativo em beta (~1k clientes)
+
+---
+
+*Última atualização: 11/06/2026 — Turno da noite (Bella)*
