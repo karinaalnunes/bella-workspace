@@ -3024,3 +3024,29 @@ Funil completo + prospecção ativa via Instagram adicionada.
 ---
 
 *Última atualização: 10/06/2026 — Turno da noite (Bella)*
+
+---
+
+*Última atualização: 11/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 11/06/2026
+
+| **2026-06-11** | **Manhã** | **Post Instagram (metade do ano passou — 3 perguntas que o DRE responde antes do 2º semestre — carrossel 7 slides), Relatório matutino** |
+
+### Manhã 11/06
+| Post Instagram (metade do ano — 3 perguntas que o DRE responde para planejar o 2º semestre — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-11/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades: DashboardPage, Stripe, post Instagram) | ✅ Concluído | `outputs/2026-06-11/relatorio-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (11/06/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`; coupon `LANCAMENTO_WEBINAR_JUNHO`
+3. 📲 **Publicar post Instagram ao meio-dia** — carrossel pronto em `outputs/2026-06-11/instagram-post-manha.md`; tema revisão de meio de ano (muito oportuno)
+4. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`; tokens dev incluídos; tabela `trial_signups` no Supabase
+5. 📧 **Configurar sequência de reativação no Resend** — 3 e-mails prontos em `outputs/2026-06-09/pagina-vendas-secao.md`; query SQL incluída; cron job 10h via pg_cron
+6. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; Ep.49 a Ep.53 na fila
+7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 55 dias); Omie agente generativo em beta (~1k clientes)
