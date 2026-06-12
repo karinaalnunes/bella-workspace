@@ -3132,3 +3132,83 @@ Funil completo + campanha de meio de ano adicionada (timing: junho/julho).
 ---
 
 *Última atualização: 11/06/2026 — Turno da noite (Bella)*
+
+---
+
+*Última atualização: 12/06/2026 — Turno da noite (Bella)*
+
+---
+
+## HISTÓRICO — 12/06/2026
+
+| **2026-06-12** | **Manhã** | **Post Instagram (3 sinais do DRE de que o preço está defasado — carrossel), Reel concept v26 (margem comida sem perceber), LinkedIn post v26, Concorrentes v26, Relatórios** |
+| **2026-06-12** | **Noite** | **Kit Google Ads completo (3 campanhas Search + Display remarketing + UTMs + tokens dev), Outline YouTube Ep.55 (DRE e o momento certo de aumentar preços)** |
+
+### Manhã 12/06
+| Post Instagram (margem líquida real — trabalhei para quem?) | ✅ Concluído | `outputs/2026-06-12/instagram-post-manha.md` |
+| Reel concept v26 (margem real — trabalhei para quem?) | ✅ Concluído | `outputs/2026-06-12/reel-concept.md` |
+| Post LinkedIn v26 (DRE 1º semestre — 3 perguntas para o 2º semestre) | ✅ Concluído | `outputs/2026-06-12/linkedin-post.md` |
+| Concorrentes v26 (Omie IA Fiscal produção, Conta Azul AI Captura, Treasy enterprise) | ✅ Concluído | `outputs/2026-06-12/concorrentes.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-12/relatorio-manha.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-12/relatorio-tarde.md` |
+
+### Noite 12/06
+| Kit Google Ads (3 campanhas Search + Display remarketing + 15 headlines RSA + UTMs + código de conversão) | ✅ Concluído | `outputs/2026-06-12/pagina-vendas-secao.md` |
+| Ep.55 YouTube (Como o DRE Revela o Momento Certo de Aumentar Preços) | ✅ Concluído | `outputs/2026-06-12/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (12/06/2026)
+
+Funil completo + Google Ads adicionado (tráfego pago diversificado: Meta + Google).
+
+**Seções produzidas (consolidado):**
+- Hero v2 A/B ✅ | Prova Social ✅ | Garantia ✅ | Comparativo ✅
+- Para quem é ✅ | Urgência ✅ | Antes & Depois ✅ | Sobre a Fundadora ✅
+- Dados & Prova ✅ | Quebra de Objeções ✅ | Lead Magnet ✅
+- E-mails Ativação (5) ✅ | Meta Ads (5 anúncios) ✅ | VSL (3–4 min + 30s) ✅
+- Inside Sales WhatsApp ✅ | Thank You Page ✅ | Checkout Stripe ✅
+- E-mails Retenção (3) ✅ | Exit-Intent + Carrinho Abandonado ✅
+- Programa de Indicação / Referral ✅ | Onboarding Flow / Copy Primeiro Acesso ✅
+- Copy Upsell in-App Free→Pro ✅ | Copy Upsell in-App Pro→Business ✅
+- Script de Webinar (60–75 min) ✅ | Página Confirmação + Lembretes ✅
+- Anúncios Captação Webinar (5 criativos Meta Ads) ✅
+- Sequência Pré-Lançamento / Waitlist ✅ | Kit Open Cart ✅
+- Replay Page + Oferta 48h pós-webinar ✅ | Sequência No-Show ✅
+- Copy Anti-Churn / Cancelamento ✅ | Canal de Contadores / Parceiros B2B ✅
+- Semana de Aquecimento Pré-Webinar (D-5 a D-1) ✅ | Kit D-Day ✅
+- Sequência de Nurturing de Longo Prazo (D+30/D+60/D+90) ✅
+- Sequência de Retargeting Pós-Webinar (5 anúncios Meta Ads D+1 a D+7) ✅
+- Oferta de Lançamento D-Day — Bônus Exclusivos do Webinar ✅
+- Sequência E-mails Pós-Compra Webinar (D+0/D+1/D+3) ✅
+- E-mails de Fechamento da Oferta Webinar — Últimas 48h ✅
+- Calculadora de ROI — "Quanto Custa Não Saber Seus Números" ✅
+- Seção "Resultados Esperados — O que Muda nos Primeiros 30 Dias" ✅
+- Cases Reais por Segmento — Comércio / Serviços / Indústria ✅
+- Landing Page de Trial / Diagnóstico Gratuito ✅
+- Sequência de Reativação de Trial Expirado (3 e-mails D+3/D+7/D+14) ✅
+- Sequência de DMs para Instagram — Prospecção Ativa (7 templates) ✅
+- Kit Campanha de Meio de Ano (e-mail + SMS + Stories + Push + Banner + cronograma) ✅
+- **Kit Google Ads — 3 campanhas Search + Display remarketing + UTMs + conversões dev ✅** ← novo (noite 12/06)
+
+**Próximo passo:** Ativar Google Ads → configurar no Google Ads Manager → implementar conversões GA4 → finalizar DashboardPage → deploy.
+
+---
+
+## YOUTUBE — STATUS ATUAL (12/06/2026)
+
+| Ep.55 — Como o DRE Revela o Momento Certo de Aumentar Preços (Sem Perder Clientes) | **✅ Concluído** | `outputs/2026-06-12/youtube-outline.md` |
+
+**Publicar Ep.55:** 15–19/jun (timing perfeito — revisão de preços 2º semestre)
+
+---
+
+## PRÓXIMOS PASSOS (12/06/2026 — pós turno noite)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06
+3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `06-08`; tokens dev incluídos
+4. 🔎 **Ativar Google Ads** — Kit completo em `06-12`; orçamento MVP R$70–110/dia; iniciar com Search grupos 1.1 e 1.2
+5. 📣 **Disparar campanha de meio de ano** — cronograma pronto em `06-11`; e-mail hoje 12/06
+6. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; Ep.49 a Ep.55 na fila; Ep.54 e Ep.55 ideais para 15–19/jun
+7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **54 dias**); Omie agente generativo em beta (~1k clientes)
