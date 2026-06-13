@@ -3212,3 +3212,29 @@ Funil completo + Google Ads adicionado (tráfego pago diversificado: Meta + Goog
 5. 📣 **Disparar campanha de meio de ano** — cronograma pronto em `06-11`; e-mail hoje 12/06
 6. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; Ep.49 a Ep.55 na fila; Ep.54 e Ep.55 ideais para 15–19/jun
 7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **54 dias**); Omie agente generativo em beta (~1k clientes)
+
+---
+
+*Última atualização: 13/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 13/06/2026
+
+| **2026-06-13** | **Manhã** | **Post Instagram (seu negócio te paga de verdade? — pró-labore + lucro real no DRE — carrossel 7 slides), Relatório matutino** |
+
+### Manhã 13/06
+| Post Instagram (pró-labore + lucro real — seu negócio te paga de verdade? — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-13/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades: DashboardPage, Stripe, /diagnostico-gratuito) | ✅ Concluído | `outputs/2026-06-13/relatorio-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (13/06/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06
+3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`; tokens dev incluídos
+4. 🔎 **Ativar Google Ads** — Kit completo em `06-12`; orçamento MVP R$70–110/dia; iniciar após DashboardPage no ar
+5. 📣 **Campanha de meio de ano** — cronograma pronto em `06-11`; coupon `REVISAO_SEMESTRAL_JUNHO` ativo até 30/06
+6. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; Ep.49 a Ep.55 na fila; Ep.54 e Ep.55 ideais para 15–19/jun
+7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **53 dias**); Omie agente generativo em beta (~1k clientes)
