@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 02/06/2026 — Turno da manhã (Bella)*
+*Última atualização: 13/06/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -54,6 +54,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Comparativo (planilha/contador/ERP vs. Máxima)** | **✅ Concluído** | `outputs/2026-04-30/pagina-vendas-secao.md` |
 | **Para quem é (qualificação de lead)** | **✅ Concluído** | `outputs/2026-05-01/pagina-vendas-secao.md` |
 | **Urgência / Por que agir agora** | **✅ Concluído** | `outputs/2026-05-02/pagina-vendas-secao.md` |
+| **Objeções Específicas** | **✅ Concluído** | `outputs/2026-06-13/pagina-vendas-secao.md` |
 
 ---
 
@@ -110,6 +111,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.12 — DRE vs. Fluxo de Caixa: dois relatórios, uma decisão — qual usar?** | **✅ Concluído** | `outputs/2026-04-30/youtube-outline.md` |
 | **Ep.13 — Impostos no DRE: o número que devora sua margem sem você perceber** | **✅ Concluído** | `outputs/2026-05-01/youtube-outline.md` |
 | **Ep.14 — Sazonalidade no DRE: como não ser pego de surpresa nos meses fracos** | **✅ Concluído** | `outputs/2026-05-02/youtube-outline.md` |
+| **Ep.15 — Dívida boa ou dívida ruim? O que o DRE da sua empresa revela sobre isso** | **✅ Concluído** | `outputs/2026-06-13/youtube-outline.md` |
 
 ---
 
@@ -142,7 +144,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios 12+ — Ep.11 ✅ concluído)
+- Série YouTube (roteiro episódios 16+ — Ep.15 ✅ concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro
 
