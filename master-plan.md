@@ -3255,3 +3255,37 @@ Funil completo + Google Ads adicionado (tráfego pago diversificado: Meta + Goog
 5. 📣 **Campanha de meio de ano** — cronograma pronto em `06-11`; coupon `REVISAO_SEMESTRAL_JUNHO` ativo até 30/06; **16 dias restantes**
 6. 🎬 **Publicar Ep.55 YouTube** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; outline em `06-12`; publicar 15–19/jun (timing perfeito)
 7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **52 dias**); Omie agente generativo em beta (~1k clientes)
+
+---
+
+*Última atualização: 14/06/2026 — Turno da tarde (Bella)*
+
+---
+
+| **2026-06-14** | **Tarde** | **Reel concept v42 (DRE de junho prevê o caixa de julho), Concorrentes v42 (Treasy+Nibo integração, Conta Azul AI Captura WhatsApp, Omie IA fiscal + WhatsApp 100%), LinkedIn post v42 (junho acabou — você sabe o que julho vai fazer com seu caixa?)** |
+
+### Tarde 14/06
+| Reel concept v42 (DRE de junho prevê o caixa de julho) | ✅ Concluído | `outputs/2026-06-14/reel-concept.md` |
+| Concorrentes v42 (Treasy+Nibo, Conta Azul AI Captura WhatsApp, Omie IA fiscal) | ✅ Concluído | `outputs/2026-06-14/concorrentes.md` |
+| Post LinkedIn v42 (junho acabou — você sabe o que julho vai fazer com seu caixa?) | ✅ Concluído | `outputs/2026-06-14/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-14/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 14/06/2026
+
+**Treasy:** Integração 100% com Nibo concluída. Kit FP&A 2026 para PMEs lançado. Foco enterprise mantido — sem IA conversacional.
+**Conta Azul:** Conta AI Captura expandida (WhatsApp multi-CNPJ). Captura + lança docs automaticamente. Não interpreta DRE.
+**Omie:** ERP 100% via WhatsApp em produção. IA fiscal para reforma tributária ativa. App BI estratégico lançado. Ainda sem diagnóstico de DRE em linguagem simples.
+**Gap da Máxima MANTIDO.** Janela crítica: 51 dias para Conta Azul CON (5/ago).
+
+---
+
+## PRÓXIMOS PASSOS (14/06/2026 — pós turno tarde)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06
+3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`
+4. 🎬 **Publicar Ep.55 YouTube** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; publicar 15–19/jun
+5. 📣 **Campanha de meio de ano** — coupon `REVISAO_SEMESTRAL_JUNHO` ativo até 30/06; **16 dias restantes**
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **51 dias**); Omie IA fiscal em produção
