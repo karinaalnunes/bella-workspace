@@ -3258,11 +3258,12 @@ Funil completo + Google Ads adicionado (tráfego pago diversificado: Meta + Goog
 
 ---
 
-*Última atualização: 14/06/2026 — Turno da tarde (Bella)*
+*Última atualização: 14/06/2026 — Turno da noite (Bella)*
 
 ---
 
 | **2026-06-14** | **Tarde** | **Reel concept v42 (DRE de junho prevê o caixa de julho), Concorrentes v42 (Treasy+Nibo integração, Conta Azul AI Captura WhatsApp, Omie IA fiscal + WhatsApp 100%), LinkedIn post v42 (junho acabou — você sabe o que julho vai fazer com seu caixa?)** |
+| **2026-06-14** | **Noite** | **Copy para DashboardPage (widgets + estados vazios + tooltips + alertas + tokens dev), Outline YouTube Ep.56 (Como Preparar seu Caixa para Julho: O Que o DRE de Junho Revela)** |
 
 ### Tarde 14/06
 | Reel concept v42 (DRE de junho prevê o caixa de julho) | ✅ Concluído | `outputs/2026-06-14/reel-concept.md` |
@@ -3281,11 +3282,35 @@ Funil completo + Google Ads adicionado (tráfego pago diversificado: Meta + Goog
 
 ---
 
-## PRÓXIMOS PASSOS (14/06/2026 — pós turno tarde)
+### Noite 14/06
+| Copy para DashboardPage (widgets + estados vazios + tooltips + alertas + tokens dev) | ✅ Concluído | `outputs/2026-06-14/pagina-vendas-secao.md` |
+| Ep.56 YouTube (Como Preparar seu Caixa para Julho: O Que o DRE de Junho Revela) | ✅ Concluído | `outputs/2026-06-14/youtube-outline.md` |
 
-1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente
-2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06
-3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`
-4. 🎬 **Publicar Ep.55 YouTube** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; publicar 15–19/jun
-5. 📣 **Campanha de meio de ano** — coupon `REVISAO_SEMESTRAL_JUNHO` ativo até 30/06; **16 dias restantes**
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (14/06/2026)
+
+Funil completo + copy do DashboardPage pronto para implementação imediata.
+
+**Entrega crítica (noite 14/06):**
+- **Copy para DashboardPage** — tudo que o dev precisa para implementar os 3 widgets MVP + estados + tooltips + alertas + microcopy + tokens JS ✅
+
+---
+
+## YOUTUBE — STATUS ATUAL (14/06/2026)
+
+| Ep.56 — Como Preparar seu Caixa para Julho: O Que o DRE de Junho Revela | **✅ Concluído** | `outputs/2026-06-14/youtube-outline.md` |
+
+**Publicar Ep.55:** AMANHÃ 15/jun (timing perfeito — reajuste de preços 2º semestre)
+**Publicar Ep.56:** 16–19/jun (timing: empresário ainda em junho, 16 dias de vantagem)
+
+---
+
+## PRÓXIMOS PASSOS (14/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage** — copy 100% pronto em `outputs/2026-06-14/pagina-vendas-secao.md`; tokens JS incluídos; dev pode codar hoje
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06 (**16 dias**)
+3. 🎬 **Publicar Ep.55 YouTube** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; publicar **amanhã 15/jun** (timing ideal)
+4. 🎬 **Publicar Ep.56 YouTube** — "Como Preparar seu Caixa para Julho"; publicar **16–19/jun** (16 dias antes de julho)
+5. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **51 dias**); Omie IA fiscal em produção
