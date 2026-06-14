@@ -3217,26 +3217,41 @@ Funil completo + Google Ads adicionado (tráfego pago diversificado: Meta + Goog
 
 ---
 
-*Última atualização: 13/06/2026 — Turno da manhã (Bella)*
+*Última atualização: 14/06/2026 — Turno da manhã (Bella)*
 
 ---
 
 ## HISTÓRICO — 13/06/2026
 
 | **2026-06-13** | **Manhã** | **Post Instagram (seu negócio te paga de verdade? — pró-labore + lucro real no DRE — carrossel 7 slides), Relatório matutino** |
+| **2026-06-13** | **Noite** | **Seção "Objeções Específicas" (página de vendas — 7 objeções reais do empresário PME + respostas + CTA), Outline YouTube Ep.15 (Dívida boa ou dívida ruim? O que o DRE revela)** |
 
 ### Manhã 13/06
 | Post Instagram (pró-labore + lucro real — seu negócio te paga de verdade? — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-13/instagram-post-manha.md` |
 | Relatório matutino (3 prioridades: DashboardPage, Stripe, /diagnostico-gratuito) | ✅ Concluído | `outputs/2026-06-13/relatorio-manha.md` |
 
+### Noite 13/06
+| Seção "Objeções Específicas" (página de vendas — 7 objeções reais + respostas diretas + CTA) | ✅ Concluído | `outputs/2026-06-13/pagina-vendas-secao.md` |
+| Ep.15 YouTube (Dívida boa ou dívida ruim? O que o DRE da sua empresa revela sobre isso) | ✅ Concluído | `outputs/2026-06-13/youtube-outline.md` |
+
 ---
 
-## PRÓXIMOS PASSOS (13/06/2026 — turno manhã)
+## HISTÓRICO — 14/06/2026
+
+| **2026-06-14** | **Manhã** | **Post Instagram (julho chegando — seu caixa está preparado? — carrossel 7 slides), Relatório matutino** |
+
+### Manhã 14/06
+| Post Instagram (julho chegando — férias + custos fixos + provisão — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-14/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades: DashboardPage, Stripe, post Instagram) | ✅ Concluído | `outputs/2026-06-14/relatorio-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (14/06/2026 — turno manhã)
 
 1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
 2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06
 3. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`; tokens dev incluídos
 4. 🔎 **Ativar Google Ads** — Kit completo em `06-12`; orçamento MVP R$70–110/dia; iniciar após DashboardPage no ar
-5. 📣 **Campanha de meio de ano** — cronograma pronto em `06-11`; coupon `REVISAO_SEMESTRAL_JUNHO` ativo até 30/06
-6. 🎬 **Publicar Ep.48 YouTube** — outline em `06-05`; Ep.49 a Ep.55 na fila; Ep.54 e Ep.55 ideais para 15–19/jun
-7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **53 dias**); Omie agente generativo em beta (~1k clientes)
+5. 📣 **Campanha de meio de ano** — cronograma pronto em `06-11`; coupon `REVISAO_SEMESTRAL_JUNHO` ativo até 30/06; **16 dias restantes**
+6. 🎬 **Publicar Ep.55 YouTube** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; outline em `06-12`; publicar 15–19/jun (timing perfeito)
+7. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **52 dias**); Omie agente generativo em beta (~1k clientes)
