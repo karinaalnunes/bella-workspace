@@ -3359,3 +3359,45 @@ Funil completo + copy do DashboardPage pronto para implementação imediata.
 4. 💼 **Publicar post LinkedIn** — pronto em `outputs/2026-06-15/linkedin-post.md`; ideal hoje ou amanhã cedo
 5. 🎬 **Publicar Ep.56 YouTube** — "Como Preparar seu Caixa para Julho"; outline em `06-14`; publicar **16–19/jun**
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **51 dias**); Omie agente generativo em roadmap (3–6 meses)
+
+---
+
+*Última atualização: 15/06/2026 — Turno da noite (Bella)*
+
+---
+
+| **2026-06-15** | **Noite** | **Programa de Indicação "Indica e Ganha" (copy completa — página + 2 e-mails + tokens dev), Outline YouTube Ep.57 (Planejamento de Julho com o DRE de Junho)** |
+
+### Noite 15/06
+| Programa de Indicação "Indica e Ganha" (copy completa — página + e-mails + tokens dev) | ✅ Concluído | `outputs/2026-06-15/pagina-vendas-secao.md` |
+| Ep.57 YouTube (Planejamento de Julho: Como Usar o DRE de Junho para Entrar no 2º Semestre no Controle) | ✅ Concluído | `outputs/2026-06-15/youtube-outline.md` |
+
+---
+
+## FUNIL / PÁGINA DE VENDAS — STATUS ATUAL (15/06/2026)
+
+Funil completo + programa de indicação para crescimento viral.
+
+**Novas entregas (noite 15/06):**
+- **Programa de Indicação "Indica e Ganha"** — mecânica: 30 dias grátis para indicado + 1 mês grátis por indicação válida; copy de página + 2 e-mails + tokens JS ✅
+
+---
+
+## YOUTUBE — STATUS ATUAL (15/06/2026)
+
+| Ep.57 — Planejamento de Julho: Como Usar o DRE de Junho para Entrar no 2º Semestre no Controle | **✅ Concluído** | `outputs/2026-06-15/youtube-outline.md` |
+
+**Publicar Ep.55:** Esta semana (janela fecha com fim de jun)
+**Publicar Ep.56:** 16–19/jun (16 dias antes de julho)
+**Publicar Ep.57:** 18–22/jun (máx urgência antes de julho)
+
+---
+
+## PRÓXIMOS PASSOS (15/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage no código** — copy 100% pronta em `outputs/2026-06-14/pagina-vendas-secao.md`; tokens JS incluídos; **gargalo crítico — 50 dias para o CON**
+2. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06 (**15 dias restantes**)
+3. 🎬 **Publicar Ep.55 YouTube AMANHÃ** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; janela ideal fecha essa semana
+4. 🎬 **Publicar Ep.56 YouTube** — "Como Preparar seu Caixa para Julho"; publicar **16–19/jun**
+5. 🤝 **Implementar Programa de Indicação** — copy completa em `outputs/2026-06-15/pagina-vendas-secao.md`; tokens JS incluídos para o dev
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **50 dias**); Omie agente generativo em roadmap (3–6 meses)
