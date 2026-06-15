@@ -3331,11 +3331,31 @@ Funil completo + copy do DashboardPage pronto para implementação imediata.
 
 ---
 
-## PRÓXIMOS PASSOS (15/06/2026 — turno manhã)
+## HISTÓRICO — 15/06/2026 (continuação)
+
+| **2026-06-15** | **Tarde** | **Reel concept v44 (margem real vs. saldo bancário), Concorrentes v44 (Treasy Kit 2026, Conta AI multi-CNPJ CON agosto, Omie WhatsApp produção + aporte US$100M), LinkedIn post v44 (margem real educativo)** |
+
+### Tarde 15/06
+| Reel concept v44 (margem real vs. saldo bancário) | ✅ Concluído | `outputs/2026-06-15/reel-concept.md` |
+| Concorrentes v44 (Treasy FP&A kit, Conta Azul CON ago, Omie WhatsApp+US$100M) | ✅ Concluído | `outputs/2026-06-15/concorrentes.md` |
+| Post LinkedIn v44 (margem real — educativo + CTA lista de espera) | ✅ Concluído | `outputs/2026-06-15/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-15/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 15/06/2026
+
+**Treasy:** Foco FP&A enterprise (Kit Orçamentário 2026, Jornada da Meta). Nenhuma mudança para PME. Gap mantido.
+**Conta Azul:** AI Captura expandindo multi-CNPJ para BPOs. CON 2026 confirmado 5–6/ago SP — possível anúncio de IA avançada. **Deploy da Máxima deve preceder o evento.**
+**Omie:** ERP via WhatsApp 100% operacional. Aporte US$100M+. Agente generativo no roadmap. Crédito integrado anunciado. Ainda não diagnostica DRE — gap mantido mas janela estimada em 3–6 meses.
+
+---
+
+## PRÓXIMOS PASSOS (15/06/2026 — turno tarde)
 
 1. 🔥 **Implementar DashboardPage no código** — copy 100% pronta em `outputs/2026-06-14/pagina-vendas-secao.md`; tokens JS incluídos; gargalo crítico do lançamento
 2. 🎬 **Publicar Ep.55 YouTube HOJE** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; outline em `06-12`; janela ideal fecha essa semana
 3. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06 (**15 dias**)
-4. 🎬 **Publicar Ep.56 YouTube** — "Como Preparar seu Caixa para Julho"; outline em `06-14`; publicar **16–19/jun**
-5. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`; tokens dev incluídos
-6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **51 dias**); Omie IA fiscal em produção
+4. 💼 **Publicar post LinkedIn** — pronto em `outputs/2026-06-15/linkedin-post.md`; ideal hoje ou amanhã cedo
+5. 🎬 **Publicar Ep.56 YouTube** — "Como Preparar seu Caixa para Julho"; outline em `06-14`; publicar **16–19/jun**
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **51 dias**); Omie agente generativo em roadmap (3–6 meses)
