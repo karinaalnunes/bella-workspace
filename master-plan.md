@@ -3314,3 +3314,28 @@ Funil completo + copy do DashboardPage pronto para implementação imediata.
 4. 🎬 **Publicar Ep.56 YouTube** — "Como Preparar seu Caixa para Julho"; publicar **16–19/jun** (16 dias antes de julho)
 5. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **51 dias**); Omie IA fiscal em produção
+
+---
+
+*Última atualização: 15/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 15/06/2026
+
+| **2026-06-15** | **Manhã** | **Post Instagram (3 sinais do DRE que mostram preço defasado — carrossel 7 slides), Relatório matutino** |
+
+### Manhã 15/06
+| Post Instagram (3 sinais no DRE de que o preço está errado — alinhado ao lançamento Ep.55 YouTube) | ✅ Concluído | `outputs/2026-06-15/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades: DashboardPage dev, Ep.55 YouTube, Stripe) | ✅ Concluído | `outputs/2026-06-15/relatorio-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (15/06/2026 — turno manhã)
+
+1. 🔥 **Implementar DashboardPage no código** — copy 100% pronta em `outputs/2026-06-14/pagina-vendas-secao.md`; tokens JS incluídos; gargalo crítico do lançamento
+2. 🎬 **Publicar Ep.55 YouTube HOJE** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; outline em `06-12`; janela ideal fecha essa semana
+3. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; coupon `REVISAO_SEMESTRAL_JUNHO` válido até 30/06 (**15 dias**)
+4. 🎬 **Publicar Ep.56 YouTube** — "Como Preparar seu Caixa para Julho"; outline em `06-14`; publicar **16–19/jun**
+5. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `outputs/2026-06-08/pagina-vendas-secao.md`; tokens dev incluídos
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **51 dias**); Omie IA fiscal em produção
