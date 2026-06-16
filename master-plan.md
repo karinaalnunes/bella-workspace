@@ -3400,4 +3400,33 @@ Funil completo + programa de indicação para crescimento viral.
 3. 🎬 **Publicar Ep.55 YouTube AMANHÃ** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; janela ideal fecha essa semana
 4. 🎬 **Publicar Ep.56 YouTube** — "Como Preparar seu Caixa para Julho"; publicar **16–19/jun**
 5. 🤝 **Implementar Programa de Indicação** — copy completa em `outputs/2026-06-15/pagina-vendas-secao.md`; tokens JS incluídos para o dev
+
+---
+
+*Última atualização: 16/06/2026 — Turno da manhã (Bella)*
+
+---
+
+| **2026-06-16** | **Manhã** | **Post Instagram (fechamento de semestre — 4 números do DRE antes de 30/jun), Relatório matutino** |
+
+### Manhã 16/06
+| Post Instagram (fechamento de semestre — 4 números do DRE) | ✅ Concluído | `outputs/2026-06-16/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-16/relatorio-manha.md` |
+
+---
+
+## INSTAGRAM — STATUS ATUAL (16/06/2026)
+
+| Post manhã 16/06 — 4 números do DRE (fechamento semestral) | **✅ Concluído** | `outputs/2026-06-16/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (16/06/2026 — pós turno manhã)
+
+1. 🔥 **Implementar DashboardPage no código** — copy 100% pronta em `outputs/2026-06-14/pagina-vendas-secao.md`; **gargalo crítico — 50 dias para o CON**
+2. 💳 **Criar produtos no Stripe (15 min)** — coupon `REVISAO_SEMESTRAL_JUNHO` expira 30/06 (**14 dias restantes**)
+3. 🎬 **Publicar Ep.55 YouTube HOJE** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; janela fecha essa semana
+4. 🎬 **Publicar Ep.56 YouTube** — "Como Preparar seu Caixa para Julho"; publicar ainda essa semana (16–19/jun)
+5. 🎬 **Publicar Ep.57 YouTube** — "Planejamento de Julho com o DRE de Junho"; publicar 18–22/jun
+6. 🤝 **Implementar Programa de Indicação** — copy completa em `outputs/2026-06-15/pagina-vendas-secao.md`
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **50 dias**); Omie agente generativo em roadmap (3–6 meses)
