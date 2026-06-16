@@ -3430,3 +3430,48 @@ Funil completo + programa de indicação para crescimento viral.
 5. 🎬 **Publicar Ep.57 YouTube** — "Planejamento de Julho com o DRE de Junho"; publicar 18–22/jun
 6. 🤝 **Implementar Programa de Indicação** — copy completa em `outputs/2026-06-15/pagina-vendas-secao.md`
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **50 dias**); Omie agente generativo em roadmap (3–6 meses)
+
+---
+
+*Última atualização: 16/06/2026 — Turno da noite (Bella)*
+
+---
+
+| **2026-06-16** | **Noite** | **Copy para AnalisePage (todos os componentes UX + tokens dev — gargalo crítico do produto), Outline YouTube Ep.58 (13º e Férias no DRE: Como Provisionar Agora)** |
+
+### Noite 16/06
+| Copy para AnalisePage (componentes completos: indicadores + análise Sofia + recomendações + estados + upsell + tokens dev) | ✅ Concluído | `outputs/2026-06-16/pagina-vendas-secao.md` |
+| Ep.58 YouTube (13º e Férias no DRE: Como Provisionar Agora e Não Ser Pego de Surpresa no 2º Semestre) | ✅ Concluído | `outputs/2026-06-16/youtube-outline.md` |
+
+---
+
+## PRODUTO — STATUS ATUAL (16/06/2026)
+
+**Copy de implementação disponível para dev:**
+- DashboardPage (copy + widgets + tokens JS) ✅ → `outputs/2026-06-14/pagina-vendas-secao.md`
+- **AnalisePage (copy + componentes + tokens JS) ✅ ← NOVO** → `outputs/2026-06-16/pagina-vendas-secao.md`
+
+Com os dois documentos acima, o dev tem tudo para implementar as duas páginas pendentes do app.
+
+---
+
+## YOUTUBE — STATUS ATUAL (16/06/2026)
+
+| Ep.58 — 13º e Férias no DRE: Como Provisionar Agora e Não Ser Pego de Surpresa no 2º Semestre | **✅ Concluído** | `outputs/2026-06-16/youtube-outline.md` |
+
+**Fila de publicação:**
+- Ep.55: URGENTE esta semana (reajuste de preços 2º semestre)
+- Ep.56: 16–19/jun (julho se aproxima)
+- Ep.57: 18–22/jun (planejamento julho)
+- Ep.58: 20–25/jun (13º + férias de julho — timing perfeito)
+
+---
+
+## PRÓXIMOS PASSOS (16/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — copy 100% prontas em `06-14` e `06-16`; dev tem tudo que precisa; **gargalo crítico — 50 dias para o CON**
+2. 💳 **Criar produtos no Stripe (15 min)** — coupon `REVISAO_SEMESTRAL_JUNHO` expira 30/06 (**14 dias restantes**)
+3. 🎬 **Publicar Ep.55 YouTube AMANHÃ** — janela ideal fecha essa semana
+4. 🎬 **Publicar Ep.56, 57, 58** — fila pronta; publicar 1 por dia até 22/jun
+5. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `06-08`
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **50 dias**); Omie agente generativo em beta
