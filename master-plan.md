@@ -3517,3 +3517,46 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 3. 🎬 **Publicar Ep.55 YouTube HOJE/AMANHÃ** — urgente
 4. 👀 **Monitorar CCAV 2026 (19–21/jun)** — Omie tem estande; verificar anúncios de IA financeira
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **49 dias**); Omie com R$ 885M acelerando
+
+---
+
+*Última atualização: 17/06/2026 — Turno da noite (Bella)*
+
+---
+
+| **2026-06-17** | **Noite** | **Pop-up de Urgência Semestral (4 versões: exit-intent + sticky bar + countdown + mobile + e-mail reativação), Outline YouTube Ep.59 (Revisão de Semestre com o DRE: Jan–Jun revela o 2º Semestre)** |
+
+### Noite 17/06
+| Pop-up/Banner de Urgência — Virada de Semestre (4 versões + e-mail reativação + tokens dev) | ✅ Concluído | `outputs/2026-06-17/pagina-vendas-secao.md` |
+| Ep.59 YouTube (Revisão de Semestre com o DRE: O Que Jan–Jun Revela para o 2º Semestre) | ✅ Concluído | `outputs/2026-06-17/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS / CONVERSÃO — STATUS ATUAL (17/06/2026)
+
+**Último entregável:** Pop-up de Urgência Semestral — 4 versões completas + e-mail de reativação + tokens dev para Stripe + componentes React prontos.
+- Implementação estimada: 2–3 horas no front-end
+- **PRIORIDADE MÁXIMA:** coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe expira **30/jun** (13 dias)
+
+---
+
+## YOUTUBE — STATUS ATUAL (17/06/2026)
+
+| Ep.59 — Revisão de Semestre com o DRE (Jan–Jun para o 2º Semestre) | **✅ Concluído** | `outputs/2026-06-17/youtube-outline.md` |
+
+**Fila de publicação (urgência):**
+- Ep.55: URGENTE — publicar amanhã (18/jun)
+- Ep.56: 19/jun
+- Ep.57: 20/jun
+- Ep.58: 21–22/jun
+- Ep.59: 23–25/jun (ideal antes do fechamento de junho)
+
+---
+
+## PRÓXIMOS PASSOS (17/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 49 dias para o CON**
+2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — pop-up pronto para subir; expira 30/jun (**13 dias**)
+3. 🎬 **Publicar Ep.55 AMANHÃ (18/jun)** — fila de 5 episódios esperando
+4. 👀 **Monitorar CCAV 2026 (19–21/jun)** — Omie R$ 885M; verificar anúncios de IA financeira
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **49 dias**); janela da Máxima estimada em **2–4 meses**
