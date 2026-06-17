@@ -3475,3 +3475,45 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 4. 🎬 **Publicar Ep.56, 57, 58** — fila pronta; publicar 1 por dia até 22/jun
 5. 🌐 **Implementar `/diagnostico-gratuito`** — landing page pronta em `06-08`
 6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **50 dias**); Omie agente generativo em beta
+
+---
+
+*Última atualização: 17/06/2026 — Turno da tarde (Bella)*
+
+---
+
+## HISTÓRICO — 17/06/2026
+
+| **2026-06-17** | **Manhã** | **Post Instagram (custo real do funcionário — 13º + férias), Relatório matutino** |
+| **2026-06-17** | **Tarde** | **Reel concept v46 (virada de semestre — cresceu ou só faturou?), Concorrentes v46 (ALERTA: Omie capta R$ 885M — janela diminui), LinkedIn post v46 (revisão de semestre com DRE)** |
+
+### Instagram
+| Post manhã 17/06 | ✅ Concluído | `outputs/2026-06-17/instagram-post-manha.md` |
+| Reel concept v46 | ✅ Concluído | `outputs/2026-06-17/reel-concept.md` |
+
+### LinkedIn
+| Post LinkedIn v46 | ✅ Concluído | `outputs/2026-06-17/linkedin-post.md` |
+
+### Inteligência Competitiva
+| Concorrentes v46 | ✅ Concluído | `outputs/2026-06-17/concorrentes.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 17/06/2026
+
+⚠️ **ALERTA MÁXIMO — Omie captou R$ 885 milhões.** Maior aporte da história da empresa.
+- Omie participa do CCAV 2026 (19–21/jun, São Paulo) — monitorar anúncios dessa semana
+- Conta AI (Conta Azul) com Gemini: interpreta documentos fiscais mas NÃO diagnostica DRE
+- Treasy: foco enterprise mantido, gap de PME com IA conversacional confirmado
+
+**Janela do Máxima Finance: de 3–6 meses para estimados 2–4 meses. Urgência máxima de lançamento.**
+
+---
+
+## PRÓXIMOS PASSOS (17/06/2026 — pós turno tarde)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 49 dias para o CON**
+2. 💳 **Criar produtos no Stripe (15 min)** — coupon `REVISAO_SEMESTRAL_JUNHO` expira 30/06 (**13 dias restantes**)
+3. 🎬 **Publicar Ep.55 YouTube HOJE/AMANHÃ** — urgente
+4. 👀 **Monitorar CCAV 2026 (19–21/jun)** — Omie tem estande; verificar anúncios de IA financeira
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **49 dias**); Omie com R$ 885M acelerando
