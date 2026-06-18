@@ -3590,3 +3590,37 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 3. 🎬 **Publicar Ep.55 YouTube HOJE** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; última janela ideal
 4. 👀 **CCAV 2026 AMANHÃ (19–21/jun)** — Omie R$ 885M tem estande; monitorar anúncios de IA financeira
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **48 dias**); janela da Máxima Finance: **2–4 meses**
+
+---
+
+| **2026-06-18** | **Tarde** | **Reel concept v38 (revisão semestral com DRE), Concorrentes v39 (CCAV alerta, Omie IA fiscal, Conta Azul CON), LinkedIn post v39 (3 perguntas do DRE de jun)** |
+
+### Tarde 18/06
+| Reel concept v38 (Você fechou junho. Mas fechou mesmo?) | ✅ Concluído | `outputs/2026-06-18/reel-concept.md` |
+| Concorrentes v39 (Treasy, Conta Azul, Omie — alerta CCAV 2026) | ✅ Concluído | `outputs/2026-06-18/concorrentes.md` |
+| Post LinkedIn v39 (revisão semestral — 3 perguntas do DRE) | ✅ Concluído | `outputs/2026-06-18/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-18/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 18/06/2026
+
+**Treasy:** Foco enterprise mantido. Novo recurso multi-contas para consultores. Sem produto para PME sem contador. Gap confirmado.
+**Conta Azul:** Conta AI Captura (captura docs via WhatsApp → sugere lançamentos) em produção. CON 2026 confirmado para 5–6/ago. Risco de anúncio de IA de análise financeira em agosto.
+**Omie:** ERP completo via WhatsApp em produção (texto + voz). IA fiscal em produção (reforma tributária). Crédito via WhatsApp: próximo passo declarado. CCAV 2026 com estande confirmado (19–21/jun). Janela para diagnóstico de DRE: estimada em 3–6 meses.
+
+**Gap da Máxima mantido:** Nenhum concorrente interpreta DRE em linguagem natural para o empresário.
+
+---
+
+## PRÓXIMOS PASSOS (18/06/2026 — pós turno tarde)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — gargalo crítico; **48 dias para CON**
+2. 👀 **Monitorar CCAV 2026 (19–21/jun)** — Omie R$ 885M; Conta Azul; verificar anúncios de IA financeira esta semana
+3. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**12 dias**)
+4. 🎬 **Publicar Ep.55 YouTube HOJE** — última janela ideal (virada de semestre)
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); janela da Máxima: **2–4 meses**
+
+---
+
+*Última atualização: 18/06/2026 — Turno da tarde (Bella)*
