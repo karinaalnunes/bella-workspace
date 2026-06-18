@@ -3623,4 +3623,50 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+*Última atualização: 18/06/2026 — Turno da noite (Bella)*
+
+---
+
+| **2026-06-18** | **Noite** | **Script de Welcome Video / Onboarding em Vídeo (roteiro completo 2min + versão 45s modal + tokens dev + e-mail boas-vindas), Outline YouTube Ep.60 (Julho no DRE: Como Proteger o Caixa nas Férias Coletivas)** |
+
+### Noite 18/06
+| Script de Welcome Video / Onboarding em Vídeo (2min + 45s + tokens dev + e-mail) | ✅ Concluído | `outputs/2026-06-18/pagina-vendas-secao.md` |
+| Ep.60 YouTube (Julho no DRE: Como Proteger o Caixa nas Férias Coletivas) | ✅ Concluído | `outputs/2026-06-18/youtube-outline.md` |
+
+---
+
+## YOUTUBE — STATUS ATUAL (18/06/2026)
+
+| Ep.60 — Julho no DRE: Como Proteger o Caixa nas Férias Coletivas | **✅ Concluído** | `outputs/2026-06-18/youtube-outline.md` |
+
+**Fila de publicação (urgência máxima — julho se aproxima):**
+- Ep.55: URGENTE — publicar 18 ou 19/jun (virada de semestre — janela fecha)
+- Ep.56: 19/jun
+- Ep.57: 20/jun
+- Ep.58: 21–22/jun
+- Ep.59: 23–25/jun
+- Ep.60: 20–22/jun (ideal — 10 dias antes de julho)
+
+---
+
+## PRODUTO — STATUS ATUAL (18/06/2026 — noite)
+
+**Copy de implementação disponível para dev:**
+- DashboardPage (copy + widgets + tokens JS) ✅ → `outputs/2026-06-14/pagina-vendas-secao.md`
+- AnalisePage (copy + componentes + tokens JS) ✅ → `outputs/2026-06-16/pagina-vendas-secao.md`
+- **Welcome Video / Onboarding (roteiro + tokens React + e-mail) ✅ ← NOVO** → `outputs/2026-06-18/pagina-vendas-secao.md`
+
+---
+
+## PRÓXIMOS PASSOS (18/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas; **gargalo crítico — 48 dias para o CON**
+2. 🎬 **Gravar Welcome Video** — roteiro pronto em `outputs/2026-06-18/pagina-vendas-secao.md`; sugestão: Loom para protótipo
+3. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**12 dias restantes**)
+4. 🎬 **Publicar Ep.55 AMANHÃ (19/jun)** — fila de 6 episódios esperando; janela fechando
+5. 👀 **Monitorar CCAV 2026 (19–21/jun)** — Omie R$ 885M; Conta Azul; verificar anúncios de IA financeira
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); janela da Máxima: **2–4 meses**
+
+---
+
 *Última atualização: 18/06/2026 — Turno da tarde (Bella)*
