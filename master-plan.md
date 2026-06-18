@@ -3560,3 +3560,33 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 3. 🎬 **Publicar Ep.55 AMANHÃ (18/jun)** — fila de 5 episódios esperando
 4. 👀 **Monitorar CCAV 2026 (19–21/jun)** — Omie R$ 885M; verificar anúncios de IA financeira
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **49 dias**); janela da Máxima estimada em **2–4 meses**
+
+---
+
+*Última atualização: 18/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 18/06/2026
+
+| **2026-06-18** | **Manhã** | **Post Instagram (reajuste de preços 2º semestre — 3 sinais do DRE), Relatório matutino** |
+
+### Manhã 18/06
+| Post Instagram (reajuste de preços no 2º semestre — 3 sinais do DRE — carrossel 5 slides) | ✅ Concluído | `outputs/2026-06-18/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-18/relatorio-manha.md` |
+
+---
+
+## INSTAGRAM — STATUS ATUAL (18/06/2026)
+
+| Post manhã 18/06 — 3 sinais do DRE para reajuste de preços (2º semestre) | **✅ Concluído** | `outputs/2026-06-18/instagram-post-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (18/06/2026 — pós turno manhã)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy 100% prontas em `outputs/2026-06-14` e `outputs/2026-06-16`; **gargalo crítico — 48 dias para o CON**
+2. 💳 **Criar produtos no Stripe (15 min)** — coupon `REVISAO_SEMESTRAL_JUNHO` expira 30/jun (**12 dias restantes**)
+3. 🎬 **Publicar Ep.55 YouTube HOJE** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; última janela ideal
+4. 👀 **CCAV 2026 AMANHÃ (19–21/jun)** — Omie R$ 885M tem estande; monitorar anúncios de IA financeira
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **48 dias**); janela da Máxima Finance: **2–4 meses**
