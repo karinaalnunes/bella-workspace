@@ -3575,6 +3575,20 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Post Instagram (reajuste de preços no 2º semestre — 3 sinais do DRE — carrossel 5 slides) | ✅ Concluído | `outputs/2026-06-18/instagram-post-manha.md` |
 | Relatório matutino | ✅ Concluído | `outputs/2026-06-18/relatorio-manha.md` |
 
+### Manhã 19/06
+| Post Instagram (descasamento de caixa — o que o DRE de junho revela sobre julho) | ✅ Concluído | `outputs/2026-06-19/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-19/relatorio-manha.md` |
+
+### Tarde 19/06
+| Reel concept v39 | ✅ Concluído | `outputs/2026-06-19/reel-concept.md` |
+| Concorrentes v40 (CCAV 2026 ao vivo) | ✅ Concluído | `outputs/2026-06-19/concorrentes.md` |
+| Post LinkedIn v40 | ✅ Concluído | `outputs/2026-06-19/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-19/relatorio-tarde.md` |
+
+### **Noite 19/06**
+| **Seção Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" (página de vendas)** | **✅ Concluído** | `outputs/2026-06-19/pagina-vendas-secao.md` |
+| **Ep.61 YouTube (Virada de Semestre: DRE de Junho Para Planejar o 2º Semestre)** | **✅ Concluído** | `outputs/2026-06-19/youtube-outline.md` |
+
 ---
 
 ## INSTAGRAM — STATUS ATUAL (18/06/2026)
@@ -3705,4 +3719,66 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 18/06/2026 — Turno da tarde (Bella)*
+## HISTÓRICO — 19/06/2026 (Noite)
+
+| **2026-06-19** | **Noite** | **Seção Posicionamento Anticompetitivo (página de vendas — ERP organiza, IA interpreta), Ep.61 YouTube (Virada de Semestre: DRE de Junho Para Planejar o 2º Semestre)** |
+
+### Tarde 19/06
+| Reel concept v39 | ✅ Concluído | `outputs/2026-06-19/reel-concept.md` |
+| Concorrentes v40 (CCAV 2026 ao vivo) | ✅ Concluído | `outputs/2026-06-19/concorrentes.md` |
+| Post LinkedIn v40 | ✅ Concluído | `outputs/2026-06-19/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-19/relatorio-tarde.md` |
+
+### Noite 19/06
+| Seção Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" (página de vendas) | ✅ Concluído | `outputs/2026-06-19/pagina-vendas-secao.md` |
+| Ep.61 YouTube (Virada de Semestre: DRE de Junho Para Planejar o 2º Semestre) | ✅ Concluído | `outputs/2026-06-19/youtube-outline.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (19/06/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- **Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅** ← novo (noite 19/06)
+
+---
+
+## YOUTUBE — STATUS ATUAL (19/06/2026)
+
+| Ep.61 — Virada de Semestre: DRE de Junho Para Planejar o 2º Semestre | **✅ Concluído** | `outputs/2026-06-19/youtube-outline.md` |
+
+**Fila de publicação (urgência máxima — virada de semestre):**
+- Ep.55: **URGENTE — publicar amanhã 20/jun (última janela virada de semestre)**
+- Ep.56: 20/jun
+- Ep.57: 21/jun
+- Ep.58: 22–23/jun
+- Ep.59: 24–25/jun
+- Ep.60: 25–27/jun
+- Ep.61: 26–28/jun (ideal antes do fechamento de junho)
+
+---
+
+## PRÓXIMOS PASSOS (19/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 47 dias para o CON**
+2. 🎬 **Publicar Ep.55 AMANHÃ (20/jun) — ÚLTIMA JANELA** — 7 episódios na fila esperando
+3. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**11 dias restantes**)
+4. 👀 **Monitorar CCAV 2026 Dia 2 (20/jun)** — verificar anúncios de IA financeira de Omie e Conta Azul
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **47 dias**); janela da Máxima: **2–4 meses**
+
+---
+
+*Última atualização: 19/06/2026 — Turno da noite (Bella)*
