@@ -3669,4 +3669,40 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+*Última atualização: 19/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 19/06/2026
+
+| **2026-06-19** | **Manhã** | **Post Instagram (faturou bem em junho? cuidado com julho — descasamento de caixa), Relatório matutino** |
+
+### Manhã 19/06
+| Post Instagram (descasamento de caixa — o que o DRE de junho revela sobre julho) | ✅ Concluído | `outputs/2026-06-19/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-19/relatorio-manha.md` |
+
+---
+
+## INSTAGRAM — STATUS ATUAL (19/06/2026)
+
+| Post manhã 19/06 — descasamento de caixa (DRE de junho previne julho) | **✅ Concluído** | `outputs/2026-06-19/instagram-post-manha.md` |
+
+---
+
+## ALERTA ATIVO (19/06/2026)
+
+⚠️ **CCAV 2026 acontece HOJE (19–21/jun, São Paulo)** — Omie (R$885M) e Conta Azul com estandes. Monitorar anúncios de IA financeira nas próximas 72h. Janela da Máxima Finance estimada em **2–4 meses**.
+
+---
+
+## PRÓXIMOS PASSOS (19/06/2026 — pós turno manhã)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 47 dias para o CON**
+2. 🎬 **Publicar Ep.55 YouTube HOJE** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; janela fechando
+3. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**11 dias restantes**)
+4. 👀 **Monitorar CCAV 2026 (19–21/jun)** — Omie R$ 885M; verificar anúncios de IA financeira
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago); janela da Máxima: **2–4 meses**
+
+---
+
 *Última atualização: 18/06/2026 — Turno da tarde (Bella)*
