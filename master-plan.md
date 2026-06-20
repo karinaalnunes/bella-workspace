@@ -3788,10 +3788,17 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 ## HISTÓRICO — 20/06/2026
 
 | **2026-06-20** | **Manhã** | **Post Instagram (3 perguntas do DRE de junho antes de entrar em julho — carrossel 5 slides), Relatório matutino** |
+| **2026-06-20** | **Tarde** | **Reel concept (julho mata o caixa — sazonalidade + DRE), Concorrentes v41 (CCAV 2026 pós-evento + CON 2026 confirmado), LinkedIn post (DRE do 1º semestre — virada semestral)** |
 
 ### Manhã 20/06
 | Post Instagram (3 perguntas do DRE de junho antes de entrar em julho) | ✅ Concluído | `outputs/2026-06-20/instagram-post-manha.md` |
 | Relatório matutino | ✅ Concluído | `outputs/2026-06-20/relatorio-manha.md` |
+
+### Tarde 20/06
+| Reel concept (julho mata o caixa — sazonalidade + DRE) | ✅ Concluído | `outputs/2026-06-20/reel-concept.md` |
+| Concorrentes v41 (CCAV 2026 pós-evento + CON 2026 confirmado em ago) | ✅ Concluído | `outputs/2026-06-20/concorrentes.md` |
+| Post LinkedIn (DRE do 1º semestre — 3 sinais para o 2º semestre) | ✅ Concluído | `outputs/2026-06-20/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-20/relatorio-tarde.md` |
 
 ---
 
@@ -3819,4 +3826,4 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 19/06/2026 — Turno da noite (Bella)*
+*Última atualização: 20/06/2026 — Turno da tarde (Bella)*
