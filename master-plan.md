@@ -3826,4 +3826,49 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+*Última atualização: 20/06/2026 — Turno da noite (Bella)*
+
+---
+
+| **2026-06-20** | **Noite** | **Seção "Tour pelo App em 3 Passos" (demonstração narrativa — produto em ação), Outline YouTube Ep.62 (Antecipação de Recebíveis e o DRE: Quando Vale a Pena e Quando Afunda a Margem)** |
+
+### Noite 20/06
+| Seção "Tour pelo App em 3 Passos" — Demonstração Narrativa (página de vendas) | ✅ Concluído | `outputs/2026-06-20/pagina-vendas-secao.md` |
+| Ep.62 YouTube (Antecipação de Recebíveis e o DRE: Quando Vale a Pena e Quando Afunda Sua Margem) | ✅ Concluído | `outputs/2026-06-20/youtube-outline.md` |
+
+---
+
+## YOUTUBE — STATUS ATUAL (20/06/2026)
+
+| Ep.62 — Antecipação de Recebíveis e o DRE: Quando Vale a Pena e Quando Afunda Sua Margem | **✅ Concluído** | `outputs/2026-06-20/youtube-outline.md` |
+
+**Fila de publicação (urgência máxima — virada de semestre):**
+- Ep.55: **URGENTE — publicar amanhã 21/jun (última janela virada de semestre)**
+- Ep.56: 21–22/jun
+- Ep.57: 22–23/jun
+- Ep.58: 23–24/jun
+- Ep.59: 24–25/jun
+- Ep.60: 25–27/jun (férias coletivas julho)
+- Ep.61: 26–28/jun
+- Ep.62: 28/jun–03/jul (antecipação de recebíveis pré-julho)
+
+---
+
+## PÁGINA DE VENDAS / FUNIL — STATUS ATUAL (20/06/2026)
+
+**Novas entregas (noite 20/06):**
+- **Seção "Tour pelo App em 3 Passos" — Demonstração narrativa** (jornada do usuário: upload → análise Sofia → pergunta → resposta) + microcopy + CTA + variante A/B + tokens dev ✅
+
+---
+
+## PRÓXIMOS PASSOS (20/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 46 dias para o CON**
+2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**10 dias restantes**); pop-up pronto em `06-17`
+3. 🎬 **Publicar Ep.55 YouTube AMANHÃ** — 8 episódios na fila; janela de virada de semestre fechando
+4. 👀 **Verificar resultados do CCAV 2026 (21/jun encerra)** — se Omie anunciar IA de diagnóstico DRE → alerta crítico; monitorar #CCAV2026 no LinkedIn/Instagram
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **46 dias**); janela da Máxima Finance: **2–4 meses**
+
+---
+
 *Última atualização: 20/06/2026 — Turno da tarde (Bella)*
