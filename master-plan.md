@@ -3871,4 +3871,38 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 20/06/2026 — Turno da tarde (Bella)*
+*Última atualização: 21/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 21/06/2026
+
+| **2026-06-21** | **Manhã** | **Post Instagram (3 números do DRE de junho que definem o 2º semestre — carrossel 5 slides), Relatório matutino** |
+
+### Manhã 21/06
+| Post Instagram (3 números do DRE antes de entrar no 2º semestre — carrossel 5 slides) | ✅ Concluído | `outputs/2026-06-21/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-21/relatorio-manha.md` |
+
+---
+
+## INSTAGRAM — STATUS ATUAL (21/06/2026)
+
+| Post manhã 21/06 — 3 números do DRE de junho que definem o 2º semestre | **✅ Concluído** | `outputs/2026-06-21/instagram-post-manha.md` |
+
+---
+
+## ALERTA ATIVO (21/06/2026)
+
+⚠️ **CCAV 2026 encerra HOJE (21/jun, São Paulo)** — Omie (R$885M) e Conta Azul com estandes. Verificar #CCAV2026 no LinkedIn/Instagram antes do almoço. Gap da Máxima Finance confirmado até 20/jun à noite.
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**9 dias restantes**)
+🎬 **Ep.55 YouTube — publicar HOJE** — 8 episódios na fila; domingo de virada de semestre
+
+---
+
+## PRÓXIMOS PASSOS (21/06/2026 — pós turno manhã)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 45 dias para o CON**
+2. 🎬 **Publicar Ep.55 YouTube HOJE** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; domingo de virada de semestre — janela ideal
+3. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**9 dias**); pop-up pronto em `outputs/2026-06-17/pagina-vendas-secao.md`
+4. 👀 **Verificar resultado final do CCAV 2026 (encerra hoje)** — monitorar #CCAV2026 no LinkedIn/Instagram; se Omie anunciar IA de diagnóstico DRE → alerta crítico
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **45 dias**); janela da Máxima Finance: **2–4 meses**
