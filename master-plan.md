@@ -3916,6 +3916,7 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 ## HISTÓRICO — 21/06/2026
 
 | **2026-06-21** | **Tarde** | **Reel concept (CMV e margem real por produto), Concorrentes v34 (Treasy enterprise, Conta Azul AI Captura consolidada, Omie IA fiscal + agente generativo roadmap), LinkedIn post (3 decisões erradas de julho sem DRE)** |
+| **2026-06-21** | **Noite** | **Seção "Resultado em 30 Dias" (página de vendas — promessa concreta para o 2º semestre + cronograma dia a dia), Ep.63 YouTube (Julho Vai Ser Diferente: Use o DRE de Junho Para Planejar o 2º Semestre Inteiro)** |
 
 ### Tarde 21/06
 | Reel concept (CMV — custo real que o empresário não calcula) | ✅ Concluído | `outputs/2026-06-21/reel-concept.md` |
@@ -3923,22 +3924,65 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Post LinkedIn v34 (3 decisões perigosas de julho sem DRE) | ✅ Concluído | `outputs/2026-06-21/linkedin-post.md` |
 | Relatório vespertino | ✅ Concluído | `outputs/2026-06-21/relatorio-tarde.md` |
 
+### Noite 21/06
+| Seção "Resultado em 30 Dias" — Promessa concreta para o 2º semestre (página de vendas) | ✅ Concluído | `outputs/2026-06-21/pagina-vendas-secao.md` |
+| Ep.63 YouTube (Julho Vai Ser Diferente: Use o DRE de Junho Para Planejar o 2º Semestre Inteiro) | ✅ Concluído | `outputs/2026-06-21/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-06-21/relatorio-noite.md` |
+
 ---
 
 ## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 21/06/2026
 
 - **Treasy:** Kit FP&A 2026 para controllers/CFOs. Foco enterprise confirmado. Gap PME da Máxima intacto.
 - **Conta Azul:** Conta AI Captura consolidada (WhatsApp/e-mail/upload → lançamento automático). Não diagnostica DRE. CON agosto: risco de anúncio de IA avançada.
-- **Omie:** ERP via WhatsApp em produção + IA Fiscal (Reforma Tributária). Agente generativo no roadmap (estimativa 3–6 meses). US$100M disponíveis. CCAV 2026 com estande hoje (21/jun, São Paulo).
+- **Omie:** ERP via WhatsApp em produção + IA Fiscal (Reforma Tributária). Agente generativo no roadmap (estimativa 3–6 meses). US$100M disponíveis. CCAV 2026 encerrou hoje (21/jun, São Paulo) — gap da Máxima confirmado.
 
 **Gap estratégico:** Confirmado. Nenhum concorrente interpreta DRE para o empresário em linguagem simples com IA conversacional.
 
 ---
 
-## PRÓXIMOS PASSOS (21/06/2026 — pós turno tarde)
+## PÁGINA DE VENDAS — STATUS ATUAL (21/06/2026)
 
-1. 🔥 **Implementar DashboardPage + AnalisePage no código** — gargalo crítico; copy em `06-14` e `06-16`
-2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**9 dias**); materiais prontos em `outputs/2026-06-17/pagina-vendas-secao.md`
-3. 🎬 **Publicar Ep.55 YouTube** — roteiro em `outputs/2026-05-15/youtube-outline.md`; fila de 8 episódios esperando
-4. 👀 **Verificar #CCAV2026** — Omie + Conta Azul com estandes; se anunciarem IA de diagnóstico DRE → alerta crítico
-5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; janela da Máxima: **2–4 meses**
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- **Seção "Resultado em 30 Dias" — Promessa concreta para o 2º semestre ✅** ← novo (noite 21/06)
+
+---
+
+## YOUTUBE — STATUS ATUAL (21/06/2026)
+
+| Ep.63 — Julho Vai Ser Diferente: Use o DRE de Junho Para Planejar o 2º Semestre | **✅ Concluído** | `outputs/2026-06-21/youtube-outline.md` |
+
+**Fila de publicação (urgência máxima — virada de semestre):**
+- Ep.55: **URGENTE — publicar hoje/amanhã (última janela virada de semestre)**
+- Ep.56–62: sequência semanal até fim de julho
+- Ep.63: publicar 1ª semana de julho (DRE do 2º semestre — timing perfeito)
+
+---
+
+## PRÓXIMOS PASSOS (21/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — gargalo crítico; copy em `06-14` e `06-16`; **45 dias para o CON**
+2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**9 dias**); pop-up em `outputs/2026-06-17/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.55 YouTube AMANHÃ** — 9 episódios na fila; janela de virada de semestre fechando
+4. 🏁 **CCAV 2026 encerrou** — verificar posts/anúncios de Omie e Conta Azul no LinkedIn antes de 22/jun
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **45 dias**); janela da Máxima: **2–4 meses**
+
+---
+
+*Última atualização: 21/06/2026 — Turno da noite (Bella)*
