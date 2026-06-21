@@ -3906,3 +3906,39 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 3. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**9 dias**); pop-up pronto em `outputs/2026-06-17/pagina-vendas-secao.md`
 4. 👀 **Verificar resultado final do CCAV 2026 (encerra hoje)** — monitorar #CCAV2026 no LinkedIn/Instagram; se Omie anunciar IA de diagnóstico DRE → alerta crítico
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **45 dias**); janela da Máxima Finance: **2–4 meses**
+
+---
+
+*Última atualização: 21/06/2026 — Turno da tarde (Bella)*
+
+---
+
+## HISTÓRICO — 21/06/2026
+
+| **2026-06-21** | **Tarde** | **Reel concept (CMV e margem real por produto), Concorrentes v34 (Treasy enterprise, Conta Azul AI Captura consolidada, Omie IA fiscal + agente generativo roadmap), LinkedIn post (3 decisões erradas de julho sem DRE)** |
+
+### Tarde 21/06
+| Reel concept (CMV — custo real que o empresário não calcula) | ✅ Concluído | `outputs/2026-06-21/reel-concept.md` |
+| Concorrentes v34 (Treasy / Conta Azul / Omie — junho 2026) | ✅ Concluído | `outputs/2026-06-21/concorrentes.md` |
+| Post LinkedIn v34 (3 decisões perigosas de julho sem DRE) | ✅ Concluído | `outputs/2026-06-21/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-21/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 21/06/2026
+
+- **Treasy:** Kit FP&A 2026 para controllers/CFOs. Foco enterprise confirmado. Gap PME da Máxima intacto.
+- **Conta Azul:** Conta AI Captura consolidada (WhatsApp/e-mail/upload → lançamento automático). Não diagnostica DRE. CON agosto: risco de anúncio de IA avançada.
+- **Omie:** ERP via WhatsApp em produção + IA Fiscal (Reforma Tributária). Agente generativo no roadmap (estimativa 3–6 meses). US$100M disponíveis. CCAV 2026 com estande hoje (21/jun, São Paulo).
+
+**Gap estratégico:** Confirmado. Nenhum concorrente interpreta DRE para o empresário em linguagem simples com IA conversacional.
+
+---
+
+## PRÓXIMOS PASSOS (21/06/2026 — pós turno tarde)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — gargalo crítico; copy em `06-14` e `06-16`
+2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**9 dias**); materiais prontos em `outputs/2026-06-17/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.55 YouTube** — roteiro em `outputs/2026-05-15/youtube-outline.md`; fila de 8 episódios esperando
+4. 👀 **Verificar #CCAV2026** — Omie + Conta Azul com estandes; se anunciarem IA de diagnóstico DRE → alerta crítico
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026; janela da Máxima: **2–4 meses**
