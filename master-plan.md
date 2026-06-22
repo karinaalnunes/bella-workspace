@@ -3985,40 +3985,57 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 22/06/2026 — Turno da manhã (Bella)*
+*Última atualização: 22/06/2026 — Turno da tarde (Bella)*
 
 ---
 
 ## HISTÓRICO — 22/06/2026
 
 | **2026-06-22** | **Manhã** | **Post Instagram (segunda-feira do 2º semestre — 3 números do DRE de junho que definem o 2º semestre — carrossel 5 slides), Relatório matutino** |
+| **2026-06-22** | **Tarde** | **Reel concept v35 (onde foi parar o lucro — descasamento DRE), Concorrentes v35 (Treasy enterprise, Conta Azul Gemini, Omie IA fiscal), LinkedIn post v35 (DRE vs. saldo bancário)** |
 
 ### Manhã 22/06
 | Post Instagram (segunda-feira do 2º semestre — 3 números do DRE de junho — carrossel 5 slides) | ✅ Concluído | `outputs/2026-06-22/instagram-post-manha.md` |
 | Relatório matutino | ✅ Concluído | `outputs/2026-06-22/relatorio-manha.md` |
 
+### Tarde 22/06
+| Reel concept v35 (onde foi parar o lucro — descasamento DRE) | ✅ Concluído | `outputs/2026-06-22/reel-concept.md` |
+| Análise de concorrentes v35 (Treasy, Conta Azul, Omie — junho 2026) | ✅ Concluído | `outputs/2026-06-22/concorrentes.md` |
+| Post LinkedIn v35 (DRE vs. saldo bancário — onde foi o lucro) | ✅ Concluído | `outputs/2026-06-22/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-22/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 22/06/2026
+
+**Treasy:** Segue enterprise. Nenhum produto para PME pequena. Ameaça baixa.
+**Conta Azul:** Conta AI Captura (Google DeepMind/Gemini) em produção — captura de documentos, lançamento contábil. Foco no contador, não no dono. CON 2026 = 5–6/ago (44 dias). Ameaça alta.
+**Omie:** IA fiscal (reforma tributária) + WhatsApp ERP em produção. Agente generativo no roadmap. Ameaça alta (longo prazo).
+**Gap confirmado:** Nenhum concorrente interpreta DRE em português simples para o empresário. Janela aberta — mas fechando.
+
 ---
 
 ## INSTAGRAM — STATUS ATUAL (22/06/2026)
 
-| Post manhã 22/06 — segunda-feira do 2º semestre: 3 números do DRE de junho | **✅ Concluído** | `outputs/2026-06-22/instagram-post-manha.md` |
+| Post manhã 22/06 | **✅ Concluído** | `outputs/2026-06-22/instagram-post-manha.md` |
+| Reel concept v35 | **✅ Concluído** | `outputs/2026-06-22/reel-concept.md` |
 
 ---
 
-## ALERTA ATIVO (22/06/2026)
+## ALERTA ATIVO (22/06/2026 — pós turno tarde)
 
-⚠️ **CCAV 2026 ENCERROU (21/jun)** — Verificar posts de encerramento de Omie e Conta Azul no LinkedIn/Instagram. Gap confirmado até 21/jun à noite.
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 44 dias**. Conta AI Captura (Gemini) em produção. Lançamento da Máxima precisa estar no ar antes.
 ⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**8 dias restantes**)
-🎬 **Ep.55 YouTube — publicar HOJE** — 9 episódios na fila; 1º dia útil do 2º semestre = janela ideal
+🎬 **9 episódios YouTube na fila** — Ep.55 urgente (publicar esta semana)
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
 
 ---
 
-## PRÓXIMOS PASSOS (22/06/2026 — pós turno manhã)
+## PRÓXIMOS PASSOS (22/06/2026 — pós turno tarde)
 
 1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 44 dias para o CON**
 2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**8 dias**); pop-up pronto em `outputs/2026-06-17/pagina-vendas-secao.md`
-3. 🎬 **Publicar Ep.55 YouTube HOJE** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; 1º dia útil do 2º semestre — janela ideal
-4. 👀 **Verificar resultado final do CCAV 2026** — posts de encerramento de Omie e Conta Azul no LinkedIn; se anunciaram IA de diagnóstico DRE → alerta crítico
-5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **44 dias**); janela da Máxima Finance: **2–4 meses**
+3. 🎬 **Publicar Ep.55 YouTube esta semana** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; 9 episódios na fila
+4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **44 dias**); janela da Máxima Finance: **2–4 meses**
 
 ---
