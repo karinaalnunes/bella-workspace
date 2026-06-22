@@ -3985,4 +3985,40 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 21/06/2026 — Turno da noite (Bella)*
+*Última atualização: 22/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 22/06/2026
+
+| **2026-06-22** | **Manhã** | **Post Instagram (segunda-feira do 2º semestre — 3 números do DRE de junho que definem o 2º semestre — carrossel 5 slides), Relatório matutino** |
+
+### Manhã 22/06
+| Post Instagram (segunda-feira do 2º semestre — 3 números do DRE de junho — carrossel 5 slides) | ✅ Concluído | `outputs/2026-06-22/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-22/relatorio-manha.md` |
+
+---
+
+## INSTAGRAM — STATUS ATUAL (22/06/2026)
+
+| Post manhã 22/06 — segunda-feira do 2º semestre: 3 números do DRE de junho | **✅ Concluído** | `outputs/2026-06-22/instagram-post-manha.md` |
+
+---
+
+## ALERTA ATIVO (22/06/2026)
+
+⚠️ **CCAV 2026 ENCERROU (21/jun)** — Verificar posts de encerramento de Omie e Conta Azul no LinkedIn/Instagram. Gap confirmado até 21/jun à noite.
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**8 dias restantes**)
+🎬 **Ep.55 YouTube — publicar HOJE** — 9 episódios na fila; 1º dia útil do 2º semestre = janela ideal
+
+---
+
+## PRÓXIMOS PASSOS (22/06/2026 — pós turno manhã)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 44 dias para o CON**
+2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**8 dias**); pop-up pronto em `outputs/2026-06-17/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.55 YouTube HOJE** — "Como o DRE Revela o Momento Certo de Aumentar Preços"; 1º dia útil do 2º semestre — janela ideal
+4. 👀 **Verificar resultado final do CCAV 2026** — posts de encerramento de Omie e Conta Azul no LinkedIn; se anunciaram IA de diagnóstico DRE → alerta crítico
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **44 dias**); janela da Máxima Finance: **2–4 meses**
+
+---
