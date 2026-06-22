@@ -4039,3 +4039,70 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **44 dias**); janela da Máxima Finance: **2–4 meses**
 
 ---
+
+| **2026-06-22** | **Noite** | **Pop-up Reativação 2º Semestre (exit intent + banner + e-mail + 3 ads remarketing), Ep.64 YouTube (Quanto Você Pode Crescer Sem Quebrar? O DRE Tem a Resposta)** |
+
+### Noite 22/06
+| Pop-up de Reativação 2º Semestre (exit intent + sticky banner + e-mail + remarketing Meta Ads) | ✅ Concluído | `outputs/2026-06-22/pagina-vendas-secao.md` |
+| Ep.64 YouTube (Quanto Você Pode Crescer Sem Quebrar? O DRE Tem a Resposta) | ✅ Concluído | `outputs/2026-06-22/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-06-22/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (22/06/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" — Promessa concreta para o 2º semestre ✅
+- **Pop-up de Reativação 2º Semestre (exit intent + sticky banner + e-mail + 3 ads remarketing) ✅** ← novo (noite 22/06)
+
+---
+
+## YOUTUBE — STATUS ATUAL (22/06/2026)
+
+| Ep.64 — Quanto Você Pode Crescer Sem Quebrar? O DRE Tem a Resposta | **✅ Concluído** | `outputs/2026-06-22/youtube-outline.md` |
+
+**Fila de publicação (urgência máxima — 2º semestre):**
+- Ep.55: **URGENTE — publicar esta semana** (janela de virada de semestre)
+- Ep.56–62: sequência semanal julho
+- Ep.63: publicar 1ª semana de julho
+- Ep.64: publicar semana de 29/jun–3/jul (crescimento sustentável — timing ideal)
+
+---
+
+## ALERTA ATIVO (22/06/2026 — pós turno noite)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 44 dias**. Conta AI Captura (Gemini) em produção. Lançamento da Máxima precisa estar no ar antes.
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**8 dias restantes**) — **CRIAR AGORA**
+🎬 **10 episódios YouTube na fila** (Ep.55–64) — Ep.55 urgente (publicar esta semana)
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+
+---
+
+## PRÓXIMOS PASSOS (22/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 44 dias para o CON**
+2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**8 dias**); assets completos em `outputs/2026-06-22/pagina-vendas-secao.md` (pop-up + banner + e-mail + 3 ads)
+3. 🎬 **Publicar Ep.55 YouTube esta semana** — 10 episódios na fila; janela 2º semestre fechando
+4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **44 dias**); janela da Máxima Finance: **2–4 meses**
+
+---
+
+*Última atualização: 22/06/2026 — Turno da noite (Bella)*
+
+---
