@@ -4136,6 +4136,42 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 23/06/2026 — Turno da manhã (Bella)*
+| **2026-06-23** | **Tarde** | **Reel concept v55 (fechou junho no lucro ou no prejuízo?), Concorrentes v55 (Omie IA fiscal + Conta Azul BPO + Treasy enterprise), LinkedIn post v55 (3 perguntas para fechar o semestre com DRE)** |
+
+### Tarde 23/06
+| Reel concept v55 | ✅ Concluído | `outputs/2026-06-23/reel-concept.md` |
+| Concorrentes v55 | ✅ Concluído | `outputs/2026-06-23/concorrentes.md` |
+| Post LinkedIn v55 | ✅ Concluído | `outputs/2026-06-23/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-23/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 23/06/2026
+
+**Conta Azul:** Lançou 2 novos planos em maio/2026 — Pro BPO (R$129,90) e Pro Automação Contábil (R$29,90). AI Captura extrai dados de documentos automaticamente. Não interpreta DRE. CON 2026 em 43 dias — alerta máximo.
+**Omie:** Omie.IA Fiscal em produção (classificação de impostos automática + preparação Reforma Tributária IBS/CBS). ERP WhatsApp consolidado. Agente generativo em roadmap. Gap da Máxima intacto.
+**Treasy:** FP&A Summit (12–13/mai) confirmou foco enterprise (CFOs/controllers). Nenhuma menção a PME. Gap da Máxima validado ao vivo pela segunda vez.
+
+---
+
+## ALERTA ATIVO (23/06/2026 — turno tarde)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 43 dias**. 2 novos planos IA lançados em maio. Risco de anúncio de IA interpretativa no evento.
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**7 dias restantes**) — **CRIAR HOJE (15 min)**
+🎬 **10 episódios YouTube na fila** (Ep.55–64) — Ep.55 urgente (publicar esta semana)
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+
+---
+
+## PRÓXIMOS PASSOS (23/06/2026 — turno tarde)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 43 dias para o CON**
+2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**7 dias**); assets completos em `outputs/2026-06-22/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.55 YouTube esta semana** — 10 episódios na fila; janela 2º semestre fechando
+4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **43 dias**); Conta Azul acelerando IA em 2026
+
+---
+
+*Última atualização: 23/06/2026 — Turno da tarde (Bella)*
 
 ---
