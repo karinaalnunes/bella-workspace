@@ -4144,6 +4144,13 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Post LinkedIn v55 | ✅ Concluído | `outputs/2026-06-23/linkedin-post.md` |
 | Relatório vespertino | ✅ Concluído | `outputs/2026-06-23/relatorio-tarde.md` |
 
+| **2026-06-23** | **Noite** | **Sequência de E-mails de Countdown Lançamento (5 e-mails D-7 → D-Day), Outline YouTube Ep.65 (Virada de Semestre: O Que o DRE de Junho Revela Para o Seu Julho)** |
+
+### Noite 23/06
+| Sequência de E-mails Countdown Lançamento (5 e-mails D-7 → D-Day) | ✅ Concluído | `outputs/2026-06-23/pagina-vendas-secao.md` |
+| Ep.65 YouTube (Virada de Semestre: O Que o DRE de Junho Revela Para o Seu Julho) | ✅ Concluído | `outputs/2026-06-23/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-06-23/relatorio-noite.md` |
+
 ---
 
 ## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 23/06/2026
@@ -4172,6 +4179,62 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 23/06/2026 — Turno da tarde (Bella)*
+## PÁGINA DE VENDAS — STATUS ATUAL (23/06/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" — Promessa concreta para o 2º semestre ✅
+- Pop-up de Reativação 2º Semestre (exit intent + sticky banner + e-mail + 3 ads remarketing) ✅
+- **Sequência de E-mails de Countdown Lançamento (5 e-mails D-7 → D-Day) ✅** ← novo (noite 23/06)
+
+## YOUTUBE — STATUS ATUAL (23/06/2026)
+
+| Ep.65 — Virada de Semestre: O Que o DRE de Junho Revela Para o Seu Julho | **✅ Concluído** | `outputs/2026-06-23/youtube-outline.md` |
+
+**Fila de publicação (urgência máxima — 2º semestre):**
+- Ep.55: **URGENTE — publicar esta semana** (janela de virada de semestre)
+- Ep.56–62: sequência semanal julho
+- Ep.63: publicar 1ª semana de julho
+- Ep.64: publicar semana de 29/jun–3/jul (crescimento sustentável — timing ideal)
+- Ep.65: publicar semana de 29/jun–4/jul (virada de semestre — timing perfeito)
+
+---
+
+## ALERTA ATIVO (23/06/2026 — pós turno noite)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 43 dias**. Conta AI Captura (Gemini) em produção. Lançamento da Máxima precisa estar no ar antes.
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**7 dias restantes**) — **CRIAR AMANHÃ (urgente)**
+🎬 **11 episódios YouTube na fila** (Ep.55–65) — Ep.55 urgente (publicar esta semana); Ep.65 publicar semana 29/jun
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+📧 **Sequência e-mails de countdown pronta** — configurar no Resend/Loops.so assim que o launch date for definido
+
+---
+
+## PRÓXIMOS PASSOS (23/06/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 43 dias para o CON**
+2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**7 dias**); assets completos em `outputs/2026-06-22/pagina-vendas-secao.md`
+3. 📧 **Configurar sequência de e-mails de countdown** — pronta em `outputs/2026-06-23/pagina-vendas-secao.md`; só falta definir a data de lançamento e plugar no Resend/Loops.so
+4. 🎬 **Publicar Ep.55 esta semana + Ep.65 até 4/jul** — timing perfeito de virada de semestre
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **43 dias**); janela da Máxima Finance: **2–4 meses**
+
+---
+
+*Última atualização: 23/06/2026 — Turno da noite (Bella)*
 
 ---
