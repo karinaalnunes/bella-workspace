@@ -4106,3 +4106,36 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 *Última atualização: 22/06/2026 — Turno da noite (Bella)*
 
 ---
+
+
+## HISTÓRICO — 23/06/2026
+
+| **2026-06-23** | **Manhã** | **Post Instagram (meta nova sem DRE lido = aposta — carrossel 5 slides), Relatório matutino** |
+
+### Manhã 23/06
+| Post Instagram (meta de julho sem ler o DRE de junho — carrossel 5 slides) | ✅ Concluído | `outputs/2026-06-23/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-23/relatorio-manha.md` |
+
+---
+
+## ALERTA ATIVO (23/06/2026 — turno manhã)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 43 dias**. Conta AI Captura (Gemini) em produção. Lançamento da Máxima precisa estar no ar antes.
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**7 dias restantes**) — **CRIAR HOJE**
+🎬 **10 episódios YouTube na fila** (Ep.55–64) — Ep.55 urgente (publicar esta semana)
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+
+---
+
+## PRÓXIMOS PASSOS (23/06/2026 — turno manhã)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 43 dias para o CON**
+2. 💳 **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**7 dias**); assets completos em `outputs/2026-06-22/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.55 YouTube esta semana** — 10 episódios na fila; janela 2º semestre fechando
+4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **43 dias**); janela da Máxima Finance: **2–4 meses**
+
+---
+
+*Última atualização: 23/06/2026 — Turno da manhã (Bella)*
+
+---
