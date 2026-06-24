@@ -4235,6 +4235,35 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 23/06/2026 — Turno da noite (Bella)*
+*Última atualização: 24/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 24/06/2026
+
+| **2026-06-24** | **Manhã** | **Post Instagram (5 perguntas que o DRE de junho precisa responder antes de fechar julho — carrossel 6 slides), Relatório matutino** |
+
+### Manhã 24/06
+| Post Instagram (5 perguntas do DRE de junho antes de fechar julho — carrossel 6 slides) | ✅ Concluído | `outputs/2026-06-24/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-24/relatorio-manha.md` |
+
+---
+
+## ALERTA ATIVO (24/06/2026 — turno manhã)
+
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**6 dias restantes**) — **CRIAR HOJE (15 min)**
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 42 dias**. Conta AI Captura (Gemini) em produção. Lançamento da Máxima precisa estar no ar antes.
+🎬 **11 episódios YouTube na fila** (Ep.55–65) — Ep.55 urgente (publicar esta semana); Ep.65 publicar até 4/jul
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+📧 **Sequência countdown pronta** — `outputs/2026-06-23/pagina-vendas-secao.md` — plugar no Resend/Loops.so quando data de lançamento for definida
+
+---
+
+## PRÓXIMOS PASSOS (24/06/2026 — turno manhã)
+
+1. ⚡ **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**6 dias**); assets completos em `outputs/2026-06-22/pagina-vendas-secao.md`
+2. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 42 dias para o CON**
+3. 🎬 **Publicar Ep.55 YouTube esta semana** — janela de virada de semestre fecha 30/jun
+4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **42 dias**); janela da Máxima Finance: **2–4 meses**
 
 ---
