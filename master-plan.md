@@ -4269,12 +4269,18 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 ---
 
 | **2026-06-24** | **Tarde** | **Reel concept v56 (meta de julho sem base no DRE — o erro mais caro do 2º semestre), Concorrentes v56 (Conta Azul 2 planos IA + CON ago, Omie.IA Fiscal + roadmap agente, Treasy enterprise sem PME), LinkedIn post v56 (3 perguntas do DRE de junho antes de entrar em julho)** |
+| **2026-06-24** | **Noite** | **Script de Live Instagram/YouTube (roteiro de 45 min com demo ao vivo + CTA coupon REVISAO_SEMESTRAL_JUNHO), Outline YouTube Ep.66 (5 decisões que o DRE de junho deveria guiar antes de julho)** |
 
 ### Tarde 24/06
 | Reel concept v56 (meta de julho sem base no DRE) | ✅ Concluído | `outputs/2026-06-24/reel-concept.md` |
 | Análise de concorrentes v56 (Conta Azul / Omie / Treasy — junho 2026) | ✅ Concluído | `outputs/2026-06-24/concorrentes.md` |
 | Post LinkedIn v56 (3 perguntas do DRE de junho antes de entrar em julho) | ✅ Concluído | `outputs/2026-06-24/linkedin-post.md` |
 | Relatório vespertino | ✅ Concluído | `outputs/2026-06-24/relatorio-tarde.md` |
+
+### Noite 24/06
+| Script de Live Instagram/YouTube (roteiro 45 min — demo ao vivo + CTA coupon) | ✅ Concluído | `outputs/2026-06-24/pagina-vendas-secao.md` |
+| Ep.66 YouTube (5 decisões que o DRE de junho deveria guiar antes de julho) | ✅ Concluído | `outputs/2026-06-24/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-06-24/relatorio-noite.md` |
 
 ---
 
@@ -4305,6 +4311,64 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 24/06/2026 — Turno da tarde (Bella)*
+*Última atualização: 24/06/2026 — Turno da noite (Bella)*
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (24/06/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" — Promessa concreta para o 2º semestre ✅
+- Pop-up de Reativação 2º Semestre (exit intent + sticky banner + e-mail + 3 ads remarketing) ✅
+- Sequência de E-mails de Countdown Lançamento (5 e-mails D-7 → D-Day) ✅
+- **Script de Live Instagram/YouTube (roteiro 45 min — demo ao vivo + coupon REVISAO_SEMESTRAL_JUNHO) ✅** ← novo (noite 24/06)
+
+## YOUTUBE — STATUS ATUAL (24/06/2026)
+
+| Ep.66 — Julho Começa em 7 Dias: 5 Decisões Que o DRE de Junho Deveria Guiar | **✅ Concluído** | `outputs/2026-06-24/youtube-outline.md` |
+
+**Fila de publicação (urgência máxima — 2º semestre):**
+- Ep.55: **URGENTE — publicar esta semana** (janela de virada de semestre)
+- Ep.56–62: sequência semanal julho
+- Ep.63: publicar 1ª semana de julho
+- Ep.64: publicar semana de 29/jun–3/jul
+- Ep.65: publicar semana de 29/jun–4/jul (virada de semestre)
+- Ep.66: publicar últimos dias de junho (timing perfeito: "julho começa em X dias")
+
+---
+
+## ALERTA ATIVO (24/06/2026 — pós turno noite)
+
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**6 dias restantes**) — **CRIAR AMANHÃ (urgente)**
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 42 dias**. Conta AI Captura (Gemini) em produção. Lançamento da Máxima precisa estar no ar antes.
+🎬 **12 episódios YouTube na fila** (Ep.55–66) — Ep.55 urgente; Ep.66 publicar até 30/jun (timing perfeito de virada de semestre)
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+🎥 **Script de Live pronto** — agendar live de demonstração no Instagram/YouTube; coupon ativo por apenas 6 dias
+
+---
+
+## PRÓXIMOS PASSOS (24/06/2026 — pós turno noite)
+
+1. ⚡ **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**6 dias**); assets completos em `outputs/2026-06-22/pagina-vendas-secao.md`
+2. 🎥 **Agendar live de demonstração (Instagram ou YouTube)** — roteiro completo em `outputs/2026-06-24/pagina-vendas-secao.md`; live ideal: 25 ou 26/jun (6 dias de coupon ativo)
+3. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 42 dias para o CON**
+4. 🎬 **Publicar Ep.55 + Ep.66 até 30/jun** — janela de virada de semestre fecha neste fim de semana
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **42 dias**); janela da Máxima Finance: **2–4 meses**
 
 ---
