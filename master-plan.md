@@ -4267,3 +4267,44 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **42 dias**); janela da Máxima Finance: **2–4 meses**
 
 ---
+
+| **2026-06-24** | **Tarde** | **Reel concept v56 (meta de julho sem base no DRE — o erro mais caro do 2º semestre), Concorrentes v56 (Conta Azul 2 planos IA + CON ago, Omie.IA Fiscal + roadmap agente, Treasy enterprise sem PME), LinkedIn post v56 (3 perguntas do DRE de junho antes de entrar em julho)** |
+
+### Tarde 24/06
+| Reel concept v56 (meta de julho sem base no DRE) | ✅ Concluído | `outputs/2026-06-24/reel-concept.md` |
+| Análise de concorrentes v56 (Conta Azul / Omie / Treasy — junho 2026) | ✅ Concluído | `outputs/2026-06-24/concorrentes.md` |
+| Post LinkedIn v56 (3 perguntas do DRE de junho antes de entrar em julho) | ✅ Concluído | `outputs/2026-06-24/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-24/relatorio-tarde.md` |
+
+---
+
+## INTELIGÊNCIA COMPETITIVA — ATUALIZAÇÃO 24/06/2026
+
+**Conta Azul:** AI Captura (Gemini) consolidada em produção. 2 novos planos lançados em maio/2026: Pro BPO (R$129,90) e Pro Automação Contábil (R$29,90). CON 2026 confirmado 5–6/ago — trilha de IA incluída. Ameaça alta.
+**Omie:** Omie.IA Fiscal em produção (classificação de impostos automática, Reforma Tributária IBS/CBS). Hub gratuito para PME/contadores. Agente generativo no roadmap sem data pública. Ameaça alta (LP).
+**Treasy:** Segue enterprise. Nenhum produto novo para PME em junho/2026. FP&A Summit (mai/2026) confirmou gap da Máxima ao vivo. Ameaça baixa.
+**Gap da Máxima confirmado:** nenhum concorrente interpreta DRE para o empresário PME em linguagem simples. Janela aberta — 42 dias para o CON.
+
+---
+
+## ALERTA ATIVO (24/06/2026 — turno tarde)
+
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**6 dias restantes**) — **CRIAR HOJE (15 min)**
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 42 dias**. AI Captura (Gemini) em produção. Lançamento da Máxima precisa estar no ar antes.
+🎬 **11 episódios YouTube na fila** (Ep.55–65) — Ep.55 urgente (publicar esta semana); Ep.65 publicar até 4/jul
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+
+---
+
+## PRÓXIMOS PASSOS (24/06/2026 — turno tarde)
+
+1. ⚡ **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**6 dias**); assets completos em `outputs/2026-06-22/pagina-vendas-secao.md`
+2. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 42 dias para o CON**
+3. 🎬 **Publicar Ep.55 YouTube esta semana** — janela de virada de semestre fecha 30/jun
+4. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **42 dias**); Conta Azul acelerando IA em 2026
+
+---
+
+*Última atualização: 24/06/2026 — Turno da tarde (Bella)*
+
+---
