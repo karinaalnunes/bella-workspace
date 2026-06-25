@@ -4367,8 +4367,31 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 1. ⚡ **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**6 dias**); assets completos em `outputs/2026-06-22/pagina-vendas-secao.md`
 2. 🎥 **Agendar live de demonstração (Instagram ou YouTube)** — roteiro completo em `outputs/2026-06-24/pagina-vendas-secao.md`; live ideal: 25 ou 26/jun (6 dias de coupon ativo)
-3. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 42 dias para o CON**
+3. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `06-14` e `06-16`; **gargalo crítico — 41 dias para o CON**
 4. 🎬 **Publicar Ep.55 + Ep.66 até 30/jun** — janela de virada de semestre fecha neste fim de semana
-5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **42 dias**); janela da Máxima Finance: **2–4 meses**
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **41 dias**); janela da Máxima Finance: **2–4 meses**
+
+---
+
+## HISTÓRICO — 25/06/2026
+
+| **2026-06-25** | **Manhã** | **Post Instagram (faturou mais, sobrou menos — paradoxo do crescimento no DRE), Relatório matutino** |
+
+### Instagram
+| Post manhã 25/06 | ✅ Concluído | `outputs/2026-06-25/instagram-post-manha.md` |
+
+---
+
+*Última atualização: 25/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## ALERTA ATIVO (25/06/2026 — turno manhã)
+
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**5 dias restantes**) — **CRIAR HOJE (urgente)**
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 41 dias**. Conta AI Captura (Gemini) em produção.
+🎬 **12 episódios YouTube na fila** (Ep.55–66) — Ep.55 + Ep.66 urgentes antes de 30/jun
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+🎥 **Script de Live pronto** — agendar para hoje (25) ou amanhã (26/jun) — 5 dias de urgência com coupon
 
 ---
