@@ -4482,3 +4482,74 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **40 dias**)
 
 ---
+
+| **2026-06-26** | **Noite** | **Kit Coupon REVISAO_SEMESTRAL_JUNHO (3 stories + post + e-mail + 3 WhatsApp + tokens Stripe), Outline YouTube Ep.68 (Quanto Custa Não Ler o DRE?)** |
+
+### Noite 26/06
+| Kit Coupon REVISAO_SEMESTRAL_JUNHO (stories + post + e-mail + WhatsApp + tokens dev) | ✅ Concluído | `outputs/2026-06-26/pagina-vendas-secao.md` |
+| Ep.68 YouTube (Quanto Custa Não Ler o DRE? O Preço Invisível da Ignorância Financeira) | ✅ Concluído | `outputs/2026-06-26/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-06-26/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (26/06/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" — Promessa concreta para o 2º semestre ✅
+- Pop-up de Reativação 2º Semestre (exit intent + sticky banner + e-mail + 3 ads remarketing) ✅
+- Sequência de E-mails de Countdown Lançamento (5 e-mails D-7 → D-Day) ✅
+- Script de Live Instagram/YouTube (roteiro 45 min — demo ao vivo + coupon) ✅
+- Copy de Onboarding In-App — 8 componentes (Empty States + Tooltips + Nudges + Upsell Modal) ✅
+- **Kit Coupon REVISAO_SEMESTRAL_JUNHO (3 stories + post carrossel + e-mail + 3 WhatsApp + tokens Stripe) ✅** ← novo (noite 26/06)
+
+## YOUTUBE — STATUS ATUAL (26/06/2026)
+
+| Ep.68 — Quanto Custa Não Ler o DRE? O Preço Invisível da Ignorância Financeira | **✅ Concluído** | `outputs/2026-06-26/youtube-outline.md` |
+
+**Fila de publicação (urgência máxima — 4 dias para julho):**
+- Ep.67: **HOJE 26/jun** (fechamento de junho — timing perfeito)
+- Ep.66: 28–29/jun ("julho começa em X dias")
+- Ep.68: 28–30/jun (custo de ignorar DRE — virada de semestre)
+- Ep.55–65: sequência semanal julho–agosto
+
+---
+
+## ALERTA ATIVO (26/06/2026 — pós turno noite)
+
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**4 dias restantes**) — **CRIAR AMANHÃ MANHÃ (urgência máxima)**
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 40 dias**. Conta AI Captura (Gemini) em produção.
+🎬 **14 episódios YouTube na fila** (Ep.55–68) — Ep.67 publicar HOJE; Ep.68 até 30/jun
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+📲 **Kit Coupon pronto** — 3 stories + post + e-mail + 3 WhatsApp + tokens Stripe em `outputs/2026-06-26/pagina-vendas-secao.md`
+
+---
+
+## PRÓXIMOS PASSOS (26/06/2026 — pós turno noite)
+
+1. ⚡ **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — tokens prontos em `outputs/2026-06-26/pagina-vendas-secao.md`; expira 30/jun (**4 dias**)
+2. 📲 **Postar stories + disparar e-mail para leads** — assets prontos em `outputs/2026-06-26/pagina-vendas-secao.md`; fazer até 10h de 27/jun
+3. 🎬 **Publicar Ep.67 YouTube AMANHÃ** — "Fechamento de Junho com DRE"; roteiro em `outputs/2026-06-25/youtube-outline.md`
+4. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy: `06-14` e `06-16`; onboarding: `06-25`; **gargalo crítico — 40 dias para o CON**
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **40 dias**)
+
+---
+
+*Última atualização: 26/06/2026 — Turno da noite (Bella)*
+
+---
