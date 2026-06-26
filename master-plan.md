@@ -4448,3 +4448,37 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **41 dias**); janela da Máxima Finance: **2–4 meses**
 
 ---
+
+*Última atualização: 26/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 26/06/2026
+
+| **2026-06-26** | **Manhã** | **Post Instagram (4 dias para fechar o semestre — 5 perguntas que o DRE de junho já responde — carrossel 6 slides), Relatório matutino** |
+
+### Manhã 26/06
+| Post Instagram (4 dias para fechar o semestre — 5 perguntas do DRE — carrossel 6 slides) | ✅ Concluído | `outputs/2026-06-26/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-06-26/relatorio-manha.md` |
+
+---
+
+## ALERTA ATIVO (26/06/2026 — turno manhã)
+
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**4 dias restantes**) — **CRIAR HOJE (urgência máxima)**
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 40 dias**. Conta AI Captura (Gemini) em produção.
+🎬 **13 episódios YouTube na fila** (Ep.55–67) — Ep.67 publicar HOJE; Ep.66 publicar 28–29/jun
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento; copy de onboarding pronta em `06-25`
+🎥 **Script de Live pronto** — agendar para HOJE 26/jun ou 27/jun (últimos dias do coupon)
+
+---
+
+## PRÓXIMOS PASSOS (26/06/2026 — turno manhã)
+
+1. ⚡ **Criar coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe (15 min)** — expira 30/jun (**4 dias**); assets completos em `outputs/2026-06-22/pagina-vendas-secao.md`
+2. 🎬 **Publicar Ep.67 YouTube HOJE** — "Fechamento de Junho com DRE: A Análise de 20 Min que Define o 2º Semestre"; roteiro em `outputs/2026-06-25/youtube-outline.md`
+3. 🔥 **Implementar DashboardPage + AnalisePage no código** — gargalo crítico — **40 dias para o CON**; copy: `06-14` (Dashboard), `06-16` (Analise), onboarding: `06-25`
+4. 🎥 **Agendar live de demonstração (hoje 26 ou amanhã 27/jun)** — roteiro em `outputs/2026-06-24/pagina-vendas-secao.md`
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **40 dias**)
+
+---
