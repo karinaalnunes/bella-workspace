@@ -4553,3 +4553,71 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 *Última atualização: 26/06/2026 — Turno da noite (Bella)*
 
 ---
+
+## HISTÓRICO — 27/06/2026
+
+| **2026-06-27** | **Noite** | **Seção "Checklist de Fim de Semestre" (página de vendas — isca de conversão pré-julho), Outline YouTube Ep.69 (DRE de junho: virada ou repetição)** |
+
+### Noite 27/06
+| Seção "Checklist de Fim de Semestre — Leve Isso Para o Julho" (página de vendas) | ✅ Concluído | `outputs/2026-06-27/pagina-vendas-secao.md` |
+| Ep.69 YouTube (DRE de Junho: O Número Que Define Se Julho Será Virada ou Repetição) | ✅ Concluído | `outputs/2026-06-27/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-06-27/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (27/06/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" ✅
+- Pop-up de Reativação 2º Semestre ✅
+- Sequência de E-mails de Countdown Lançamento ✅
+- Script de Live Instagram/YouTube ✅
+- Copy de Onboarding In-App (8 componentes) ✅
+- Kit Coupon REVISAO_SEMESTRAL_JUNHO ✅
+- **Checklist de Fim de Semestre — Leve Isso Para o Julho ✅** ← novo (noite 27/06)
+
+## YOUTUBE — STATUS ATUAL (27/06/2026)
+
+| Ep.69 — DRE de Junho: O Número Que Define Se Julho Será Virada ou Repetição | **✅ Concluído** | `outputs/2026-06-27/youtube-outline.md` |
+
+---
+
+## ALERTA ATIVO (27/06/2026 — pós turno noite)
+
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**3 dias restantes**) — **URGÊNCIA MÁXIMA**
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 39 dias**. Conta AI Captura (Gemini) em produção.
+🎬 **Ep.69 produzido — gravar até 29/jun** para publicar antes do fim do mês (timing de busca: "fechamento semestral")
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+📊 **Checklist de Fim de Semestre** pronto para publicar na landing page — válido até 31/07
+
+---
+
+## PRÓXIMOS PASSOS (27/06/2026 — pós turno noite)
+
+1. ⚡ **Disparar última rodada do coupon REVISAO_SEMESTRAL_JUNHO** — stories + WhatsApp; expira 30/jun (**3 dias**)
+2. 🎬 **Gravar e publicar Ep.69 YouTube até 29/jun** — "DRE de Junho: Virada ou Repetição"; roteiro em `outputs/2026-06-27/youtube-outline.md`
+3. 📄 **Publicar Checklist de Fim de Semestre na landing page** — seção pronta em `outputs/2026-06-27/pagina-vendas-secao.md`; válido todo julho
+4. 🔥 **Implementar DashboardPage + AnalisePage no código** — gargalo crítico — 39 dias para o CON
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026
+
+---
+
+*Última atualização: 27/06/2026 — Turno da noite (Bella)*
+
+---
