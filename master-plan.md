@@ -4618,6 +4618,74 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 27/06/2026 — Turno da noite (Bella)*
+*Última atualização: 28/06/2026 — Turno da noite (Bella)*
+
+---
+
+## HISTÓRICO — 28/06/2026
+
+| **2026-06-28** | **Manhã** | **Post Instagram (carrossel fim de semestre — entregue turno manhã), Relatório matutino** |
+| **2026-06-28** | **Tarde** | **Reel + Análise de concorrentes + Post LinkedIn — entregues turno tarde** |
+| **2026-06-28** | **Noite** | **Sequência de E-mails de Ativação Pós-Cadastro (5 e-mails / 14 dias — Gratuito → Pro), Outline YouTube Ep.70 (Planejar 2º Semestre com DRE)** |
+
+### Noite 28/06
+| Sequência E-mails de Ativação Pós-Cadastro (5 e-mails / 14 dias — conversão Gratuito → Pro) | ✅ Concluído | `outputs/2026-06-28/pagina-vendas-secao.md` |
+| Ep.70 YouTube (Como Planejar o 2º Semestre Usando o DRE de Junho — Ritual de 30 Minutos) | ✅ Concluído | `outputs/2026-06-28/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-06-28/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (28/06/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" ✅
+- Pop-up de Reativação 2º Semestre ✅
+- Sequência de E-mails de Countdown Lançamento ✅
+- Script de Live Instagram/YouTube ✅
+- Copy de Onboarding In-App (8 componentes) ✅
+- Kit Coupon REVISAO_SEMESTRAL_JUNHO ✅
+- Checklist de Fim de Semestre — Leve Isso Para o Julho ✅
+- **Sequência de E-mails de Ativação Pós-Cadastro (5 e-mails / 14 dias) ✅** ← novo (noite 28/06)
+
+## YOUTUBE — STATUS ATUAL (28/06/2026)
+
+| Ep.70 — Como Planejar o 2º Semestre Usando o DRE de Junho (Ritual de 30 Minutos) | **✅ Concluído** | `outputs/2026-06-28/youtube-outline.md` |
+
+---
+
+## ALERTA ATIVO (28/06/2026 — pós turno noite)
+
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` no Stripe** — expira 30/jun (**2 dias restantes**) — **URGÊNCIA MÁXIMA**
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 38 dias**. Conta AI Captura (Gemini) em produção.
+🎬 **Ep.69 + Ep.70 produzidos — publicar esta semana** (timing de virada de semestre — busca pico)
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento
+📧 **Sequência de e-mails de ativação pronta** — implementar no Supabase + Resend/Brevo esta sprint
+📊 **Checklist de Fim de Semestre** pronto para publicar na landing page — válido todo julho
+
+---
+
+## PRÓXIMOS PASSOS (28/06/2026 — pós turno noite)
+
+1. ⚡ **Disparar ÚLTIMA rodada do coupon REVISAO_SEMESTRAL_JUNHO** — expira em 2 dias (30/jun); disparo pelo WhatsApp/stories/e-mail AMANHÃ cedo (antes das 10h)
+2. 🎬 **Gravar e publicar Ep.69 + Ep.70 YouTube até 30/jun** — timing perfeito de virada de semestre e abertura de julho
+3. 📧 **Implementar sequência de e-mails de ativação no Supabase** — tokens prontos em `outputs/2026-06-28/pagina-vendas-secao.md`; integração: Resend ou Brevo
+4. 🔥 **Implementar DashboardPage + AnalisePage no código** — gargalo crítico — 38 dias para o CON
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026
 
 ---
