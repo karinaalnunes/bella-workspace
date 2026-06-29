@@ -4692,28 +4692,70 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 29/06/2026 — Turno da manhã (Bella)*
+*Última atualização: 29/06/2026 — Turno da noite (Bella)*
 
 ---
 
 ## HISTÓRICO — 29/06/2026
 
 | **2026-06-29** | **Manhã** | **Post Instagram (desconto de 10% destrói 33% da margem — cálculo real com DRE — carrossel 7 slides), Relatório matutino** |
+| **2026-06-29** | **Noite** | **Seção Upsell / Upgrade In-App Pro→Business (banner + modal + página /upgrade + e-mail D+14 + tokens dev), Outline YouTube Ep.71 (5 perguntas para o DRE antes de julho)** |
 
 ### Manhã 29/06
 | Post Instagram (desconto de 10% vs. margem de contribuição — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-29/instagram-post-manha.md` |
 | Relatório matutino (3 prioridades: DashboardPage, Stripe, deploy em 37 dias) | ✅ Concluído | `outputs/2026-06-29/relatorio-manha.md` |
 
+### Noite 29/06
+| Seção Upsell / Upgrade In-App Pro→Business (banner + modal + /upgrade + e-mail D+14 + tokens dev) | ✅ Concluído | `outputs/2026-06-29/pagina-vendas-secao.md` |
+| Ep.71 YouTube (5 Perguntas Para o Seu DRE Antes de Entrar em Julho) | ✅ Concluído | `outputs/2026-06-29/youtube-outline.md` |
+
 ---
 
-## PRÓXIMOS PASSOS (29/06/2026 — turno manhã)
+## PÁGINA DE VENDAS — STATUS ATUAL (29/06/2026)
 
-1. ⚡ **Expirar coupon `REVISAO_SEMESTRAL_JUNHO` hoje (30/jun)** — último dia; disparo final pelo WhatsApp/stories/e-mail antes das 10h
-2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
-3. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`
-4. 📧 **Implementar sequência de e-mails de ativação** — tokens prontos em `outputs/2026-06-28/pagina-vendas-secao.md`; integrar no Supabase + Resend/Brevo
-5. 🎬 **Publicar Ep.69 + Ep.70 YouTube** — outlines prontos em `06-27` e `06-28`; timing perfeito (virada de semestre)
-6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 37 dias); Omie agente generativo em beta (~1k clientes)
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" ✅
+- Pop-up de Reativação 2º Semestre ✅
+- Sequência de E-mails de Countdown Lançamento ✅
+- Script de Live Instagram/YouTube ✅
+- Copy de Onboarding In-App (8 componentes) ✅
+- Kit Coupon REVISAO_SEMESTRAL_JUNHO ✅
+- Checklist de Fim de Semestre — Leve Isso Para o Julho ✅
+- Sequência de E-mails de Ativação Pós-Cadastro (5 e-mails / 14 dias) ✅
+- **Upsell / Upgrade In-App Pro→Business (banner + modal + /upgrade + e-mail D+14 + tokens dev) ✅** ← novo (noite 29/06)
+
+## YOUTUBE — STATUS ATUAL (29/06/2026)
+
+| Ep.71 — 5 Perguntas Para o Seu DRE Antes de Entrar em Julho | **✅ Concluído** | `outputs/2026-06-29/youtube-outline.md` |
+
+**Publicar Ep.71:** 30/jun ou 01/jul (timing perfeito — fechamento de mês + virada de semestre)
+
+---
+
+## PRÓXIMOS PASSOS (29/06/2026 — pós turno noite)
+
+1. ⚡ **Disparar último aviso do coupon `REVISAO_SEMESTRAL_JUNHO` HOJE** — expira 30/jun; WhatsApp + stories + e-mail antes das 10h
+2. 🔥 **Implementar DashboardPage + AnalisePage no código** — copy prontas em `outputs/2026-06-14` e `outputs/2026-06-16`; **gargalo crítico — 37 dias para o CON**
+3. 💳 **Criar produtos no Stripe** — Gratuito / Pro R$97 / Business R$297 + página `/upgrade` pronta em `outputs/2026-06-29/pagina-vendas-secao.md`
+4. 📧 **Implementar sequência de e-mails de ativação** — tokens prontos em `outputs/2026-06-28/pagina-vendas-secao.md`; integrar Supabase + Resend/Brevo
+5. 🎬 **Publicar Ep.69 + Ep.70 + Ep.71 YouTube** — outlines prontos; Ep.71 ideal para 30/jun ou 01/jul
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 37 dias); Omie agente generativo em beta
 
 ---
 
