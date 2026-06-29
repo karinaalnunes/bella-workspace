@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 28/06/2026 — Turno da manhã (Bella)*
+*Última atualização: 29/06/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -4689,3 +4689,31 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026
 
 ---
+
+---
+
+*Última atualização: 29/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 29/06/2026
+
+| **2026-06-29** | **Manhã** | **Post Instagram (desconto de 10% destrói 33% da margem — cálculo real com DRE — carrossel 7 slides), Relatório matutino** |
+
+### Manhã 29/06
+| Post Instagram (desconto de 10% vs. margem de contribuição — carrossel 7 slides) | ✅ Concluído | `outputs/2026-06-29/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades: DashboardPage, Stripe, deploy em 37 dias) | ✅ Concluído | `outputs/2026-06-29/relatorio-manha.md` |
+
+---
+
+## PRÓXIMOS PASSOS (29/06/2026 — turno manhã)
+
+1. ⚡ **Expirar coupon `REVISAO_SEMESTRAL_JUNHO` hoje (30/jun)** — último dia; disparo final pelo WhatsApp/stories/e-mail antes das 10h
+2. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico — semanas em aberto)
+3. 💳 **Criar produtos no Stripe (15 min)** — Gratuito / Pro R$97 / Business R$297; copy pronta em `outputs/2026-05-13/pagina-vendas-secao.md`
+4. 📧 **Implementar sequência de e-mails de ativação** — tokens prontos em `outputs/2026-06-28/pagina-vendas-secao.md`; integrar no Supabase + Resend/Brevo
+5. 🎬 **Publicar Ep.69 + Ep.70 YouTube** — outlines prontos em `06-27` e `06-28`; timing perfeito (virada de semestre)
+6. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, 37 dias); Omie agente generativo em beta (~1k clientes)
+
+---
+
