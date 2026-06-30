@@ -4759,36 +4759,91 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-*Última atualização: 30/06/2026 — Turno da manhã (Bella)*
+*Última atualização: 30/06/2026 — Turno da noite (Bella)*
 
 ---
 
 ## HISTÓRICO — 30/06/2026
 
 | **2026-06-30** | **Manhã** | **Post Instagram (primeiro semestre acabou — você sabe quanto sobrou? — carrossel 6 slides), Relatório matutino** |
+| **2026-06-30** | **Tarde** | **Reel concept (DRE em linguagem simples), Concorrentes v58 (Treasy/Conta Azul/Omie), LinkedIn post (faturamento vs. lucro)** |
+| **2026-06-30** | **Noite** | **Seção "Planos e Preços" versão 2º semestre (página de vendas), Outline YouTube Ep.72 (lucro de junho real ou ilusório)** |
 
 ### Manhã 30/06
 | Post Instagram (fechamento 1º semestre — DRE revela o que sobrou — carrossel 6 slides) | ✅ Concluído | `outputs/2026-06-30/instagram-post-manha.md` |
 | Relatório matutino (3 prioridades: DashboardPage, Stripe, travar data de deploy) | ✅ Concluído | `outputs/2026-06-30/relatorio-manha.md` |
 
+### Tarde 30/06
+| Reel concept (DRE em linguagem simples — você recebe e não entende nada) | ✅ Concluído | `outputs/2026-06-30/reel-concept.md` |
+| Análise de concorrentes v58 (Treasy / Conta Azul / Omie — jun 2026) | ✅ Concluído | `outputs/2026-06-30/concorrentes.md` |
+| Post LinkedIn (faturamento vs. lucro real — onde foi o dinheiro) | ✅ Concluído | `outputs/2026-06-30/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-06-30/relatorio-tarde.md` |
+
+### Noite 30/06
+| Seção "Planos e Preços" — versão 2º semestre (copy completa + tokens dev Stripe + A/B + FAQ) | ✅ Concluído | `outputs/2026-06-30/pagina-vendas-secao.md` |
+| Ep.72 YouTube (Seu Lucro de Junho Foi Real Ou Ilusório? O DRE Tem a Resposta) | ✅ Concluído | `outputs/2026-06-30/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-06-30/relatorio-noite.md` |
+
 ---
 
-## ALERTA ATIVO (30/06/2026 — turno manhã)
+## PÁGINA DE VENDAS — STATUS ATUAL (30/06/2026)
 
-⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 36 dias**. AI Captura (Gemini) em produção.
-⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` EXPIRA HOJE (30/jun)** — último dia para disparar e usar.
-🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento — semanas em aberto.
-🎬 **Ep.69 + Ep.70 + Ep.71 YouTube na fila** — Ep.71 ideal para publicar hoje (30/jun ou 01/jul).
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" ✅
+- Pop-up de Reativação 2º Semestre ✅
+- Sequência de E-mails de Countdown Lançamento ✅
+- Script de Live Instagram/YouTube ✅
+- Copy de Onboarding In-App (8 componentes) ✅
+- Kit Coupon REVISAO_SEMESTRAL_JUNHO ✅
+- Checklist de Fim de Semestre — Leve Isso Para o Julho ✅
+- Sequência de E-mails de Ativação Pós-Cadastro (5 e-mails / 14 dias) ✅
+- Upsell / Upgrade In-App Pro→Business (banner + modal + /upgrade + e-mail D+14 + tokens dev) ✅
+- **Seção "Planos e Preços" — versão 2º semestre (copy + tokens dev + A/B + FAQ) ✅** ← novo (noite 30/06)
+
+## YOUTUBE — STATUS ATUAL (30/06/2026)
+
+| Ep.72 — Seu Lucro de Junho Foi Real Ou Ilusório? O DRE Tem a Resposta | **✅ Concluído** | `outputs/2026-06-30/youtube-outline.md` |
+
+**Publicar Ep.72:** 30/jun ou 01/jul (timing ideal — fechamento de semestre + abertura do 2º)
+
+**Fila de publicação (urgente — 36 dias para CON 2026):**
+- Ep.55–71: na fila (outlines prontos)
+- Ep.72: publicar hoje ou amanhã (01/jul — timing perfeito)
 
 ---
 
-## PRÓXIMOS PASSOS (30/06/2026 — turno manhã)
+## ALERTA ATIVO (30/06/2026 — pós turno noite)
 
-1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
-2. 💳 **Criar produtos no Stripe + sandbox** — Gratuito / Pro R$97 / Business R$297 (**15 min**); página `/upgrade` pronta em `outputs/2026-06-29/pagina-vendas-secao.md`
-3. 📅 **Travar data de deploy** — definir go-live concreto; **36 dias para CON 2026**
-4. 🎬 **Publicar Ep.71 YouTube hoje** — "5 Perguntas Para o Seu DRE Antes de Entrar em Julho"; timing perfeito
-5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **36 dias**); Omie agente generativo em beta (~1k clientes)
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 36 dias**. AI Captura (Gemini) em produção. Deploy da Máxima precisa acontecer antes.
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` expirou hoje** — encerrado.
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento.
+💳 **Stripe pendente** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md` (15 min de implementação).
+
+---
+
+## PRÓXIMOS PASSOS (30/06/2026 — pós turno noite)
+
+1. 📅 **Travar data de deploy — 25 de julho** (buffer de 10 dias antes do CON); defina agora e coloque no calendário
+2. 💳 **Implementar Stripe (15 min)** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`; Gratuito / Pro R$97 / Business R$297
+3. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo crítico — 36 dias para CON
+4. 🎬 **Publicar Ep.72 YouTube amanhã (01/jul)** — timing ideal abertura 2º semestre
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago)
 
 ---
 
