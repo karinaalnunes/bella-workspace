@@ -4759,3 +4759,36 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+*Última atualização: 30/06/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 30/06/2026
+
+| **2026-06-30** | **Manhã** | **Post Instagram (primeiro semestre acabou — você sabe quanto sobrou? — carrossel 6 slides), Relatório matutino** |
+
+### Manhã 30/06
+| Post Instagram (fechamento 1º semestre — DRE revela o que sobrou — carrossel 6 slides) | ✅ Concluído | `outputs/2026-06-30/instagram-post-manha.md` |
+| Relatório matutino (3 prioridades: DashboardPage, Stripe, travar data de deploy) | ✅ Concluído | `outputs/2026-06-30/relatorio-manha.md` |
+
+---
+
+## ALERTA ATIVO (30/06/2026 — turno manhã)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 36 dias**. AI Captura (Gemini) em produção.
+⚡ **Coupon `REVISAO_SEMESTRAL_JUNHO` EXPIRA HOJE (30/jun)** — último dia para disparar e usar.
+🔄 **DashboardPage + AnalisePage** — gargalo crítico do lançamento — semanas em aberto.
+🎬 **Ep.69 + Ep.70 + Ep.71 YouTube na fila** — Ep.71 ideal para publicar hoje (30/jun ou 01/jul).
+
+---
+
+## PRÓXIMOS PASSOS (30/06/2026 — turno manhã)
+
+1. 🔥 **Finalizar DashboardPage** — 3 widgets MVP: Receita do mês / Margem bruta % / Alerta DRE pendente (gargalo crítico)
+2. 💳 **Criar produtos no Stripe + sandbox** — Gratuito / Pro R$97 / Business R$297 (**15 min**); página `/upgrade` pronta em `outputs/2026-06-29/pagina-vendas-secao.md`
+3. 📅 **Travar data de deploy** — definir go-live concreto; **36 dias para CON 2026**
+4. 🎬 **Publicar Ep.71 YouTube hoje** — "5 Perguntas Para o Seu DRE Antes de Entrar em Julho"; timing perfeito
+5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago, **36 dias**); Omie agente generativo em beta (~1k clientes)
+
+---
+
