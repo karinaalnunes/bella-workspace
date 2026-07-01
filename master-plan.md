@@ -4842,8 +4842,92 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 1. 📅 **Travar data de deploy — 25 de julho** (buffer de 10 dias antes do CON); defina agora e coloque no calendário
 2. 💳 **Implementar Stripe (15 min)** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`; Gratuito / Pro R$97 / Business R$297
 3. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo crítico — 36 dias para CON
-4. 🎬 **Publicar Ep.72 YouTube amanhã (01/jul)** — timing ideal abertura 2º semestre
+4. 🎬 **Publicar Ep.72 YouTube amanhã (01/jul)** — timing ideal abertura 2º semestre ✅ (outline entregue 30/jun)
 5. ⚠️ **Deploy antes de 5 de agosto** — Conta Azul CON 2026 (5–6/ago)
+
+---
+
+## HISTÓRICO — 01/07/2026
+
+| **2026-07-01** | **Manhã** | **Post Instagram (carrossel 5 slides), Relatório matutino** |
+| **2026-07-01** | **Tarde** | **Reel concept (saldo ≠ lucro real), Concorrentes v59, Post LinkedIn** |
+| **2026-07-01** | **Noite** | **Copy de Anúncios Meta Ads — Julho (página de vendas), Outline YouTube Ep.73 (DRE do 2º semestre)** |
+
+### Manhã 01/07
+| Post Instagram (carrossel 5 slides) | ✅ Concluído | `outputs/2026-07-01/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-07-01/relatorio-manha.md` |
+
+### Tarde 01/07
+| Reel concept (saldo ≠ lucro real) | ✅ Concluído | `outputs/2026-07-01/reel-concept.md` |
+| Análise de concorrentes v59 | ✅ Concluído | `outputs/2026-07-01/concorrentes.md` |
+| Post LinkedIn | ✅ Concluído | `outputs/2026-07-01/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-07-01/relatorio-tarde.md` |
+
+### Noite 01/07
+| Copy de Anúncios Meta Ads — Julho (página de vendas) | ✅ Concluído | `outputs/2026-07-01/pagina-vendas-secao.md` |
+| Ep.73 YouTube (DRE do 2º Semestre: O Que Mudar Agora) | ✅ Concluído | `outputs/2026-07-01/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-07-01/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (01/07/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" ✅
+- Pop-up de Reativação 2º Semestre ✅
+- Sequência de E-mails de Countdown Lançamento ✅
+- Script de Live Instagram/YouTube ✅
+- Copy de Onboarding In-App (8 componentes) ✅
+- Kit Coupon REVISAO_SEMESTRAL_JUNHO ✅
+- Checklist de Fim de Semestre ✅
+- Sequência de E-mails de Ativação Pós-Cadastro ✅
+- Upsell / Upgrade In-App Pro→Business ✅
+- Seção "Planos e Preços" — versão 2º semestre ✅
+- **Copy de Anúncios Meta Ads — Julho (3 conjuntos + tokens dev pixel) ✅** ← novo (noite 01/07)
+
+## YOUTUBE — STATUS ATUAL (01/07/2026)
+
+| Ep.73 — DRE do 2º Semestre: O Que Mudar Agora Para Não Repetir os Erros do 1º | **✅ Concluído** | `outputs/2026-07-01/youtube-outline.md` |
+
+**Publicar Ep.73:** semana de 07/jul (timing 2º semestre quente)
+
+---
+
+## ALERTA ATIVO (01/07/2026 — pós turno noite)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 35 dias**. Deploy deve acontecer até 25/jul.
+🔥 **DashboardPage + AnalisePage** — gargalo crítico. Prioridade máxima.
+💳 **Stripe** — tokens prontos, 15 min de implementação. Não adie mais.
+🎬 **Ep.72 YouTube** — publicar hoje/amanhã (timing ideal abertura 2º semestre).
+📣 **Anúncios Meta Ads** — copy prontas em `outputs/2026-07-01/pagina-vendas-secao.md`. Subir após deploy.
+
+---
+
+## PRÓXIMOS PASSOS (01/07/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo do lançamento — 35 dias para CON
+2. 💳 **Implementar Stripe (15 min)** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.72 YouTube** — prazo: hoje mesmo ou amanhã cedo
+4. 📣 **Preparar Meta Ads** — copy pronta; subir gestor de tráfego após deploy
+5. ⚠️ **Travar 25/jul como data de deploy** — colocar no calendário agora
+
+*Última atualização: 01/07/2026 — Turno da noite (Bella)*
 
 ---
 
