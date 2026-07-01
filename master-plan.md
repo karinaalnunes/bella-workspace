@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 29/06/2026 — Turno da manhã (Bella)*
+*Última atualização: 01/07/2026 — Turno da manhã (Bella)*
 
 ---
 
