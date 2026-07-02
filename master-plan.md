@@ -81,6 +81,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Reel concept v4 | ✅ Concluído | `outputs/2026-04-22/reel-concept.md` |
 | Reel concept v6 | ✅ Concluído | `outputs/2026-04-24/reel-concept.md` |
 | Reel concept v7 | ✅ Concluído | `outputs/2026-04-25/reel-concept.md` |
+| Post manhã 02/07 | ✅ Concluído | `outputs/2026-07-02/instagram-post-manha.md` |
+| Reel concept 02/07 | ✅ Concluído | `outputs/2026-07-02/reel-concept.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -93,6 +95,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post LinkedIn v7 | ✅ Concluído | `outputs/2026-04-26/linkedin-post.md` |
 | Post LinkedIn v9 | ✅ Concluído | `outputs/2026-04-28/linkedin-post.md` |
 | Post LinkedIn v8 | ✅ Concluído | `outputs/2026-04-27/linkedin-post.md` |
+| Post LinkedIn 02/07 | ✅ Concluído | `outputs/2026-07-02/linkedin-post.md` |
 
 ### YouTube
 | Entrega | Status | Arquivo |
