@@ -4934,3 +4934,88 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+## HISTÓRICO — 02/07/2026
+
+| **2026-07-02** | **Manhã** | **Post Instagram (carrossel), Relatório matutino** |
+| **2026-07-02** | **Tarde** | **Reel concept, Concorrentes v60, Post LinkedIn, Relatório vespertino** |
+| **2026-07-02** | **Noite** | **Pop-up Exit Intent + Sequência Recuperação (página de vendas), Outline YouTube Ep.74** |
+
+### Manhã 02/07
+| Post Instagram (carrossel) | ✅ Concluído | `outputs/2026-07-02/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-07-02/relatorio-manha.md` |
+
+### Tarde 02/07
+| Reel concept | ✅ Concluído | `outputs/2026-07-02/reel-concept.md` |
+| Análise de concorrentes v60 | ✅ Concluído | `outputs/2026-07-02/concorrentes.md` |
+| Post LinkedIn | ✅ Concluído | `outputs/2026-07-02/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-07-02/relatorio-tarde.md` |
+
+### Noite 02/07
+| Pop-up Exit Intent + Sequência de Recuperação 3 e-mails (página de vendas) | ✅ Concluído | `outputs/2026-07-02/pagina-vendas-secao.md` |
+| Ep.74 YouTube (Julho Decidiu o Seu Ano: 4 Números do DRE) | ✅ Concluído | `outputs/2026-07-02/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-07-02/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (02/07/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" ✅
+- Pop-up de Reativação 2º Semestre ✅
+- Sequência de E-mails de Countdown Lançamento ✅
+- Script de Live Instagram/YouTube ✅
+- Copy de Onboarding In-App (8 componentes) ✅
+- Kit Coupon REVISAO_SEMESTRAL_JUNHO ✅
+- Checklist de Fim de Semestre ✅
+- Sequência de E-mails de Ativação Pós-Cadastro ✅
+- Upsell / Upgrade In-App Pro→Business ✅
+- Seção "Planos e Preços" — versão 2º semestre ✅
+- Copy de Anúncios Meta Ads — Julho ✅
+- **Pop-up Exit Intent + Sequência de Recuperação (3 e-mails) ✅** ← novo (noite 02/07)
+
+## YOUTUBE — STATUS ATUAL (02/07/2026)
+
+| Ep.74 — Julho Decidiu o Seu Ano: 4 Números do DRE que Você Precisa Fechar Agora | **✅ Concluído** | `outputs/2026-07-02/youtube-outline.md` |
+
+**Publicar Ep.74:** semana de 07/jul
+
+---
+
+## ALERTA ATIVO (02/07/2026 — pós turno noite)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 34 dias**. Deploy deve acontecer até 25/jul.
+🔥 **DashboardPage + AnalisePage** — gargalo crítico. Prioridade máxima.
+💳 **Stripe** — tokens prontos, 15 min de implementação. Não adie mais.
+🎬 **Ep.72 YouTube** — publicar urgente (timing ideal abertura 2º semestre).
+📣 **Meta Ads** — copy pronta em `outputs/2026-07-01/pagina-vendas-secao.md`. Subir após deploy.
+
+---
+
+## PRÓXIMOS PASSOS (02/07/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo do lançamento — 34 dias para CON
+2. 💳 **Implementar Stripe (15 min)** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.72 YouTube** — urgente, amanhã cedo
+4. 📣 **Preparar Meta Ads** — copy pronta; subir após deploy
+5. ⚠️ **Deploy alvo: 25/jul** — 23 dias — travar no calendário
+
+*Última atualização: 02/07/2026 — Turno da noite (Bella)*
+
+---
+
