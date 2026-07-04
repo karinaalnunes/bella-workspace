@@ -5093,3 +5093,78 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+## HISTÓRICO — 04/07/2026
+
+| **2026-07-04** | **Noite** | **Upsell Pós-Registro Gratuito→Pro 24h (funil in-app + 2 e-mails + banner + push), Outline YouTube Ep.76 (DRE de Julho: como saber se o negócio vai fechar o ano no verde)** |
+
+### Noite 04/07
+| Upsell Pós-Registro (pop-up + e-mails + banner + push — funil completo Gratuito→Pro) | ✅ Concluído | `outputs/2026-07-04/pagina-vendas-secao.md` |
+| Ep.76 YouTube (O DRE de Julho: Como Saber Se Seu Negócio Vai Fechar o Ano No Verde) | ✅ Concluído | `outputs/2026-07-04/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-07-04/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (04/07/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" ✅
+- Pop-up de Reativação 2º Semestre ✅
+- Sequência de E-mails de Countdown Lançamento ✅
+- Script de Live Instagram/YouTube ✅
+- Copy de Onboarding In-App (8 componentes) ✅
+- Kit Coupon REVISAO_SEMESTRAL_JUNHO ✅
+- Checklist de Fim de Semestre ✅
+- Sequência de E-mails de Ativação Pós-Cadastro ✅
+- Upsell / Upgrade In-App Pro→Business ✅
+- Seção "Planos e Preços" — versão 2º semestre ✅
+- Copy de Anúncios Meta Ads — Julho ✅
+- Pop-up Exit Intent + Sequência de Recuperação (3 e-mails) ✅
+- Checkout / Página de Pagamento (copy + tokens Stripe + A/B) ✅
+- **Upsell Pós-Registro: Gratuito→Pro em 24h (funil completo in-app + e-mails + push) ✅** ← novo (noite 04/07)
+
+## YOUTUBE — STATUS ATUAL (04/07/2026)
+
+| Ep.76 — O DRE de Julho: Como Saber Se Seu Negócio Vai Fechar o Ano No Verde | **✅ Concluído** | `outputs/2026-07-04/youtube-outline.md` |
+
+**Publicar Ep.76:** 07–09/jul (timing de revisão de metas de julho)
+
+---
+
+## ALERTA ATIVO (04/07/2026 — pós turno noite)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 32 dias**. Deploy deve acontecer até 25/jul.
+🔥 **DashboardPage + AnalisePage** — gargalo crítico. Prioridade máxima.
+💳 **Stripe** — tokens prontos, 15 min de implementação. Não adie mais.
+🎬 **Ep.72 YouTube** — publicar urgente (timing abertura 2º semestre ainda quente).
+📣 **Meta Ads** — copy pronta em `outputs/2026-07-01/pagina-vendas-secao.md`. Subir após deploy.
+
+---
+
+## PRÓXIMOS PASSOS (04/07/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo do lançamento — 32 dias para CON
+2. 💳 **Implementar Stripe (15 min)** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`; checkout copy em `outputs/2026-07-03/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.72 YouTube** — urgente (ainda em timing de abertura do 2º semestre)
+4. 📣 **Preparar Meta Ads** — copy pronta; subir após deploy
+5. ⚠️ **Deploy alvo: 25/jul** — 21 dias — travar no calendário
+
+*Última atualização: 04/07/2026 — Turno da noite (Bella)*
+
+---
+
