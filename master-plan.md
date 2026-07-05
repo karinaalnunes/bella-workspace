@@ -5168,3 +5168,79 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+## HISTÓRICO — 05/07/2026
+
+| **2026-07-05** | **Noite** | **Bump de Pedido no Checkout (Order Bump Pro→Business + Gratuito→Pro Trial, tokens Stripe + analytics), Outline YouTube Ep.77 (Inadimplência no DRE: vilão silencioso da margem no 2º semestre)** |
+
+### Noite 05/07
+| Bump de Pedido no Checkout (Order Bump — 2 variantes + copy + tokens Stripe + métricas) | ✅ Concluído | `outputs/2026-07-05/pagina-vendas-secao.md` |
+| Ep.77 YouTube (Inadimplência no DRE: o Vilão Silencioso que Devora Sua Margem no 2º Semestre) | ✅ Concluído | `outputs/2026-07-05/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-07-05/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (05/07/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" ✅
+- Pop-up de Reativação 2º Semestre ✅
+- Sequência de E-mails de Countdown Lançamento ✅
+- Script de Live Instagram/YouTube ✅
+- Copy de Onboarding In-App (8 componentes) ✅
+- Kit Coupon REVISAO_SEMESTRAL_JUNHO ✅
+- Checklist de Fim de Semestre ✅
+- Sequência de E-mails de Ativação Pós-Cadastro ✅
+- Upsell / Upgrade In-App Pro→Business ✅
+- Seção "Planos e Preços" — versão 2º semestre ✅
+- Copy de Anúncios Meta Ads — Julho ✅
+- Pop-up Exit Intent + Sequência de Recuperação (3 e-mails) ✅
+- Checkout / Página de Pagamento (copy + tokens Stripe + A/B) ✅
+- Upsell Pós-Registro: Gratuito→Pro em 24h (funil completo in-app + e-mails + push) ✅
+- **Bump de Pedido no Checkout (Order Bump 2 variantes + tokens Stripe + analytics) ✅** ← novo (noite 05/07)
+
+## YOUTUBE — STATUS ATUAL (05/07/2026)
+
+| Ep.77 — Inadimplência no DRE: o Vilão Silencioso que Devora Sua Margem no 2º Semestre | **✅ Concluído** | `outputs/2026-07-05/youtube-outline.md` |
+
+**Publicar Ep.77:** 10–12/jul (timing: empresários revisando H1 e planejando H2)
+
+---
+
+## ALERTA ATIVO (05/07/2026 — pós turno noite)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 31 dias**. Deploy deve acontecer até 25/jul.
+🔥 **DashboardPage + AnalisePage** — gargalo crítico. Prioridade máxima.
+💳 **Stripe** — tokens prontos, 15 min de implementação. Bump de pedido pronto para integrar junto.
+🎬 **Ep.72 YouTube** — publicar urgente (timing abertura 2º semestre ainda quente).
+📣 **Meta Ads** — copy pronta em `outputs/2026-07-01/pagina-vendas-secao.md`. Subir após deploy.
+
+---
+
+## PRÓXIMOS PASSOS (05/07/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo do lançamento — 31 dias para CON
+2. 💳 **Implementar Stripe + Bump de Pedido** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`; bump copy em `outputs/2026-07-05/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.72 YouTube** — urgente (timing abertura 2º semestre ainda quente)
+4. 📣 **Preparar Meta Ads** — copy pronta; subir após deploy
+5. ⚠️ **Deploy alvo: 25/jul** — 20 dias — travar no calendário
+
+*Última atualização: 05/07/2026 — Turno da noite (Bella)*
+
+---
+
