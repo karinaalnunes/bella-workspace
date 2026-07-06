@@ -5171,6 +5171,7 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 ## HISTÓRICO — 05/07/2026
 
 | **2026-07-05** | **Noite** | **Bump de Pedido no Checkout (Order Bump Pro→Business + Gratuito→Pro Trial, tokens Stripe + analytics), Outline YouTube Ep.77 (Inadimplência no DRE: vilão silencioso da margem no 2º semestre)** |
+| **2026-07-06** | **Manhã** | **Post Instagram (2º semestre: 3 perguntas que o DRE responde — carrossel 7 slides), Relatório matutino** |
 
 ### Noite 05/07
 | Bump de Pedido no Checkout (Order Bump — 2 variantes + copy + tokens Stripe + métricas) | ✅ Concluído | `outputs/2026-07-05/pagina-vendas-secao.md` |
@@ -5240,7 +5241,31 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 4. 📣 **Preparar Meta Ads** — copy pronta; subir após deploy
 5. ⚠️ **Deploy alvo: 25/jul** — 20 dias — travar no calendário
 
-*Última atualização: 05/07/2026 — Turno da noite (Bella)*
+### Manhã 06/07
+| Post Instagram (2º semestre: 3 perguntas que o DRE responde — carrossel 7 slides) | ✅ Concluído | `outputs/2026-07-06/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-07-06/relatorio-manha.md` |
+
+---
+
+## ALERTA ATIVO (06/07/2026 — pós turno manhã)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 30 dias**. Deploy deve acontecer até 25/jul.
+🔥 **DashboardPage + AnalisePage** — gargalo crítico. Prioridade máxima.
+💳 **Stripe** — tokens prontos, 15 min de implementação. Bump de pedido pronto para integrar junto.
+🎬 **Ep.77 YouTube** — outline pronto; publicar 10–12/jul (timing abertura 2º semestre ainda quente).
+📣 **Meta Ads** — copy pronta em `outputs/2026-07-01/pagina-vendas-secao.md`. Subir após deploy.
+
+---
+
+## PRÓXIMOS PASSOS (06/07/2026 — pós turno manhã)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo do lançamento — 30 dias para CON
+2. 💳 **Implementar Stripe + Bump de Pedido** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`; bump copy em `outputs/2026-07-05/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.77 YouTube** — outline pronto (publicar 10–12/jul)
+4. 📣 **Preparar Meta Ads** — copy pronta; subir após deploy
+5. ⚠️ **Deploy alvo: 25/jul** — 19 dias — travar no calendário
+
+*Última atualização: 06/07/2026 — Turno da manhã (Bella)*
 
 ---
 
