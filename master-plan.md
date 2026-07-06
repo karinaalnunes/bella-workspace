@@ -5245,27 +5245,85 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Post Instagram (2º semestre: 3 perguntas que o DRE responde — carrossel 7 slides) | ✅ Concluído | `outputs/2026-07-06/instagram-post-manha.md` |
 | Relatório matutino | ✅ Concluído | `outputs/2026-07-06/relatorio-manha.md` |
 
+### Noite 06/07
+| Sequência E-mails Reativação Usuários Inativos (3 e-mails + tokens Supabase + métricas) | ✅ Concluído | `outputs/2026-07-06/pagina-vendas-secao.md` |
+| Ep.78 YouTube (Como Preparar Sua Empresa para o 2º Semestre: 5 Ajustes no DRE) | ✅ Concluído | `outputs/2026-07-06/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-07-06/relatorio-noite.md` |
+
 ---
 
-## ALERTA ATIVO (06/07/2026 — pós turno manhã)
+## HISTÓRICO — 06/07/2026
+
+| **2026-07-06** | **Manhã** | **Post Instagram (2º semestre: 3 perguntas que o DRE responde — carrossel 7 slides), Relatório matutino** |
+| **2026-07-06** | **Noite** | **Sequência E-mails Reativação Usuários Inativos (3 e-mails + tokens + métricas), Outline YouTube Ep.78 (5 ajustes no DRE para o 2º semestre)** |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (06/07/2026)
+
+**Seções adicionais produzidas (pós-consolidação):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" ✅
+- Pop-up de Reativação 2º Semestre ✅
+- Sequência de E-mails de Countdown Lançamento ✅
+- Script de Live Instagram/YouTube ✅
+- Copy de Onboarding In-App (8 componentes) ✅
+- Kit Coupon REVISAO_SEMESTRAL_JUNHO ✅
+- Checklist de Fim de Semestre ✅
+- Sequência de E-mails de Ativação Pós-Cadastro ✅
+- Upsell / Upgrade In-App Pro→Business ✅
+- Seção "Planos e Preços" — versão 2º semestre ✅
+- Copy de Anúncios Meta Ads — Julho ✅
+- Pop-up Exit Intent + Sequência de Recuperação (3 e-mails) ✅
+- Checkout / Página de Pagamento (copy + tokens Stripe + A/B) ✅
+- Upsell Pós-Registro: Gratuito→Pro em 24h (funil completo in-app + e-mails + push) ✅
+- Bump de Pedido no Checkout (Order Bump 2 variantes + tokens Stripe + analytics) ✅
+- **Sequência de E-mails de Reativação — Usuários Inativos 30 dias (3 e-mails + tokens + métricas) ✅** ← novo (noite 06/07)
+
+## YOUTUBE — STATUS ATUAL (06/07/2026)
+
+| Ep.78 — Como Preparar Sua Empresa para o 2º Semestre: 5 Ajustes no DRE Que Evitam Surpresas até Dezembro | **✅ Concluído** | `outputs/2026-07-06/youtube-outline.md` |
+
+**Publicar Ep.78:** 07–09/jul (timing perfeito — início do 2º semestre)
+
+---
+
+## ALERTA ATIVO (06/07/2026 — pós turno noite)
 
 ⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 30 dias**. Deploy deve acontecer até 25/jul.
 🔥 **DashboardPage + AnalisePage** — gargalo crítico. Prioridade máxima.
 💳 **Stripe** — tokens prontos, 15 min de implementação. Bump de pedido pronto para integrar junto.
-🎬 **Ep.77 YouTube** — outline pronto; publicar 10–12/jul (timing abertura 2º semestre ainda quente).
+🎬 **Ep.78 YouTube** — publicar 07–09/jul (timing perfeito de abertura do 2º semestre).
 📣 **Meta Ads** — copy pronta em `outputs/2026-07-01/pagina-vendas-secao.md`. Subir após deploy.
+📧 **Reativação de Inativos** — sequência pronta para integrar ao Supabase + e-mail marketing.
 
 ---
 
-## PRÓXIMOS PASSOS (06/07/2026 — pós turno manhã)
+## PRÓXIMOS PASSOS (06/07/2026 — pós turno noite)
 
 1. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo do lançamento — 30 dias para CON
 2. 💳 **Implementar Stripe + Bump de Pedido** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`; bump copy em `outputs/2026-07-05/pagina-vendas-secao.md`
-3. 🎬 **Publicar Ep.77 YouTube** — outline pronto (publicar 10–12/jul)
-4. 📣 **Preparar Meta Ads** — copy pronta; subir após deploy
-5. ⚠️ **Deploy alvo: 25/jul** — 19 dias — travar no calendário
+3. 🎬 **Publicar Ep.78 YouTube** — publicar 07–09/jul (timing de abertura do 2º semestre)
+4. 📧 **Integrar sequência de reativação de inativos** — pronta em `outputs/2026-07-06/pagina-vendas-secao.md`
+5. 📣 **Preparar Meta Ads** — copy pronta; subir após deploy
+6. ⚠️ **Deploy alvo: 25/jul** — 19 dias — travar no calendário
 
-*Última atualização: 06/07/2026 — Turno da manhã (Bella)*
+*Última atualização: 06/07/2026 — Turno da noite (Bella)*
 
 ---
 
