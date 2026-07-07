@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 01/07/2026 — Turno da manhã (Bella)*
+*Última atualização: 07/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -55,6 +55,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Para quem é (qualificação de lead)** | **✅ Concluído** | `outputs/2026-05-01/pagina-vendas-secao.md` |
 | **Urgência / Por que agir agora** | **✅ Concluído** | `outputs/2026-05-02/pagina-vendas-secao.md` |
 | **Objeções Específicas** | **✅ Concluído** | `outputs/2026-06-13/pagina-vendas-secao.md` |
+| **Sequência de E-mails de Reativação (Usuários Inativos)** | **✅ Concluído** | `outputs/2026-07-06/pagina-vendas-secao.md` |
+| **Roteiro de VSL (Video Sales Letter)** | **✅ Concluído** | `outputs/2026-07-07/pagina-vendas-secao.md` |
 
 ---
 
@@ -115,6 +117,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.13 — Impostos no DRE: o número que devora sua margem sem você perceber** | **✅ Concluído** | `outputs/2026-05-01/youtube-outline.md` |
 | **Ep.14 — Sazonalidade no DRE: como não ser pego de surpresa nos meses fracos** | **✅ Concluído** | `outputs/2026-05-02/youtube-outline.md` |
 | **Ep.15 — Dívida boa ou dívida ruim? O que o DRE da sua empresa revela sobre isso** | **✅ Concluído** | `outputs/2026-06-13/youtube-outline.md` |
+| **Ep.78 — Como Preparar Sua Empresa para o 2º Semestre: 5 Ajustes no DRE** | **✅ Concluído** | `outputs/2026-07-06/youtube-outline.md` |
+| **Ep.79 — DRE e Inflação: Como Proteger Sua Margem Quando os Custos Sobem** | **✅ Concluído** | `outputs/2026-07-07/youtube-outline.md` |
 
 ---
 
@@ -147,7 +151,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios 16+ — Ep.15 ✅ concluído)
+- Série YouTube (roteiro episódios — Ep.79 ✅ concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro
 
