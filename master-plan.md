@@ -5376,7 +5376,88 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 5. 📣 **Preparar Meta Ads** — copy pronta; subir após deploy
 6. ⚠️ **Deploy alvo: 25/jul** — 17 dias — travar no calendário
 
-*Última atualização: 08/07/2026 — Turno da manhã (Bella)*
+*Última atualização: 08/07/2026 — Turno da noite (Bella)*
+
+---
+
+## HISTÓRICO — 08/07/2026 (continuação — tarde e noite)
+
+| **2026-07-08** | **Tarde** | **Reel concept, Análise de concorrentes (Treasy/Conta Azul/Omie — dados frescos jul/2026), Post LinkedIn** |
+| **2026-07-08** | **Noite** | **Seção FAQ completa (página de vendas — 10 perguntas/respostas + tokens dev + schema SEO), Outline YouTube Ep.80 (Sazonalidade no DRE: Identificar Meses de Risco)** |
+
+### Tarde 08/07
+| Reel concept | ✅ Concluído | `outputs/2026-07-08/reel-concept.md` |
+| Concorrentes (análise jul/2026) | ✅ Concluído | `outputs/2026-07-08/concorrentes.md` |
+| Post LinkedIn | ✅ Concluído | `outputs/2026-07-08/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-07-08/relatorio-tarde.md` |
+
+### Noite 08/07
+| Seção FAQ — Página de Vendas (10 perguntas + respostas + tokens dev + FAQPage schema SEO) | ✅ Concluído | `outputs/2026-07-08/pagina-vendas-secao.md` |
+| Ep.80 YouTube (Sazonalidade no DRE: Como Identificar Seus Meses de Risco e Não Ser Pego de Surpresa) | ✅ Concluído | `outputs/2026-07-08/youtube-outline.md` |
+| Relatório noturno | ✅ Concluído | `outputs/2026-07-08/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (08/07/2026)
+
+**Seções produzidas (histórico completo):**
+- Hero v2 A/B ✅
+- Prova Social / Depoimentos ✅
+- Garantia / Risco Zero ✅
+- Comparativo (vs. planilha/contador/ERP) ✅
+- Para quem é (qualificação de lead) ✅
+- Urgência / Por que agir agora ✅
+- Antes & Depois / Transformação ✅
+- Sobre a Fundadora / Credibilidade ✅
+- Dados & Prova por Números ✅
+- Quebra de Objeções ✅
+- Lead Magnet / Checklist DRE ✅
+- Sequência E-mails Onboarding (5 e-mails) ✅
+- Objeções Específicas ✅
+- Script Welcome Video / Onboarding ✅
+- Posicionamento Anticompetitivo — "ERP organiza, IA interpreta" ✅
+- Tour pelo App em 3 Passos (demonstração narrativa) ✅
+- Seção "Resultado em 30 Dias" — Promessa concreta ✅
+- Pop-up de Urgência Semestral (4 versões + e-mail reativação) ✅
+- Bump de Pedido (Checkout + Upsell anual) ✅
+- Copy para Meta Ads (topo, meio e fundo de funil) ✅
+- Roteiro VSL completo (7–8 min) ✅
+- Sequência de E-mails de Reativação — Inativos 30 dias (3 e-mails) ✅
+- **Seção FAQ completa (10 perguntas + respostas + FAQPage schema SEO) ✅** ← novo (noite 08/07)
+
+**Seção pendente:** CTA final (rotação restante)
+
+---
+
+## YOUTUBE — STATUS ATUAL (08/07/2026)
+
+| Ep.80 — Sazonalidade no DRE: Como Identificar Seus Meses de Risco | **✅ Concluído** | `outputs/2026-07-08/youtube-outline.md` |
+
+**Publicar Ep.80:** 10–12/jul (início de julho — timing perfeito sobre sazonalidade)
+
+---
+
+## ALERTA ATIVO (08/07/2026 — pós turno noite)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 28 dias**. Deploy deve acontecer até 25/jul.
+🔥 **DashboardPage + AnalisePage** — gargalo crítico. Prioridade máxima — 17 dias para deploy alvo.
+💳 **Stripe** — tokens prontos, 15 min de implementação. Bump de pedido pronto.
+🎬 **Ep.78 YouTube** — publicar amanhã (09/jul — última janela).
+📣 **Meta Ads** — copy pronta em `outputs/2026-07-01/pagina-vendas-secao.md`. Subir após deploy.
+📧 **Reativação de Inativos** — sequência pronta para integrar ao Supabase.
+
+---
+
+## PRÓXIMOS PASSOS (08/07/2026 — pós turno noite)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo do lançamento — **17 dias para deploy alvo (25/jul)**
+2. 💳 **Implementar Stripe + Bump de Pedido** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.78 YouTube AMANHÃ (09/jul)** — janela de timing fecha; Ep.79 e Ep.80 na fila
+4. 📧 **Integrar sequência de reativação de inativos** — pronta em `outputs/2026-07-06/pagina-vendas-secao.md`
+5. 🛒 **Implementar FAQ na página de vendas** — pronta em `outputs/2026-07-08/pagina-vendas-secao.md`; adicionar FAQPage schema JSON-LD para SEO
+6. ⚠️ **Deploy alvo: 25/jul** — 17 dias — travar no calendário
+
+*Última atualização: 08/07/2026 — Turno da noite (Bella)*
 
 ---
 
