@@ -5331,3 +5331,52 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+## HISTÓRICO — 07/07/2026
+
+| **2026-07-07** | **Manhã** | **Post Instagram (julho vai detonar seu caixa — sazonalidade + caixa), Relatório matutino** |
+| **2026-07-07** | **Tarde** | **Reel concept, Concorrentes v, LinkedIn post** |
+| **2026-07-07** | **Noite** | **Roteiro VSL completo (7–8 min), Outline YouTube Ep.79 (DRE e Inflação)** |
+
+### Instagram 07/07
+| Post manhã 07/07 | ✅ Concluído | `outputs/2026-07-07/instagram-post-manha.md` |
+
+### Noite 07/07
+| Roteiro VSL (Video Sales Letter — 7–8 min) | ✅ Concluído | `outputs/2026-07-07/pagina-vendas-secao.md` |
+| Ep.79 YouTube (DRE e Inflação: Como Proteger Sua Margem) | ✅ Concluído | `outputs/2026-07-07/youtube-outline.md` |
+
+---
+
+## HISTÓRICO — 08/07/2026
+
+| **2026-07-08** | **Manhã** | **Post Instagram (faturei bem em junho — por que o caixa está no limite? — descasamento financeiro), Relatório matutino** |
+
+### Instagram 08/07
+| Post manhã 08/07 | ✅ Concluído | `outputs/2026-07-08/instagram-post-manha.md` |
+| Relatório matutino | ✅ Concluído | `outputs/2026-07-08/relatorio-manha.md` |
+
+---
+
+## ALERTA ATIVO (08/07/2026 — turno manhã)
+
+⚠️ **Conta Azul CON 2026 = 5–6 de agosto — 28 dias**. Deploy deve acontecer até 25/jul.
+🔥 **DashboardPage + AnalisePage** — gargalo crítico. Prioridade máxima — 17 dias para deploy alvo.
+💳 **Stripe** — tokens prontos, 15 min de implementação. Bump de pedido pronto para integrar junto.
+🎬 **Ep.78 YouTube** — publicar HOJE (07–09/jul — janela fecha amanhã).
+📣 **Meta Ads** — copy pronta em `outputs/2026-07-01/pagina-vendas-secao.md`. Subir após deploy.
+📧 **Reativação de Inativos** — sequência pronta para integrar ao Supabase + e-mail marketing.
+
+---
+
+## PRÓXIMOS PASSOS (08/07/2026 — turno manhã)
+
+1. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo do lançamento — 17 dias para deploy alvo
+2. 💳 **Implementar Stripe + Bump de Pedido** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`
+3. 🎬 **Publicar Ep.78 YouTube HOJE** — janela de timing fecha amanhã
+4. 📧 **Integrar sequência de reativação de inativos** — pronta em `outputs/2026-07-06/pagina-vendas-secao.md`
+5. 📣 **Preparar Meta Ads** — copy pronta; subir após deploy
+6. ⚠️ **Deploy alvo: 25/jul** — 17 dias — travar no calendário
+
+*Última atualização: 08/07/2026 — Turno da manhã (Bella)*
+
+---
+
