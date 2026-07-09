@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 09/07/2026 — Turno da manhã (Bella)*
+*Última atualização: 09/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -57,6 +57,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Objeções Específicas** | **✅ Concluído** | `outputs/2026-06-13/pagina-vendas-secao.md` |
 | **Sequência de E-mails de Reativação (Usuários Inativos)** | **✅ Concluído** | `outputs/2026-07-06/pagina-vendas-secao.md` |
 | **Roteiro de VSL (Video Sales Letter)** | **✅ Concluído** | `outputs/2026-07-07/pagina-vendas-secao.md` |
+| **FAQ Revisitado (versão aprofundada)** | **✅ Concluído** | `outputs/2026-07-08/pagina-vendas-secao.md` |
+| **Sequência de E-mails de Onboarding (Boas-Vindas — 7 e-mails)** | **✅ Concluído** | `outputs/2026-07-09/pagina-vendas-secao.md` |
 
 ---
 
@@ -119,6 +121,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.15 — Dívida boa ou dívida ruim? O que o DRE da sua empresa revela sobre isso** | **✅ Concluído** | `outputs/2026-06-13/youtube-outline.md` |
 | **Ep.78 — Como Preparar Sua Empresa para o 2º Semestre: 5 Ajustes no DRE** | **✅ Concluído** | `outputs/2026-07-06/youtube-outline.md` |
 | **Ep.79 — DRE e Inflação: Como Proteger Sua Margem Quando os Custos Sobem** | **✅ Concluído** | `outputs/2026-07-07/youtube-outline.md` |
+| **Ep.80 — Sazonalidade no DRE: Como Identificar Seus Meses de Risco** | **✅ Concluído** | `outputs/2026-07-08/youtube-outline.md` |
+| **Ep.81 — Valuation de PME: Como o DRE Define Quanto Vale a Sua Empresa** | **✅ Concluído** | `outputs/2026-07-09/youtube-outline.md` |
 
 ---
 
@@ -151,9 +155,9 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios — Ep.79 ✅ concluído)
+- Série YouTube (roteiro episódios — Ep.81 ✅ concluído)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
-- Onboarding automatizado pós-cadastro
+- Onboarding automatizado pós-cadastro ✅ Sequência de e-mails de boas-vindas concluída (09/07)
 
 ---
 
@@ -5464,10 +5468,16 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 ## HISTÓRICO — 09/07/2026
 
 | **2026-07-09** | **Manhã** | **Post Instagram (qual produto tem margem real — carrossel 8 slides), Relatório matutino** |
+| **2026-07-09** | **Noite** | **Sequência de E-mails Onboarding (7 e-mails boas-vindas), Outline YouTube Ep.81 (Valuation PME via DRE)** |
 
 ### Manhã 09/07
 | Post Instagram 09/07 | ✅ Concluído | `outputs/2026-07-09/instagram-post-manha.md` |
 | Relatório matutino 09/07 | ✅ Concluído | `outputs/2026-07-09/relatorio-manha.md` |
+
+### Noite 09/07
+| Sequência de E-mails de Onboarding (boas-vindas — 7 e-mails) | ✅ Concluído | `outputs/2026-07-09/pagina-vendas-secao.md` |
+| Ep.81 YouTube (Valuation de PME via DRE) | ✅ Concluído | `outputs/2026-07-09/youtube-outline.md` |
+| Relatório noturno 09/07 | ✅ Concluído | `outputs/2026-07-09/relatorio-noite.md` |
 
 ---
 
