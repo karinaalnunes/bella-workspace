@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 07/07/2026 — Turno da noite (Bella)*
+*Última atualização: 09/07/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -5452,12 +5452,22 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 1. 🔥 **Implementar DashboardPage + AnalisePage** — gargalo do lançamento — **17 dias para deploy alvo (25/jul)**
 2. 💳 **Implementar Stripe + Bump de Pedido** — tokens prontos em `outputs/2026-06-30/pagina-vendas-secao.md`
-3. 🎬 **Publicar Ep.78 YouTube AMANHÃ (09/jul)** — janela de timing fecha; Ep.79 e Ep.80 na fila
-4. 📧 **Integrar sequência de reativação de inativos** — pronta em `outputs/2026-07-06/pagina-vendas-secao.md`
-5. 🛒 **Implementar FAQ na página de vendas** — pronta em `outputs/2026-07-08/pagina-vendas-secao.md`; adicionar FAQPage schema JSON-LD para SEO
-6. ⚠️ **Deploy alvo: 25/jul** — 17 dias — travar no calendário
+3. 🎬 **Publicar Ep.78 YouTube HOJE (09/jul)** — última janela — roteiro pronto em `outputs/2026-07-06/youtube-outline.md`
+4. 💳 **Implementar Stripe + FAQ na página de vendas** — tokens/conteúdo prontos — estimativa: 1h total
+5. 📧 **Integrar sequência de reativação de inativos** — pronta em `outputs/2026-07-06/pagina-vendas-secao.md`
+6. ⚠️ **Deploy alvo: 25/jul** — 16 dias — travar no calendário
 
-*Última atualização: 08/07/2026 — Turno da noite (Bella)*
+*Última atualização: 09/07/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 09/07/2026
+
+| **2026-07-09** | **Manhã** | **Post Instagram (qual produto tem margem real — carrossel 8 slides), Relatório matutino** |
+
+### Manhã 09/07
+| Post Instagram 09/07 | ✅ Concluído | `outputs/2026-07-09/instagram-post-manha.md` |
+| Relatório matutino 09/07 | ✅ Concluído | `outputs/2026-07-09/relatorio-manha.md` |
 
 ---
 
