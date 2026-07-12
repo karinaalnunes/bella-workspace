@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 09/07/2026 — Turno da noite (Bella)*
+*Última atualização: 12/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -59,6 +59,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Roteiro de VSL (Video Sales Letter)** | **✅ Concluído** | `outputs/2026-07-07/pagina-vendas-secao.md` |
 | **FAQ Revisitado (versão aprofundada)** | **✅ Concluído** | `outputs/2026-07-08/pagina-vendas-secao.md` |
 | **Sequência de E-mails de Onboarding (Boas-Vindas — 7 e-mails)** | **✅ Concluído** | `outputs/2026-07-09/pagina-vendas-secao.md` |
+| **Página de Obrigado / Thank You Page (pós-cadastro)** | **✅ Concluído** | `outputs/2026-07-12/pagina-vendas-secao.md` |
 
 ---
 
@@ -123,6 +124,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.79 — DRE e Inflação: Como Proteger Sua Margem Quando os Custos Sobem** | **✅ Concluído** | `outputs/2026-07-07/youtube-outline.md` |
 | **Ep.80 — Sazonalidade no DRE: Como Identificar Seus Meses de Risco** | **✅ Concluído** | `outputs/2026-07-08/youtube-outline.md` |
 | **Ep.81 — Valuation de PME: Como o DRE Define Quanto Vale a Sua Empresa** | **✅ Concluído** | `outputs/2026-07-09/youtube-outline.md` |
+| **Ep.82 — IA no DRE: como a inteligência artificial está mudando a gestão financeira das PMEs** | **✅ Concluído** | `outputs/2026-07-12/youtube-outline.md` |
 
 ---
 
@@ -155,9 +157,10 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 3. Landing page completa publicada
 
 ### Backlog
-- Série YouTube (roteiro episódios — Ep.81 ✅ concluído)
+- Série YouTube (roteiro episódios — Ep.82 ✅ concluído em 12/07)
 - Estratégia de lançamento (email, Instagram, LinkedIn)
 - Onboarding automatizado pós-cadastro ✅ Sequência de e-mails de boas-vindas concluída (09/07)
+- Thank You Page (pós-cadastro) ✅ Concluída (12/07)
 
 ---
 
