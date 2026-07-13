@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 13/07/2026 — Turno da tarde (Bella)*
+*Última atualização: 13/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -60,6 +60,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **FAQ Revisitado (versão aprofundada)** | **✅ Concluído** | `outputs/2026-07-08/pagina-vendas-secao.md` |
 | **Sequência de E-mails de Onboarding (Boas-Vindas — 7 e-mails)** | **✅ Concluído** | `outputs/2026-07-09/pagina-vendas-secao.md` |
 | **Página de Obrigado / Thank You Page (pós-cadastro)** | **✅ Concluído** | `outputs/2026-07-12/pagina-vendas-secao.md` |
+| **Upsell Pós-Cadastro (upgrade Gratuito → Pro, com oferta de onboarding)** | **✅ Concluído** | `outputs/2026-07-13/pagina-vendas-secao.md` |
 
 ---
 
@@ -128,6 +129,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.80 — Sazonalidade no DRE: Como Identificar Seus Meses de Risco** | **✅ Concluído** | `outputs/2026-07-08/youtube-outline.md` |
 | **Ep.81 — Valuation de PME: Como o DRE Define Quanto Vale a Sua Empresa** | **✅ Concluído** | `outputs/2026-07-09/youtube-outline.md` |
 | **Ep.82 — IA no DRE: como a inteligência artificial está mudando a gestão financeira das PMEs** | **✅ Concluído** | `outputs/2026-07-12/youtube-outline.md` |
+| **Ep.83 — Como Preparar Seu DRE para Buscar Crédito ou Investimento** | **✅ Concluído** | `outputs/2026-07-13/youtube-outline.md` |
 
 ---
 
@@ -5484,6 +5486,47 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Sequência de E-mails de Onboarding (boas-vindas — 7 e-mails) | ✅ Concluído | `outputs/2026-07-09/pagina-vendas-secao.md` |
 | Ep.81 YouTube (Valuation de PME via DRE) | ✅ Concluído | `outputs/2026-07-09/youtube-outline.md` |
 | Relatório noturno 09/07 | ✅ Concluído | `outputs/2026-07-09/relatorio-noite.md` |
+
+---
+
+## HISTÓRICO — 12/07/2026
+
+| **2026-07-12** | **Tarde** | **Reel concept, Análise de concorrentes (Treasy/Conta Azul/Omie — dados frescos jul/2026), Post LinkedIn** |
+| **2026-07-12** | **Noite** | **Thank You Page / Página de Obrigado (pós-cadastro — copy completo + 3 passos de ativação + bloco upgrade), Outline YouTube Ep.82 (IA no DRE: como a IA muda a gestão financeira das PMEs)** |
+
+### Tarde 12/07
+| Reel concept | ✅ Concluído | `outputs/2026-07-12/reel-concept.md` |
+| Concorrentes (análise jul/2026) | ✅ Concluído | `outputs/2026-07-12/concorrentes.md` |
+| Post LinkedIn | ✅ Concluído | `outputs/2026-07-12/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-07-12/relatorio-tarde.md` |
+
+### Noite 12/07
+| Thank You Page / Página de Obrigado (pós-cadastro) | ✅ Concluído | `outputs/2026-07-12/pagina-vendas-secao.md` |
+| Ep.82 YouTube (IA no DRE: como a inteligência artificial muda a gestão financeira das PMEs) | ✅ Concluído | `outputs/2026-07-12/youtube-outline.md` |
+| Relatório noturno 12/07 | ✅ Concluído | `outputs/2026-07-12/relatorio-noite.md` |
+
+---
+
+## HISTÓRICO — 13/07/2026
+
+| **2026-07-13** | **Manhã** | **Post Instagram (3 números para revisar toda segunda — carrossel), Reel concept (faturamento vs. lucro)** |
+| **2026-07-13** | **Tarde** | **Análise de concorrentes (Treasy/Conta Azul/Omie — julho/2026), Post LinkedIn (educativo + CTA suave)** |
+| **2026-07-13** | **Noite** | **Upsell Pós-Cadastro (upgrade Gratuito → Pro — copy completo com oferta de onboarding), Outline YouTube Ep.83 (DRE para buscar crédito ou investimento)** |
+
+### Manhã 13/07
+| Post Instagram (3 números para revisar toda segunda) | ✅ Concluído | `outputs/2026-07-13/instagram-post-manha.md` |
+| Relatório matutino 13/07 | ✅ Concluído | `outputs/2026-07-13/relatorio-manha.md` |
+
+### Tarde 13/07
+| Reel concept | ✅ Concluído | `outputs/2026-07-13/reel-concept.md` |
+| Concorrentes (análise jul/2026) | ✅ Concluído | `outputs/2026-07-13/concorrentes.md` |
+| Post LinkedIn | ✅ Concluído | `outputs/2026-07-13/linkedin-post.md` |
+| Relatório vespertino | ✅ Concluído | `outputs/2026-07-13/relatorio-tarde.md` |
+
+### Noite 13/07
+| Upsell Pós-Cadastro (copy completo — upgrade Gratuito → Pro com oferta de ativação) | ✅ Concluído | `outputs/2026-07-13/pagina-vendas-secao.md` |
+| Ep.83 YouTube (Como Preparar Seu DRE para Buscar Crédito ou Investimento) | ✅ Concluído | `outputs/2026-07-13/youtube-outline.md` |
+| Relatório noturno 13/07 | ✅ Concluído | `outputs/2026-07-13/relatorio-noite.md` |
 
 ---
 
