@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 13/07/2026 — Turno da noite (Bella)*
+*Última atualização: 14/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -61,6 +61,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Sequência de E-mails de Onboarding (Boas-Vindas — 7 e-mails)** | **✅ Concluído** | `outputs/2026-07-09/pagina-vendas-secao.md` |
 | **Página de Obrigado / Thank You Page (pós-cadastro)** | **✅ Concluído** | `outputs/2026-07-12/pagina-vendas-secao.md` |
 | **Upsell Pós-Cadastro (upgrade Gratuito → Pro, com oferta de onboarding)** | **✅ Concluído** | `outputs/2026-07-13/pagina-vendas-secao.md` |
+| **Order Bump / Oferta no Checkout (sessão 1:1 + upgrade Business)** | **✅ Concluído** | `outputs/2026-07-14/pagina-vendas-secao.md` |
 
 ---
 
@@ -130,6 +131,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.81 — Valuation de PME: Como o DRE Define Quanto Vale a Sua Empresa** | **✅ Concluído** | `outputs/2026-07-09/youtube-outline.md` |
 | **Ep.82 — IA no DRE: como a inteligência artificial está mudando a gestão financeira das PMEs** | **✅ Concluído** | `outputs/2026-07-12/youtube-outline.md` |
 | **Ep.83 — Como Preparar Seu DRE para Buscar Crédito ou Investimento** | **✅ Concluído** | `outputs/2026-07-13/youtube-outline.md` |
+| **Ep.84 — 5 Erros que Empresários Cometem ao Ler o Próprio DRE** | **✅ Concluído** | `outputs/2026-07-14/youtube-outline.md` |
 
 ---
 
@@ -5527,6 +5529,17 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Upsell Pós-Cadastro (copy completo — upgrade Gratuito → Pro com oferta de ativação) | ✅ Concluído | `outputs/2026-07-13/pagina-vendas-secao.md` |
 | Ep.83 YouTube (Como Preparar Seu DRE para Buscar Crédito ou Investimento) | ✅ Concluído | `outputs/2026-07-13/youtube-outline.md` |
 | Relatório noturno 13/07 | ✅ Concluído | `outputs/2026-07-13/relatorio-noite.md` |
+
+---
+
+## HISTÓRICO — 14/07/2026
+
+| **2026-07-14** | **Noite** | **Order Bump / Oferta no Checkout (sessão 1:1 + upgrade Business — copy + lógica para dev), Outline YouTube Ep.84 (5 erros que empresários cometem ao ler o DRE)** |
+
+### Noite 14/07
+| Order Bump / Oferta no Checkout (copy completo — Opção A: sessão 1:1, Opção B: upgrade Business) | ✅ Concluído | `outputs/2026-07-14/pagina-vendas-secao.md` |
+| Ep.84 YouTube (5 Erros que Empresários Cometem ao Ler o Próprio DRE) | ✅ Concluído | `outputs/2026-07-14/youtube-outline.md` |
+| Relatório noturno 14/07 | ✅ Concluído | `outputs/2026-07-14/relatorio-noite.md` |
 
 ---
 
