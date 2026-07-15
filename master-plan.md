@@ -5553,17 +5553,38 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Post Instagram (vazamentos silenciosos no DRE — CMV, despesas, pró-labore, inadimplência) | ✅ Concluído | `outputs/2026-07-15/instagram-post-manha.md` |
 | Relatório matutino 15/07 | ✅ Concluído | `outputs/2026-07-15/relatorio-manha.md` |
 
+### Noite 15/07
+| **Downsell — Oferta de Recuperação / Última Chance (copy completo + trigger técnico + variante A/B)** | ✅ Concluído | `outputs/2026-07-15/pagina-vendas-secao.md` |
+| **Ep.85 YouTube (Folha de Pagamento está Matando Sua Margem? O que o DRE Revela)** | ✅ Concluído | `outputs/2026-07-15/youtube-outline.md` |
+| Relatório noturno 15/07 | ✅ Concluído | `outputs/2026-07-15/relatorio-noite.md` |
+
+| **2026-07-15** | **Noite** | **Downsell — Oferta de Recuperação (copy + lógica para dev), Outline YouTube Ep.85 (Folha de Pagamento e Margem no DRE)** |
+
 ---
 
-## ALERTA ATIVO (15/07/2026 — turno manhã)
+## PÁGINA DE VENDAS — STATUS ATUAL (15/07/2026)
+
+**Funil de conversão completo:**
+- ✅ Cadastro → Thank You Page
+- ✅ Thank You Page → Upsell Pro (R$97/mês)
+- ✅ Upsell → Order Bump (Business R$297 + sessão 1:1)
+- ✅ **Recusa do Upsell → Downsell (Trial 30 dias estendido)** ← novo
+
+**Próximos passos no funil:**
+- Sequência de e-mails de reativação do trial (downsell)
+- Pop-up de exit intent para visitantes da landing page
+
+---
+
+## ALERTA ATIVO (15/07/2026 — turno noite)
 
 ⚠️ **Deploy alvo: 25/jul — 10 dias restantes.**
 🔥 **DashboardPage + AnalisePage** — gargalo máximo. Prioridade absoluta.
-💳 **Stripe** — implementar hoje (tokens prontos, ~1h). Zero receita sem isso.
-🎬 **YouTube Ep.78** — publicar HOJE (9 dias atrasado — roteiro pronto em `outputs/2026-07-06/youtube-outline.md`).
+💳 **Stripe** — implementar urgente (zero receita sem isso).
+🎬 **YouTube Ep.78** — publicar ASAP (roteiro pronto em `outputs/2026-07-06/youtube-outline.md`).
 📣 **Conta Azul CON 2026: 5–6/ago** — 21 dias. Competidores estarão lá.
 
-*Última atualização: 15/07/2026 — Turno da manhã (Bella)*
+*Última atualização: 15/07/2026 — Turno da noite (Bella)*
 
 ---
 
