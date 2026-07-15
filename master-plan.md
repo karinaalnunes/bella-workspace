@@ -92,6 +92,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Reel concept 02/07 | ✅ Concluído | `outputs/2026-07-02/reel-concept.md` |
 | Post manhã 13/07 | ✅ Concluído | `outputs/2026-07-13/instagram-post-manha.md` |
 | Reel concept 13/07 | ✅ Concluído | `outputs/2026-07-13/reel-concept.md` |
+| Post manhã 14/07 | ✅ Concluído | `outputs/2026-07-14/instagram-post-manha.md` |
+| Post manhã 15/07 | ✅ Concluído | `outputs/2026-07-15/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -5540,6 +5542,28 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Order Bump / Oferta no Checkout (copy completo — Opção A: sessão 1:1, Opção B: upgrade Business) | ✅ Concluído | `outputs/2026-07-14/pagina-vendas-secao.md` |
 | Ep.84 YouTube (5 Erros que Empresários Cometem ao Ler o Próprio DRE) | ✅ Concluído | `outputs/2026-07-14/youtube-outline.md` |
 | Relatório noturno 14/07 | ✅ Concluído | `outputs/2026-07-14/relatorio-noite.md` |
+
+---
+
+## HISTÓRICO — 15/07/2026
+
+| **2026-07-15** | **Manhã** | **Post Instagram (por que fatura R$100k mas sobra R$3k — carrossel 7 slides), Relatório matutino** |
+
+### Manhã 15/07
+| Post Instagram (vazamentos silenciosos no DRE — CMV, despesas, pró-labore, inadimplência) | ✅ Concluído | `outputs/2026-07-15/instagram-post-manha.md` |
+| Relatório matutino 15/07 | ✅ Concluído | `outputs/2026-07-15/relatorio-manha.md` |
+
+---
+
+## ALERTA ATIVO (15/07/2026 — turno manhã)
+
+⚠️ **Deploy alvo: 25/jul — 10 dias restantes.**
+🔥 **DashboardPage + AnalisePage** — gargalo máximo. Prioridade absoluta.
+💳 **Stripe** — implementar hoje (tokens prontos, ~1h). Zero receita sem isso.
+🎬 **YouTube Ep.78** — publicar HOJE (9 dias atrasado — roteiro pronto em `outputs/2026-07-06/youtube-outline.md`).
+📣 **Conta Azul CON 2026: 5–6/ago** — 21 dias. Competidores estarão lá.
+
+*Última atualização: 15/07/2026 — Turno da manhã (Bella)*
 
 ---
 
