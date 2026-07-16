@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 14/07/2026 — Turno da noite (Bella)*
+*Última atualização: 16/07/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -62,6 +62,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Página de Obrigado / Thank You Page (pós-cadastro)** | **✅ Concluído** | `outputs/2026-07-12/pagina-vendas-secao.md` |
 | **Upsell Pós-Cadastro (upgrade Gratuito → Pro, com oferta de onboarding)** | **✅ Concluído** | `outputs/2026-07-13/pagina-vendas-secao.md` |
 | **Order Bump / Oferta no Checkout (sessão 1:1 + upgrade Business)** | **✅ Concluído** | `outputs/2026-07-14/pagina-vendas-secao.md` |
+| **Downsell / Oferta de Recuperação (trial 30 dias estendido)** | **✅ Concluído** | `outputs/2026-07-15/pagina-vendas-secao.md` |
 
 ---
 
@@ -94,6 +95,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Reel concept 13/07 | ✅ Concluído | `outputs/2026-07-13/reel-concept.md` |
 | Post manhã 14/07 | ✅ Concluído | `outputs/2026-07-14/instagram-post-manha.md` |
 | Post manhã 15/07 | ✅ Concluído | `outputs/2026-07-15/instagram-post-manha.md` |
+| Post manhã 16/07 | ✅ Concluído | `outputs/2026-07-16/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -134,6 +136,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.82 — IA no DRE: como a inteligência artificial está mudando a gestão financeira das PMEs** | **✅ Concluído** | `outputs/2026-07-12/youtube-outline.md` |
 | **Ep.83 — Como Preparar Seu DRE para Buscar Crédito ou Investimento** | **✅ Concluído** | `outputs/2026-07-13/youtube-outline.md` |
 | **Ep.84 — 5 Erros que Empresários Cometem ao Ler o Próprio DRE** | **✅ Concluído** | `outputs/2026-07-14/youtube-outline.md` |
+| **Ep.85 — Folha de pagamento e margem no DRE** | **✅ Concluído** | `outputs/2026-07-15/youtube-outline.md` |
 
 ---
 
