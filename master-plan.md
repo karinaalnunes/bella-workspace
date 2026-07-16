@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 16/07/2026 — Turno da manhã (Bella)*
+*Última atualização: 16/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -63,6 +63,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Upsell Pós-Cadastro (upgrade Gratuito → Pro, com oferta de onboarding)** | **✅ Concluído** | `outputs/2026-07-13/pagina-vendas-secao.md` |
 | **Order Bump / Oferta no Checkout (sessão 1:1 + upgrade Business)** | **✅ Concluído** | `outputs/2026-07-14/pagina-vendas-secao.md` |
 | **Downsell / Oferta de Recuperação (trial 30 dias estendido)** | **✅ Concluído** | `outputs/2026-07-15/pagina-vendas-secao.md` |
+| **Pop-up de Intenção de Saída (Exit Intent — 2 variantes A/B)** | **✅ Concluído** | `outputs/2026-07-16/pagina-vendas-secao.md` |
 
 ---
 
@@ -137,6 +138,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.83 — Como Preparar Seu DRE para Buscar Crédito ou Investimento** | **✅ Concluído** | `outputs/2026-07-13/youtube-outline.md` |
 | **Ep.84 — 5 Erros que Empresários Cometem ao Ler o Próprio DRE** | **✅ Concluído** | `outputs/2026-07-14/youtube-outline.md` |
 | **Ep.85 — Folha de pagamento e margem no DRE** | **✅ Concluído** | `outputs/2026-07-15/youtube-outline.md` |
+| **Ep.86 — Quanto Custa Ter Funcionário? O Que o DRE Revela Além do Salário** | **✅ Concluído** | `outputs/2026-07-16/youtube-outline.md` |
 
 ---
 
@@ -5562,10 +5564,18 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Relatório noturno 15/07 | ✅ Concluído | `outputs/2026-07-15/relatorio-noite.md` |
 
 | **2026-07-15** | **Noite** | **Downsell — Oferta de Recuperação (copy + lógica para dev), Outline YouTube Ep.85 (Folha de Pagamento e Margem no DRE)** |
+| **2026-07-16** | **Noite** | **Pop-up Exit Intent (2 variantes A/B + specs técnicas), Outline YouTube Ep.86 (Custo Real de Funcionário no DRE)** |
 
 ---
 
-## PÁGINA DE VENDAS — STATUS ATUAL (15/07/2026)
+### Noite 16/07
+| **Pop-up de Exit Intent (2 variantes A/B + copy completo + specs para dev)** | ✅ Concluído | `outputs/2026-07-16/pagina-vendas-secao.md` |
+| **Ep.86 YouTube (Quanto Custa Ter Funcionário? O Que o DRE Revela Além do Salário)** | ✅ Concluído | `outputs/2026-07-16/youtube-outline.md` |
+| Relatório noturno 16/07 | ✅ Concluído | `outputs/2026-07-16/relatorio-noite.md` |
+
+---
+
+## PÁGINA DE VENDAS — STATUS ATUAL (16/07/2026)
 
 **Funil de conversão completo:**
 - ✅ Cadastro → Thank You Page
@@ -5574,20 +5584,21 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 - ✅ **Recusa do Upsell → Downsell (Trial 30 dias estendido)** ← novo
 
 **Próximos passos no funil:**
-- Sequência de e-mails de reativação do trial (downsell)
-- Pop-up de exit intent para visitantes da landing page
+- ✅ Pop-up exit intent (concluído 16/07)
+- Script de abordagem WhatsApp para leads que entraram no trial mas não ativaram
+- Página de comparação direta (Máxima vs. planilha vs. contador)
 
 ---
 
-## ALERTA ATIVO (15/07/2026 — turno noite)
+## ALERTA ATIVO (16/07/2026 — turno noite)
 
-⚠️ **Deploy alvo: 25/jul — 10 dias restantes.**
+⚠️ **Deploy alvo: 25/jul — 9 dias restantes.**
 🔥 **DashboardPage + AnalisePage** — gargalo máximo. Prioridade absoluta.
 💳 **Stripe** — implementar urgente (zero receita sem isso).
 🎬 **YouTube Ep.78** — publicar ASAP (roteiro pronto em `outputs/2026-07-06/youtube-outline.md`).
-📣 **Conta Azul CON 2026: 5–6/ago** — 21 dias. Competidores estarão lá.
+📣 **Conta Azul CON 2026: 5–6/ago** — 20 dias. Competidores estarão lá.
 
-*Última atualização: 15/07/2026 — Turno da noite (Bella)*
+*Última atualização: 16/07/2026 — Turno da noite (Bella)*
 
 ---
 
