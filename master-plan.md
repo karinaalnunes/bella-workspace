@@ -5590,15 +5590,25 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
-## ALERTA ATIVO (16/07/2026 — turno noite)
+## HISTÓRICO — 17/07/2026
 
-⚠️ **Deploy alvo: 25/jul — 9 dias restantes.**
+| **2026-07-17** | **Manhã** | **Post Instagram (4 erros na leitura do DRE — carrossel 5 slides), Relatório matutino** |
+
+### Manhã 17/07
+| Post Instagram (4 erros silenciosos no DRE — carrossel educativo 5 slides) | ✅ Concluído | `outputs/2026-07-17/instagram-post-manha.md` |
+| Relatório matutino 17/07 | ✅ Concluído | `outputs/2026-07-17/relatorio-manha.md` |
+
+---
+
+## ALERTA ATIVO (17/07/2026 — turno manhã)
+
+⚠️ **Deploy alvo: 25/jul — 8 dias restantes.**
 🔥 **DashboardPage + AnalisePage** — gargalo máximo. Prioridade absoluta.
 💳 **Stripe** — implementar urgente (zero receita sem isso).
-🎬 **YouTube Ep.78** — publicar ASAP (roteiro pronto em `outputs/2026-07-06/youtube-outline.md`).
-📣 **Conta Azul CON 2026: 5–6/ago** — 20 dias. Competidores estarão lá.
+🎬 **YouTube Ep.78** — publicar ASAP (roteiro pronto em `outputs/2026-07-06/youtube-outline.md` — 11 dias de atraso).
+📣 **Conta Azul CON 2026: 5–6/ago** — 19 dias. Competidores estarão lá.
 
-*Última atualização: 16/07/2026 — Turno da noite (Bella)*
+*Última atualização: 17/07/2026 — Turno da manhã (Bella)*
 
 ---
 
