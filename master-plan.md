@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 16/07/2026 — Turno da noite (Bella)*
+*Última atualização: 17/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -64,6 +64,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Order Bump / Oferta no Checkout (sessão 1:1 + upgrade Business)** | **✅ Concluído** | `outputs/2026-07-14/pagina-vendas-secao.md` |
 | **Downsell / Oferta de Recuperação (trial 30 dias estendido)** | **✅ Concluído** | `outputs/2026-07-15/pagina-vendas-secao.md` |
 | **Pop-up de Intenção de Saída (Exit Intent — 2 variantes A/B)** | **✅ Concluído** | `outputs/2026-07-16/pagina-vendas-secao.md` |
+| **Sequência de Abandono de Checkout (3 e-mails — integração Stripe)** | **✅ Concluído** | `outputs/2026-07-17/pagina-vendas-secao.md` |
 
 ---
 
@@ -139,6 +140,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.84 — 5 Erros que Empresários Cometem ao Ler o Próprio DRE** | **✅ Concluído** | `outputs/2026-07-14/youtube-outline.md` |
 | **Ep.85 — Folha de pagamento e margem no DRE** | **✅ Concluído** | `outputs/2026-07-15/youtube-outline.md` |
 | **Ep.86 — Quanto Custa Ter Funcionário? O Que o DRE Revela Além do Salário** | **✅ Concluído** | `outputs/2026-07-16/youtube-outline.md` |
+| **Ep.87 — Cresci e o caixa secou: o DRE explica por quê** | **✅ Concluído** | `outputs/2026-07-17/youtube-outline.md` |
 
 ---
 
@@ -5612,3 +5614,16 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+
+## HISTÓRICO — 17/07/2026 — Turno Noite
+
+| **2026-07-17** | **Noite** | **Sequência Abandono de Checkout (3 e-mails, integração Stripe), Outline YouTube Ep.87 (cresci e o caixa secou — DRE explica)** |
+
+### Noite 17/07
+| Sequência Abandono de Checkout (3 e-mails — integração Stripe) | ✅ Concluído | `outputs/2026-07-17/pagina-vendas-secao.md` |
+| Ep.87 YouTube (Cresci e o caixa secou — o DRE explica por quê) | ✅ Concluído | `outputs/2026-07-17/youtube-outline.md` |
+| Relatório noturno 17/07 | ✅ Concluído | `outputs/2026-07-17/relatorio-noite.md` |
+
+*Última atualização: 17/07/2026 — Turno da noite (Bella)*
+
+---
