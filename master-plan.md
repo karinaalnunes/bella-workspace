@@ -5627,3 +5627,25 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 *Última atualização: 17/07/2026 — Turno da noite (Bella)*
 
 ---
+
+## HISTÓRICO — 18/07/2026
+
+| **2026-07-18** | **Manhã** | **Post Instagram (descasamento de caixa — vendeu mais, tem menos dinheiro), Relatório matutino** |
+
+### Instagram
+| Post manhã 18/07 | ✅ Concluído | `outputs/2026-07-18/instagram-post-manha.md` |
+
+---
+
+## ALERTA ATIVO (18/07/2026 — turno manhã)
+
+⚠️ **Deploy alvo: 25/jul — 7 dias restantes.**
+🔥 **DashboardPage + AnalisePage** — gargalo máximo. Prioridade absoluta.
+💳 **Stripe** — configurar plano Pro hoje. Zero receita sem isso.
+🎬 **YouTube Ep.78** — roteiro pronto desde 06/07. Gravar e publicar URGENTE.
+📣 **Conta Azul CON 2026: 5–6/ago** — 18 dias. Urgência competitiva.
+
+*Última atualização: 18/07/2026 — Turno da manhã (Bella)*
+
+---
+
