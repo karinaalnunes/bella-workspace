@@ -65,6 +65,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Downsell / Oferta de Recuperação (trial 30 dias estendido)** | **✅ Concluído** | `outputs/2026-07-15/pagina-vendas-secao.md` |
 | **Pop-up de Intenção de Saída (Exit Intent — 2 variantes A/B)** | **✅ Concluído** | `outputs/2026-07-16/pagina-vendas-secao.md` |
 | **Sequência de Abandono de Checkout (3 e-mails — integração Stripe)** | **✅ Concluído** | `outputs/2026-07-17/pagina-vendas-secao.md` |
+| **Simulação de ROI / Calculadora de Retorno** | **✅ Concluído** | `outputs/2026-07-18/pagina-vendas-secao.md` |
 
 ---
 
@@ -141,6 +142,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.85 — Folha de pagamento e margem no DRE** | **✅ Concluído** | `outputs/2026-07-15/youtube-outline.md` |
 | **Ep.86 — Quanto Custa Ter Funcionário? O Que o DRE Revela Além do Salário** | **✅ Concluído** | `outputs/2026-07-16/youtube-outline.md` |
 | **Ep.87 — Cresci e o caixa secou: o DRE explica por quê** | **✅ Concluído** | `outputs/2026-07-17/youtube-outline.md` |
+| **Ep.88 — Ponto de Equilíbrio no DRE: Quanto Você Precisa Vender Para Não Perder Dinheiro** | **✅ Concluído** | `outputs/2026-07-18/youtube-outline.md` |
 
 ---
 
@@ -5646,6 +5648,19 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 📣 **Conta Azul CON 2026: 5–6/ago** — 18 dias. Urgência competitiva.
 
 *Última atualização: 18/07/2026 — Turno da manhã (Bella)*
+
+---
+
+## HISTÓRICO — 18/07/2026 — Turno Noite
+
+| **2026-07-18** | **Noite** | **Simulação de ROI / Calculadora de Retorno (página de vendas), Outline YouTube Ep.88 (Ponto de Equilíbrio no DRE)** |
+
+### Noite 18/07
+| Simulação de ROI / Calculadora de Retorno (página de vendas) | ✅ Concluído | `outputs/2026-07-18/pagina-vendas-secao.md` |
+| Ep.88 YouTube (Ponto de Equilíbrio no DRE: Quanto Você Precisa Vender Para Não Perder Dinheiro) | ✅ Concluído | `outputs/2026-07-18/youtube-outline.md` |
+| Relatório noturno 18/07 | ✅ Concluído | `outputs/2026-07-18/relatorio-noite.md` |
+
+*Última atualização: 18/07/2026 — Turno da noite (Bella)*
 
 ---
 
