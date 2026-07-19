@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 19/07/2026 — Turno da tarde (Bella)*
+*Última atualização: 19/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -66,6 +66,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Pop-up de Intenção de Saída (Exit Intent — 2 variantes A/B)** | **✅ Concluído** | `outputs/2026-07-16/pagina-vendas-secao.md` |
 | **Sequência de Abandono de Checkout (3 e-mails — integração Stripe)** | **✅ Concluído** | `outputs/2026-07-17/pagina-vendas-secao.md` |
 | **Simulação de ROI / Calculadora de Retorno** | **✅ Concluído** | `outputs/2026-07-18/pagina-vendas-secao.md` |
+| **Copy para Anúncios Meta (Facebook/Instagram Ads) — 3 conjuntos (frio/morno/quente)** | **✅ Concluído** | `outputs/2026-07-19/pagina-vendas-secao.md` |
 
 ---
 
@@ -148,6 +149,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.86 — Quanto Custa Ter Funcionário? O Que o DRE Revela Além do Salário** | **✅ Concluído** | `outputs/2026-07-16/youtube-outline.md` |
 | **Ep.87 — Cresci e o caixa secou: o DRE explica por quê** | **✅ Concluído** | `outputs/2026-07-17/youtube-outline.md` |
 | **Ep.88 — Ponto de Equilíbrio no DRE: Quanto Você Precisa Vender Para Não Perder Dinheiro** | **✅ Concluído** | `outputs/2026-07-18/youtube-outline.md` |
+| **Ep.89 — Setembro vai te pegar de surpresa? Como usar o DRE para antecipar crise de caixa** | **✅ Concluído** | `outputs/2026-07-19/youtube-outline.md` |
 
 ---
 
