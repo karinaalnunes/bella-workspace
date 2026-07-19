@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 17/07/2026 — Turno da noite (Bella)*
+*Última atualização: 19/07/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -99,6 +99,9 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 14/07 | ✅ Concluído | `outputs/2026-07-14/instagram-post-manha.md` |
 | Post manhã 15/07 | ✅ Concluído | `outputs/2026-07-15/instagram-post-manha.md` |
 | Post manhã 16/07 | ✅ Concluído | `outputs/2026-07-16/instagram-post-manha.md` |
+| Post manhã 17/07 | ✅ Concluído | `outputs/2026-07-17/instagram-post-manha.md` |
+| Post manhã 18/07 | ✅ Concluído | `outputs/2026-07-18/instagram-post-manha.md` |
+| Post manhã 19/07 | ✅ Concluído | `outputs/2026-07-19/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -5661,6 +5664,16 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Relatório noturno 18/07 | ✅ Concluído | `outputs/2026-07-18/relatorio-noite.md` |
 
 *Última atualização: 18/07/2026 — Turno da noite (Bella)*
+
+---
+
+## HISTÓRICO — 19/07/2026 — Turno Manhã
+
+| **2026-07-19** | **Manhã** | **Post Instagram (custo real do produto mais vendido / margem por produto), Relatório matutino** |
+
+### Manhã 19/07
+| Post Instagram 19/07 (custo real do produto mais vendido) | ✅ Concluído | `outputs/2026-07-19/instagram-post-manha.md` |
+| Relatório matutino 19/07 | ✅ Concluído | `outputs/2026-07-19/relatorio-manha.md` |
 
 ---
 
