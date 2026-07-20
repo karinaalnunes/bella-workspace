@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 19/07/2026 — Turno da noite (Bella)*
+*Última atualização: 20/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -67,6 +67,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Sequência de Abandono de Checkout (3 e-mails — integração Stripe)** | **✅ Concluído** | `outputs/2026-07-17/pagina-vendas-secao.md` |
 | **Simulação de ROI / Calculadora de Retorno** | **✅ Concluído** | `outputs/2026-07-18/pagina-vendas-secao.md` |
 | **Copy para Anúncios Meta (Facebook/Instagram Ads) — 3 conjuntos (frio/morno/quente)** | **✅ Concluído** | `outputs/2026-07-19/pagina-vendas-secao.md` |
+| **Estratégia de Lançamento Semente (Primeiros 100 Clientes)** | **✅ Concluído** | `outputs/2026-07-20/pagina-vendas-secao.md` |
 
 ---
 
@@ -151,6 +152,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.87 — Cresci e o caixa secou: o DRE explica por quê** | **✅ Concluído** | `outputs/2026-07-17/youtube-outline.md` |
 | **Ep.88 — Ponto de Equilíbrio no DRE: Quanto Você Precisa Vender Para Não Perder Dinheiro** | **✅ Concluído** | `outputs/2026-07-18/youtube-outline.md` |
 | **Ep.89 — Setembro vai te pegar de surpresa? Como usar o DRE para antecipar crise de caixa** | **✅ Concluído** | `outputs/2026-07-19/youtube-outline.md` |
+| **Ep.90 — Modo Apagar Incêndio: Como o DRE te ajuda a planejar os próximos 90 dias** | **✅ Concluído** | `outputs/2026-07-20/youtube-outline.md` |
 
 ---
 
@@ -5685,6 +5687,7 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 ## HISTÓRICO — 19/07/2026 — Turno Noite
 
 | **2026-07-19** | **Noite** | **Copy Meta Ads (3 conjuntos funil frio/morno/quente), Outline YouTube Ep.89 (crise de caixa no 2º semestre)** |
+| **2026-07-20** | **Noite** | **Estratégia de Lançamento Semente (primeiros 100 clientes), Outline YouTube Ep.90 (planejamento 90 dias com DRE)** |
 
 ### Noite 19/07
 | Copy Meta Ads — 3 conjuntos completos (funil frio, morno, quente) | ✅ Concluído | `outputs/2026-07-19/pagina-vendas-secao.md` |
