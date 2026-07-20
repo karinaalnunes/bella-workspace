@@ -104,6 +104,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 18/07 | ✅ Concluído | `outputs/2026-07-18/instagram-post-manha.md` |
 | Post manhã 19/07 | ✅ Concluído | `outputs/2026-07-19/instagram-post-manha.md` |
 | Reel concept 19/07 | ✅ Concluído | `outputs/2026-07-19/reel-concept.md` |
+| Post manhã 20/07 | ✅ Concluído | `outputs/2026-07-20/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -5678,6 +5679,29 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 ### Manhã 19/07
 | Post Instagram 19/07 (custo real do produto mais vendido) | ✅ Concluído | `outputs/2026-07-19/instagram-post-manha.md` |
 | Relatório matutino 19/07 | ✅ Concluído | `outputs/2026-07-19/relatorio-manha.md` |
+
+---
+
+## HISTÓRICO — 19/07/2026 — Turno Noite
+
+| **2026-07-19** | **Noite** | **Copy Meta Ads (3 conjuntos funil frio/morno/quente), Outline YouTube Ep.89 (crise de caixa no 2º semestre)** |
+
+### Noite 19/07
+| Copy Meta Ads — 3 conjuntos completos (funil frio, morno, quente) | ✅ Concluído | `outputs/2026-07-19/pagina-vendas-secao.md` |
+| Ep.89 YouTube (Setembro vai te pegar de surpresa? — crise de caixa) | ✅ Concluído | `outputs/2026-07-19/youtube-outline.md` |
+| Relatório noturno 19/07 | ✅ Concluído | `outputs/2026-07-19/relatorio-noite.md` |
+
+---
+
+## HISTÓRICO — 20/07/2026 — Turno Manhã
+
+| **2026-07-20** | **Manhã** | **Post Instagram (3 números para checar toda segunda-feira), Relatório matutino** |
+
+### Manhã 20/07
+| Post Instagram 20/07 (3 números — margem, comprometimento, prazo de recebimento) | ✅ Concluído | `outputs/2026-07-20/instagram-post-manha.md` |
+| Relatório matutino 20/07 | ✅ Concluído | `outputs/2026-07-20/relatorio-manha.md` |
+
+*Última atualização: 20/07/2026 — Turno da manhã (Bella)*
 
 ---
 
