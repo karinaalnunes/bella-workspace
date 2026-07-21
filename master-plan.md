@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 20/07/2026 — Turno da noite (Bella)*
+*Última atualização: 21/07/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -106,6 +106,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 19/07 | ✅ Concluído | `outputs/2026-07-19/instagram-post-manha.md` |
 | Reel concept 19/07 | ✅ Concluído | `outputs/2026-07-19/reel-concept.md` |
 | Post manhã 20/07 | ✅ Concluído | `outputs/2026-07-20/instagram-post-manha.md` |
+| Post manhã 21/07 | ✅ Concluído | `outputs/2026-07-21/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -231,6 +232,9 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-04-30** | **Manhã** | **Post Instagram (fechamento de abril — 4 números para checar), Relatório matutino** |
 | **2026-04-30** | **Tarde** | **Reel concept v12 (saldo ≠ lucro — gancho fim de mês), Concorrentes v12 (Omie US$100M aporte, Conta Azul AI Captura multi-CNPJ), LinkedIn post v11 (3 perguntas do DRE de abril)** |
 | **2026-04-30** | **Noite** | **Seção Comparativo página de vendas (planilha/contador/ERP vs. Máxima), Outline YouTube Ep.12 (DRE vs. Fluxo de Caixa)** |
+| **2026-07-20** | **Manhã** | **Post Instagram (estratégia de lançamento semente), Relatório matutino** |
+| **2026-07-20** | **Noite** | **Estratégia de Lançamento Semente (primeiros 100 clientes), Outline YouTube Ep.90** |
+| **2026-07-21** | **Manhã** | **Post Instagram (ponto de equilíbrio / custo de ociosidade), Relatório matutino** |
 
 ---
 
