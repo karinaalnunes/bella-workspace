@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 21/07/2026 — Turno da tarde (Bella)*
+*Última atualização: 21/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -68,6 +68,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Simulação de ROI / Calculadora de Retorno** | **✅ Concluído** | `outputs/2026-07-18/pagina-vendas-secao.md` |
 | **Copy para Anúncios Meta (Facebook/Instagram Ads) — 3 conjuntos (frio/morno/quente)** | **✅ Concluído** | `outputs/2026-07-19/pagina-vendas-secao.md` |
 | **Estratégia de Lançamento Semente (Primeiros 100 Clientes)** | **✅ Concluído** | `outputs/2026-07-20/pagina-vendas-secao.md` |
+| **Roteiro de Webinar de Vendas (75–90 min — DRE em 60 Minutos)** | **✅ Concluído** | `outputs/2026-07-21/pagina-vendas-secao.md` |
 
 ---
 
@@ -156,6 +157,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.88 — Ponto de Equilíbrio no DRE: Quanto Você Precisa Vender Para Não Perder Dinheiro** | **✅ Concluído** | `outputs/2026-07-18/youtube-outline.md` |
 | **Ep.89 — Setembro vai te pegar de surpresa? Como usar o DRE para antecipar crise de caixa** | **✅ Concluído** | `outputs/2026-07-19/youtube-outline.md` |
 | **Ep.90 — Modo Apagar Incêndio: Como o DRE te ajuda a planejar os próximos 90 dias** | **✅ Concluído** | `outputs/2026-07-20/youtube-outline.md` |
+| **Ep.91 — Como Fazer o DRE do Zero (Sem Contador, Sem Planilha Complicada)** | **✅ Concluído** | `outputs/2026-07-21/youtube-outline.md` |
 
 ---
 
@@ -237,6 +239,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-20** | **Manhã** | **Post Instagram (estratégia de lançamento semente), Relatório matutino** |
 | **2026-07-20** | **Noite** | **Estratégia de Lançamento Semente (primeiros 100 clientes), Outline YouTube Ep.90** |
 | **2026-07-21** | **Manhã** | **Post Instagram (ponto de equilíbrio / custo de ociosidade), Relatório matutino** |
+| **2026-07-21** | **Noite** | **Roteiro Webinar de Vendas (75–90 min), Outline YouTube Ep.91 (DRE do Zero)** |
 
 ---
 
