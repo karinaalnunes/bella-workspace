@@ -109,6 +109,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 20/07 | ✅ Concluído | `outputs/2026-07-20/instagram-post-manha.md` |
 | Post manhã 21/07 | ✅ Concluído | `outputs/2026-07-21/instagram-post-manha.md` |
 | Reel concept 21/07 | ✅ Concluído | `outputs/2026-07-21/reel-concept.md` |
+| Post manhã 22/07 | ✅ Concluído | `outputs/2026-07-22/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -240,6 +241,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-20** | **Noite** | **Estratégia de Lançamento Semente (primeiros 100 clientes), Outline YouTube Ep.90** |
 | **2026-07-21** | **Manhã** | **Post Instagram (ponto de equilíbrio / custo de ociosidade), Relatório matutino** |
 | **2026-07-21** | **Noite** | **Roteiro Webinar de Vendas (75–90 min), Outline YouTube Ep.91 (DRE do Zero)** |
+| **2026-07-22** | **Manhã** | **Post Instagram (IA vs planilha — ferramenta certa), Relatório matutino** |
 
 ---
 
