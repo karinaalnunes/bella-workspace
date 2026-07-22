@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 21/07/2026 — Turno da noite (Bella)*
+*Última atualização: 22/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -69,6 +69,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Copy para Anúncios Meta (Facebook/Instagram Ads) — 3 conjuntos (frio/morno/quente)** | **✅ Concluído** | `outputs/2026-07-19/pagina-vendas-secao.md` |
 | **Estratégia de Lançamento Semente (Primeiros 100 Clientes)** | **✅ Concluído** | `outputs/2026-07-20/pagina-vendas-secao.md` |
 | **Roteiro de Webinar de Vendas (75–90 min — DRE em 60 Minutos)** | **✅ Concluído** | `outputs/2026-07-21/pagina-vendas-secao.md` |
+| **Seção de Planos & Preços (v2 — com notas de integração Stripe)** | **✅ Concluído** | `outputs/2026-07-22/pagina-vendas-secao.md` |
 
 ---
 
@@ -161,6 +162,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.89 — Setembro vai te pegar de surpresa? Como usar o DRE para antecipar crise de caixa** | **✅ Concluído** | `outputs/2026-07-19/youtube-outline.md` |
 | **Ep.90 — Modo Apagar Incêndio: Como o DRE te ajuda a planejar os próximos 90 dias** | **✅ Concluído** | `outputs/2026-07-20/youtube-outline.md` |
 | **Ep.91 — Como Fazer o DRE do Zero (Sem Contador, Sem Planilha Complicada)** | **✅ Concluído** | `outputs/2026-07-21/youtube-outline.md` |
+| **Ep.92 — Seu Negócio Lucra ou Só Fatura? Como Descobrir Agora Pelo DRE** | **✅ Concluído** | `outputs/2026-07-22/youtube-outline.md` |
 
 ---
 
