@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 22/07/2026 — Turno da noite (Bella)*
+*Última atualização: 23/07/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -112,6 +112,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Reel concept 21/07 | ✅ Concluído | `outputs/2026-07-21/reel-concept.md` |
 | Post manhã 22/07 | ✅ Concluído | `outputs/2026-07-22/instagram-post-manha.md` |
 | Reel concept 22/07 | ✅ Concluído | `outputs/2026-07-22/reel-concept.md` |
+| Post manhã 23/07 | ✅ Concluído | `outputs/2026-07-23/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -246,6 +247,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-21** | **Manhã** | **Post Instagram (ponto de equilíbrio / custo de ociosidade), Relatório matutino** |
 | **2026-07-21** | **Noite** | **Roteiro Webinar de Vendas (75–90 min), Outline YouTube Ep.91 (DRE do Zero)** |
 | **2026-07-22** | **Manhã** | **Post Instagram (IA vs planilha — ferramenta certa), Relatório matutino** |
+| **2026-07-22** | **Noite** | **Planos & Preços v2 (com notas Stripe), Outline YouTube Ep.92, Master-plan atualizado** |
+| **2026-07-23** | **Manhã** | **Post Instagram (margem real por produto), Relatório matutino** |
 
 ---
 
