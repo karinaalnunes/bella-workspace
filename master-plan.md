@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 24/07/2026 — Turno da manhã (Bella)*
+*Última atualização: 24/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -71,6 +71,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Roteiro de Webinar de Vendas (75–90 min — DRE em 60 Minutos)** | **✅ Concluído** | `outputs/2026-07-21/pagina-vendas-secao.md` |
 | **Seção de Planos & Preços (v2 — com notas de integração Stripe)** | **✅ Concluído** | `outputs/2026-07-22/pagina-vendas-secao.md` |
 | **Landing Page de Captação de Leads (Pré-Lançamento)** | **✅ Concluído** | `outputs/2026-07-23/pagina-vendas-secao.md` |
+| **Sequência de E-mails de Nutrição Pré-Lançamento (3 e-mails — lista de espera)** | **✅ Concluído** | `outputs/2026-07-24/pagina-vendas-secao.md` |
 
 ---
 
@@ -167,6 +168,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.91 — Como Fazer o DRE do Zero (Sem Contador, Sem Planilha Complicada)** | **✅ Concluído** | `outputs/2026-07-21/youtube-outline.md` |
 | **Ep.92 — Seu Negócio Lucra ou Só Fatura? Como Descobrir Agora Pelo DRE** | **✅ Concluído** | `outputs/2026-07-22/youtube-outline.md` |
 | **Ep.93 — É Hora de Contratar? O Que o DRE Revela Antes de Você Decidir** | **✅ Concluído** | `outputs/2026-07-23/youtube-outline.md` |
+| **Ep.94 — Cresci o Faturamento e a Margem Caiu: O DRE Explica Por Quê** | **✅ Concluído** | `outputs/2026-07-24/youtube-outline.md` |
 
 ---
 
@@ -252,6 +254,9 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-22** | **Manhã** | **Post Instagram (IA vs planilha — ferramenta certa), Relatório matutino** |
 | **2026-07-22** | **Noite** | **Planos & Preços v2 (com notas Stripe), Outline YouTube Ep.92, Master-plan atualizado** |
 | **2026-07-23** | **Manhã** | **Post Instagram (margem real por produto), Relatório matutino** |
+| **2026-07-23** | **Noite** | **Landing Page Pré-Lançamento (captação de leads — lista VIP), Outline YouTube Ep.93 (contratar? o DRE responde)** |
+| **2026-07-24** | **Manhã** | **Post Instagram, Relatório matutino** |
+| **2026-07-24** | **Noite** | **Sequência de E-mails Nutrição Pré-Lançamento (3 e-mails lista de espera), Outline YouTube Ep.94 (faturamento subiu, margem caiu)** |
 
 ---
 
