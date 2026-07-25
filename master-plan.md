@@ -117,6 +117,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 23/07 | ✅ Concluído | `outputs/2026-07-23/instagram-post-manha.md` |
 | Post manhã 24/07 | ✅ Concluído | `outputs/2026-07-24/instagram-post-manha.md` |
 | Post manhã 25/07 | ✅ Concluído | `outputs/2026-07-25/instagram-post-manha.md` |
+| Reel concept 25/07 | ✅ Concluído | `outputs/2026-07-25/reel-concept.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -134,6 +135,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post LinkedIn 19/07 | ✅ Concluído | `outputs/2026-07-19/linkedin-post.md` |
 | Post LinkedIn 21/07 | ✅ Concluído | `outputs/2026-07-21/linkedin-post.md` |
 | Post LinkedIn 22/07 | ✅ Concluído | `outputs/2026-07-22/linkedin-post.md` |
+| Post LinkedIn 25/07 | ✅ Concluído | `outputs/2026-07-25/linkedin-post.md` |
 
 ### YouTube
 | Entrega | Status | Arquivo |
