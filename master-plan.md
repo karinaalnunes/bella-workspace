@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 24/07/2026 — Turno da noite (Bella)*
+*Última atualização: 25/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -72,6 +72,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Seção de Planos & Preços (v2 — com notas de integração Stripe)** | **✅ Concluído** | `outputs/2026-07-22/pagina-vendas-secao.md` |
 | **Landing Page de Captação de Leads (Pré-Lançamento)** | **✅ Concluído** | `outputs/2026-07-23/pagina-vendas-secao.md` |
 | **Sequência de E-mails de Nutrição Pré-Lançamento (3 e-mails — lista de espera)** | **✅ Concluído** | `outputs/2026-07-24/pagina-vendas-secao.md` |
+| **Script de Vendas por DM/WhatsApp (5 etapas — lead quente Instagram/WhatsApp)** | **✅ Concluído** | `outputs/2026-07-25/pagina-vendas-secao.md` |
 
 ---
 
@@ -172,6 +173,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.92 — Seu Negócio Lucra ou Só Fatura? Como Descobrir Agora Pelo DRE** | **✅ Concluído** | `outputs/2026-07-22/youtube-outline.md` |
 | **Ep.93 — É Hora de Contratar? O Que o DRE Revela Antes de Você Decidir** | **✅ Concluído** | `outputs/2026-07-23/youtube-outline.md` |
 | **Ep.94 — Cresci o Faturamento e a Margem Caiu: O DRE Explica Por Quê** | **✅ Concluído** | `outputs/2026-07-24/youtube-outline.md` |
+| **Ep.95 — Como Usar o DRE Para Aumentar o Preço Sem Perder Clientes** | **✅ Concluído** | `outputs/2026-07-25/youtube-outline.md` |
 
 ---
 
@@ -260,6 +262,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-23** | **Noite** | **Landing Page Pré-Lançamento (captação de leads — lista VIP), Outline YouTube Ep.93 (contratar? o DRE responde)** |
 | **2026-07-24** | **Manhã** | **Post Instagram, Relatório matutino** |
 | **2026-07-24** | **Noite** | **Sequência de E-mails Nutrição Pré-Lançamento (3 e-mails lista de espera), Outline YouTube Ep.94 (faturamento subiu, margem caiu)** |
+| **2026-07-25** | **Manhã** | **Post Instagram (ponto de equilíbrio), LinkedIn post, Reel concept, Relatório matutino** |
+| **2026-07-25** | **Noite** | **Script de Vendas por DM/WhatsApp (5 etapas — leads quentes), Outline YouTube Ep.95 (aumentar preço sem perder clientes), Master-plan atualizado** |
 
 ---
 
