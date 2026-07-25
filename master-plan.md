@@ -116,6 +116,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Reel concept 22/07 | ✅ Concluído | `outputs/2026-07-22/reel-concept.md` |
 | Post manhã 23/07 | ✅ Concluído | `outputs/2026-07-23/instagram-post-manha.md` |
 | Post manhã 24/07 | ✅ Concluído | `outputs/2026-07-24/instagram-post-manha.md` |
+| Post manhã 25/07 | ✅ Concluído | `outputs/2026-07-25/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -5730,7 +5731,11 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Post Instagram 20/07 (3 números — margem, comprometimento, prazo de recebimento) | ✅ Concluído | `outputs/2026-07-20/instagram-post-manha.md` |
 | Relatório matutino 20/07 | ✅ Concluído | `outputs/2026-07-20/relatorio-manha.md` |
 
-*Última atualização: 20/07/2026 — Turno da manhã (Bella)*
+### Manhã 25/07
+| Post Instagram 25/07 (ponto de equilíbrio — quanto precisa faturar para não perder dinheiro) | ✅ Concluído | `outputs/2026-07-25/instagram-post-manha.md` |
+| Relatório matutino 25/07 | ✅ Concluído | `outputs/2026-07-25/relatorio-manha.md` |
+
+*Última atualização: 25/07/2026 — Turno da manhã (Bella)*
 
 ---
 
