@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 27/07/2026 — Turno da tarde (Bella)*
+*Última atualização: 27/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -74,6 +74,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Sequência de E-mails de Nutrição Pré-Lançamento (3 e-mails — lista de espera)** | **✅ Concluído** | `outputs/2026-07-24/pagina-vendas-secao.md` |
 | **Script de Vendas por DM/WhatsApp (5 etapas — lead quente Instagram/WhatsApp)** | **✅ Concluído** | `outputs/2026-07-25/pagina-vendas-secao.md` |
 | **Sequência de Ativação Pós-Compra (primeiras 48h — WhatsApp + e-mail)** | **✅ Concluído** | `outputs/2026-07-26/pagina-vendas-secao.md` |
+| **Programa de Parceria com Contadores (canal B2B + página de captação de parceiros)** | **✅ Concluído** | `outputs/2026-07-27/pagina-vendas-secao.md` |
 
 ---
 
@@ -182,6 +183,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.94 — Cresci o Faturamento e a Margem Caiu: O DRE Explica Por Quê** | **✅ Concluído** | `outputs/2026-07-24/youtube-outline.md` |
 | **Ep.95 — Como Usar o DRE Para Aumentar o Preço Sem Perder Clientes** | **✅ Concluído** | `outputs/2026-07-25/youtube-outline.md` |
 | **Ep.96 — Seu Negócio Está Crescendo ou Apenas Sobrevivendo? O DRE Revela a Diferença** | **✅ Concluído** | `outputs/2026-07-26/youtube-outline.md` |
+| **Ep.97 — DRE no 2º Semestre: Como Fechar o Ano Sem Surpresas Financeiras** | **✅ Concluído** | `outputs/2026-07-27/youtube-outline.md` |
 
 ---
 
@@ -275,6 +277,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-26** | **Manhã** | **Post Instagram, Reel concept, LinkedIn post, Relatório matutino** |
 | **2026-07-26** | **Noite** | **Sequência de Ativação Pós-Compra (48h — WhatsApp + e-mail, com notas dev), Outline YouTube Ep.96 (crescimento saudável vs. tóxico no DRE), Master-plan atualizado** |
 | **2026-07-27** | **Manhã** | **Post Instagram (lucro real vs. faturamento — fórmula DRE), Relatório matutino** |
+| **2026-07-27** | **Noite** | **Programa de Parceria com Contadores (canal B2B — página de captação), Ep.97 YouTube (DRE no 2º semestre), Master-plan atualizado** |
 
 ---
 
