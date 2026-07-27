@@ -122,6 +122,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Reel concept 25/07 | ✅ Concluído | `outputs/2026-07-25/reel-concept.md` |
 | Post manhã 26/07 | ✅ Concluído | `outputs/2026-07-26/instagram-post-manha.md` |
 | Reel concept 26/07 | ✅ Concluído | `outputs/2026-07-26/reel-concept.md` |
+| Post manhã 27/07 | ✅ Concluído | `outputs/2026-07-27/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -271,6 +272,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-25** | **Noite** | **Script de Vendas por DM/WhatsApp (5 etapas — leads quentes), Outline YouTube Ep.95 (aumentar preço sem perder clientes), Master-plan atualizado** |
 | **2026-07-26** | **Manhã** | **Post Instagram, Reel concept, LinkedIn post, Relatório matutino** |
 | **2026-07-26** | **Noite** | **Sequência de Ativação Pós-Compra (48h — WhatsApp + e-mail, com notas dev), Outline YouTube Ep.96 (crescimento saudável vs. tóxico no DRE), Master-plan atualizado** |
+| **2026-07-27** | **Manhã** | **Post Instagram (lucro real vs. faturamento — fórmula DRE), Relatório matutino** |
 
 ---
 
