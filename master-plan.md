@@ -128,6 +128,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Reel concept 27/07 | ✅ Concluído | `outputs/2026-07-27/reel-concept.md` |
 | Post manhã 28/07 | ✅ Concluído | `outputs/2026-07-28/instagram-post-manha.md` |
 | Reel concept 28/07 | ✅ Concluído | `outputs/2026-07-28/reel-concept.md` |
+| Post manhã 29/07 | ✅ Concluído | `outputs/2026-07-29/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -286,6 +287,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-28** | **Manhã** | **Post Instagram (julho acabou — você sabe quanto sobrou?), Relatório matutino** |
 | **2026-07-28** | **Tarde** | **Reel concept (DRE ignorado — julho), Análise concorrentes (Treasy/Conta Azul/Omie — alerta Omie WhatsApp), LinkedIn post (julho fechou — lucro real)** |
 | **2026-07-28** | **Noite** | **Plano de Lançamento Agosto (30 dias para o 1º cliente pagante — copy, DMs, benefícios fundador), Ep.98 YouTube (Checklist de Fechamento Mensal), Master-plan atualizado** |
+| **2026-07-29** | **Manhã** | **Post Instagram (julho fechou — quanto seu negócio lucrou de verdade?), Relatório matutino (foco: deploy + ativar lista espera + 5 DMs)** |
 
 ---
 
