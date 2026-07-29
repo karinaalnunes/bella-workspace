@@ -76,6 +76,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Sequência de Ativação Pós-Compra (primeiras 48h — WhatsApp + e-mail)** | **✅ Concluído** | `outputs/2026-07-26/pagina-vendas-secao.md` |
 | **Programa de Parceria com Contadores (canal B2B + página de captação de parceiros)** | **✅ Concluído** | `outputs/2026-07-27/pagina-vendas-secao.md` |
 | **Plano de Lançamento Agosto (30 dias para o primeiro cliente pagante — copy, DMs, benefícios fundador)** | **✅ Concluído** | `outputs/2026-07-28/pagina-vendas-secao.md` |
+| **CTA de Urgência — "Agosto Começa em Dias" (banner lançamento 01–07/08 + oferta fundador R$67)** | **✅ Concluído** | `outputs/2026-07-29/pagina-vendas-secao.md` |
 
 ---
 
@@ -190,6 +191,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.96 — Seu Negócio Está Crescendo ou Apenas Sobrevivendo? O DRE Revela a Diferença** | **✅ Concluído** | `outputs/2026-07-26/youtube-outline.md` |
 | **Ep.97 — DRE no 2º Semestre: Como Fechar o Ano Sem Surpresas Financeiras** | **✅ Concluído** | `outputs/2026-07-27/youtube-outline.md` |
 | **Ep.98 — Fechou Julho: O Checklist Financeiro que Todo Empresário Precisa Fazer Agora** | **✅ Concluído** | `outputs/2026-07-28/youtube-outline.md` |
+| **Ep.99 — Os 5 Números do DRE que Vão Definir Seu Agosto (e o Resto do Ano)** | **✅ Concluído** | `outputs/2026-07-29/youtube-outline.md` |
 
 ---
 
@@ -288,6 +290,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-28** | **Tarde** | **Reel concept (DRE ignorado — julho), Análise concorrentes (Treasy/Conta Azul/Omie — alerta Omie WhatsApp), LinkedIn post (julho fechou — lucro real)** |
 | **2026-07-28** | **Noite** | **Plano de Lançamento Agosto (30 dias para o 1º cliente pagante — copy, DMs, benefícios fundador), Ep.98 YouTube (Checklist de Fechamento Mensal), Master-plan atualizado** |
 | **2026-07-29** | **Manhã** | **Post Instagram (julho fechou — quanto seu negócio lucrou de verdade?), Relatório matutino (foco: deploy + ativar lista espera + 5 DMs)** |
+| **2026-07-29** | **Noite** | **CTA Urgência Agosto (banner lançamento 01–07/08 + oferta fundador R$67 + copy completo), Ep.99 YouTube (5 números DRE que definem agosto), Master-plan atualizado** |
 
 ---
 
