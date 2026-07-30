@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 30/07/2026 — Turno da manhã (Bella)*
+*Última atualização: 30/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -77,6 +77,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Programa de Parceria com Contadores (canal B2B + página de captação de parceiros)** | **✅ Concluído** | `outputs/2026-07-27/pagina-vendas-secao.md` |
 | **Plano de Lançamento Agosto (30 dias para o primeiro cliente pagante — copy, DMs, benefícios fundador)** | **✅ Concluído** | `outputs/2026-07-28/pagina-vendas-secao.md` |
 | **CTA de Urgência — "Agosto Começa em Dias" (banner lançamento 01–07/08 + oferta fundador R$67)** | **✅ Concluído** | `outputs/2026-07-29/pagina-vendas-secao.md` |
+| **E-mail de Abertura do Lançamento (01/08/2026 — copy completo + versão WhatsApp + notas de envio)** | **✅ Concluído** | `outputs/2026-07-30/pagina-vendas-secao.md` |
 
 ---
 
@@ -193,6 +194,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.97 — DRE no 2º Semestre: Como Fechar o Ano Sem Surpresas Financeiras** | **✅ Concluído** | `outputs/2026-07-27/youtube-outline.md` |
 | **Ep.98 — Fechou Julho: O Checklist Financeiro que Todo Empresário Precisa Fazer Agora** | **✅ Concluído** | `outputs/2026-07-28/youtube-outline.md` |
 | **Ep.99 — Os 5 Números do DRE que Vão Definir Seu Agosto (e o Resto do Ano)** | **✅ Concluído** | `outputs/2026-07-29/youtube-outline.md` |
+| **Ep.100 🎉 ESPECIAL — Do DRE ao Lucro Real: O Mapa Financeiro Completo da PME Brasileira** | **✅ Concluído** | `outputs/2026-07-30/youtube-outline.md` |
 
 ---
 
@@ -292,6 +294,9 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **2026-07-28** | **Noite** | **Plano de Lançamento Agosto (30 dias para o 1º cliente pagante — copy, DMs, benefícios fundador), Ep.98 YouTube (Checklist de Fechamento Mensal), Master-plan atualizado** |
 | **2026-07-29** | **Manhã** | **Post Instagram (julho fechou — quanto seu negócio lucrou de verdade?), Relatório matutino (foco: deploy + ativar lista espera + 5 DMs)** |
 | **2026-07-29** | **Noite** | **CTA Urgência Agosto (banner lançamento 01–07/08 + oferta fundador R$67 + copy completo), Ep.99 YouTube (5 números DRE que definem agosto), Master-plan atualizado** |
+| **2026-07-30** | **Manhã** | **Post Instagram (antevéspera do lançamento), Relatório matutino** |
+| **2026-07-30** | **Tarde** | **Reel concept, Concorrentes, LinkedIn post, Relatório de tarde** |
+| **2026-07-30** | **Noite** | **E-mail de Abertura do Lançamento (copy completo — 01/08), Ep.100 🎉 ESPECIAL YouTube (Mapa Financeiro Completo PME), Master-plan atualizado** |
 
 ---
 
