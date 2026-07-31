@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 31/07/2026 — Turno da manhã (Bella)*
+*Última atualização: 31/07/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -78,6 +78,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Plano de Lançamento Agosto (30 dias para o primeiro cliente pagante — copy, DMs, benefícios fundador)** | **✅ Concluído** | `outputs/2026-07-28/pagina-vendas-secao.md` |
 | **CTA de Urgência — "Agosto Começa em Dias" (banner lançamento 01–07/08 + oferta fundador R$67)** | **✅ Concluído** | `outputs/2026-07-29/pagina-vendas-secao.md` |
 | **E-mail de Abertura do Lançamento (01/08/2026 — copy completo + versão WhatsApp + notas de envio)** | **✅ Concluído** | `outputs/2026-07-30/pagina-vendas-secao.md` |
+| **Stories + DMs do Lançamento (roteiro noite 31/07 + manhã 01/08 — 7 stories + script DM + CTA final)** | **✅ Concluído** | `outputs/2026-07-31/pagina-vendas-secao.md` |
 
 ---
 
@@ -196,6 +197,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.98 — Fechou Julho: O Checklist Financeiro que Todo Empresário Precisa Fazer Agora** | **✅ Concluído** | `outputs/2026-07-28/youtube-outline.md` |
 | **Ep.99 — Os 5 Números do DRE que Vão Definir Seu Agosto (e o Resto do Ano)** | **✅ Concluído** | `outputs/2026-07-29/youtube-outline.md` |
 | **Ep.100 🎉 ESPECIAL — Do DRE ao Lucro Real: O Mapa Financeiro Completo da PME Brasileira** | **✅ Concluído** | `outputs/2026-07-30/youtube-outline.md` |
+| **Ep.101 — Por Que Você Não Sabe Quanto Lucra de Verdade (e Como Mudar Isso Hoje)** | **✅ Concluído** | `outputs/2026-07-31/youtube-outline.md` |
 
 ---
 
