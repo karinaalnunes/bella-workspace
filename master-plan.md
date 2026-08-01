@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 01/08/2026 — Turno da tarde (Bella)*
+*Última atualização: 01/08/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -79,6 +79,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **CTA de Urgência — "Agosto Começa em Dias" (banner lançamento 01–07/08 + oferta fundador R$67)** | **✅ Concluído** | `outputs/2026-07-29/pagina-vendas-secao.md` |
 | **E-mail de Abertura do Lançamento (01/08/2026 — copy completo + versão WhatsApp + notas de envio)** | **✅ Concluído** | `outputs/2026-07-30/pagina-vendas-secao.md` |
 | **Stories + DMs do Lançamento (roteiro noite 31/07 + manhã 01/08 — 7 stories + script DM + CTA final)** | **✅ Concluído** | `outputs/2026-07-31/pagina-vendas-secao.md` |
+| **Follow-up Noturno do Dia 1 do Lançamento (WhatsApp + Instagram DM + E-mail + Story de encerramento)** | **✅ Concluído** | `outputs/2026-08-01/pagina-vendas-secao.md` |
 
 ---
 
@@ -201,6 +202,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.99 — Os 5 Números do DRE que Vão Definir Seu Agosto (e o Resto do Ano)** | **✅ Concluído** | `outputs/2026-07-29/youtube-outline.md` |
 | **Ep.100 🎉 ESPECIAL — Do DRE ao Lucro Real: O Mapa Financeiro Completo da PME Brasileira** | **✅ Concluído** | `outputs/2026-07-30/youtube-outline.md` |
 | **Ep.101 — Por Que Você Não Sabe Quanto Lucra de Verdade (e Como Mudar Isso Hoje)** | **✅ Concluído** | `outputs/2026-07-31/youtube-outline.md` |
+| **Ep.102 — Quanto Custa Não Saber as Finanças da Sua Empresa?** | **✅ Concluído** | `outputs/2026-08-01/youtube-outline.md` |
 
 ---
 
@@ -5784,3 +5786,15 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 
 ---
 
+
+
+## HISTÓRICO — 01/08/2026 — Turno Noite (DIA DO LANÇAMENTO)
+
+| **2026-08-01** | **Noite** | **Follow-up Noturno Dia 1 do Lançamento (WhatsApp + DM + E-mail + Story), Outline YouTube Ep.102** |
+
+### Noite 01/08
+| Follow-up Noturno Dia 1 do Lançamento (WhatsApp + Instagram DM + E-mail + Story encerramento) | ✅ Concluído | `outputs/2026-08-01/pagina-vendas-secao.md` |
+| Ep.102 YouTube (Quanto Custa Não Saber as Finanças da Sua Empresa?) | ✅ Concluído | `outputs/2026-08-01/youtube-outline.md` |
+| Relatório noturno 01/08 | ✅ Concluído | `outputs/2026-08-01/relatorio-noite.md` |
+
+*Última atualização: 01/08/2026 — Turno da noite (Bella)*
