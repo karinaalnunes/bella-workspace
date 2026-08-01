@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 31/07/2026 — Turno da noite (Bella)*
+*Última atualização: 01/08/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -134,6 +134,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 29/07 | ✅ Concluído | `outputs/2026-07-29/instagram-post-manha.md` |
 | Post manhã 30/07 | ✅ Concluído | `outputs/2026-07-30/instagram-post-manha.md` |
 | Post manhã 31/07 | ✅ Concluído | `outputs/2026-07-31/instagram-post-manha.md` |
+| Post manhã 01/08 — DIA DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-01/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
