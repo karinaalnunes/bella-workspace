@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 01/08/2026 — Turno da noite (Bella)*
+*Última atualização: 02/08/2026 — Turno da manhã (Bella)**
 
 ---
 
@@ -80,6 +80,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **E-mail de Abertura do Lançamento (01/08/2026 — copy completo + versão WhatsApp + notas de envio)** | **✅ Concluído** | `outputs/2026-07-30/pagina-vendas-secao.md` |
 | **Stories + DMs do Lançamento (roteiro noite 31/07 + manhã 01/08 — 7 stories + script DM + CTA final)** | **✅ Concluído** | `outputs/2026-07-31/pagina-vendas-secao.md` |
 | **Follow-up Noturno do Dia 1 do Lançamento (WhatsApp + Instagram DM + E-mail + Story de encerramento)** | **✅ Concluído** | `outputs/2026-08-01/pagina-vendas-secao.md` |
+| **Relatório Manhã Dia 2 do Lançamento + Post Instagram (urgência/prova social)** | **✅ Concluído** | `outputs/2026-08-02/relatorio-manha.md` |
 
 ---
 
@@ -137,6 +138,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 31/07 | ✅ Concluído | `outputs/2026-07-31/instagram-post-manha.md` |
 | Post manhã 01/08 — DIA DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-01/instagram-post-manha.md` |
 | Reel concept 01/08 — DIA DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-01/reel-concept.md` |
+| Post manhã 02/08 — DIA 2 DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-02/instagram-post-manha.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
