@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 02/08/2026 — Turno da manhã (Bella)**
+*Última atualização: 02/08/2026 — Turno da tarde (Bella)**
 
 ---
 
@@ -81,6 +81,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Stories + DMs do Lançamento (roteiro noite 31/07 + manhã 01/08 — 7 stories + script DM + CTA final)** | **✅ Concluído** | `outputs/2026-07-31/pagina-vendas-secao.md` |
 | **Follow-up Noturno do Dia 1 do Lançamento (WhatsApp + Instagram DM + E-mail + Story de encerramento)** | **✅ Concluído** | `outputs/2026-08-01/pagina-vendas-secao.md` |
 | **Relatório Manhã Dia 2 do Lançamento + Post Instagram (urgência/prova social)** | **✅ Concluído** | `outputs/2026-08-02/relatorio-manha.md` |
+| **Reel concept + Análise Concorrentes + Post LinkedIn + Relatório Tarde Dia 2** | **✅ Concluído** | `outputs/2026-08-02/relatorio-tarde.md` |
 
 ---
 
@@ -139,6 +140,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post manhã 01/08 — DIA DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-01/instagram-post-manha.md` |
 | Reel concept 01/08 — DIA DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-01/reel-concept.md` |
 | Post manhã 02/08 — DIA 2 DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-02/instagram-post-manha.md` |
+| Reel concept 02/08 — DIA 2 DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-02/reel-concept.md` |
 
 ### LinkedIn
 | Entrega | Status | Arquivo |
@@ -161,6 +163,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | Post LinkedIn 27/07 | ✅ Concluído | `outputs/2026-07-27/linkedin-post.md` |
 | Post LinkedIn 28/07 | ✅ Concluído | `outputs/2026-07-28/linkedin-post.md` |
 | Post LinkedIn 01/08 — DIA DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-01/linkedin-post.md` |
+| Post LinkedIn 02/08 — DIA 2 DO LANÇAMENTO | ✅ Concluído | `outputs/2026-08-02/linkedin-post.md` |
 
 ### YouTube
 | Entrega | Status | Arquivo |
