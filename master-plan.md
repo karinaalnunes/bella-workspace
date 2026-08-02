@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 02/08/2026 — Turno da tarde (Bella)**
+*Última atualização: 02/08/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -82,6 +82,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Follow-up Noturno do Dia 1 do Lançamento (WhatsApp + Instagram DM + E-mail + Story de encerramento)** | **✅ Concluído** | `outputs/2026-08-01/pagina-vendas-secao.md` |
 | **Relatório Manhã Dia 2 do Lançamento + Post Instagram (urgência/prova social)** | **✅ Concluído** | `outputs/2026-08-02/relatorio-manha.md` |
 | **Reel concept + Análise Concorrentes + Post LinkedIn + Relatório Tarde Dia 2** | **✅ Concluído** | `outputs/2026-08-02/relatorio-tarde.md` |
+| **E-mail Urgência + Copy WhatsApp + Stories Noite Dia 2 do Lançamento** | **✅ Concluído** | `outputs/2026-08-02/pagina-vendas-secao.md` |
+| **Ep.103 YouTube — Quanto Custa Não Saber as Finanças da Sua Empresa?** | **✅ Concluído** | `outputs/2026-08-02/youtube-outline.md` |
 
 ---
 
@@ -208,6 +210,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.100 🎉 ESPECIAL — Do DRE ao Lucro Real: O Mapa Financeiro Completo da PME Brasileira** | **✅ Concluído** | `outputs/2026-07-30/youtube-outline.md` |
 | **Ep.101 — Por Que Você Não Sabe Quanto Lucra de Verdade (e Como Mudar Isso Hoje)** | **✅ Concluído** | `outputs/2026-07-31/youtube-outline.md` |
 | **Ep.102 — Quanto Custa Não Saber as Finanças da Sua Empresa?** | **✅ Concluído** | `outputs/2026-08-01/youtube-outline.md` |
+| **Ep.103 — Quanto Custa Não Saber as Finanças da Sua Empresa? (A Conta Que Ninguém Faz)** | **✅ Concluído** | `outputs/2026-08-02/youtube-outline.md` |
 
 ---
 
@@ -5796,10 +5799,18 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 ## HISTÓRICO — 01/08/2026 — Turno Noite (DIA DO LANÇAMENTO)
 
 | **2026-08-01** | **Noite** | **Follow-up Noturno Dia 1 do Lançamento (WhatsApp + DM + E-mail + Story), Outline YouTube Ep.102** |
+| **2026-08-02** | **Manhã** | **Post Instagram Dia 2, Relatório manhã, Análise concorrentes** |
+| **2026-08-02** | **Tarde** | **Reel concept, Concorrentes, LinkedIn post, Relatório tarde Dia 2** |
+| **2026-08-02** | **Noite** | **E-mail Urgência + Copy WhatsApp + Stories Noite Dia 2 do Lançamento, Outline YouTube Ep.103, Master-plan atualizado** |
 
 ### Noite 01/08
 | Follow-up Noturno Dia 1 do Lançamento (WhatsApp + Instagram DM + E-mail + Story encerramento) | ✅ Concluído | `outputs/2026-08-01/pagina-vendas-secao.md` |
 | Ep.102 YouTube (Quanto Custa Não Saber as Finanças da Sua Empresa?) | ✅ Concluído | `outputs/2026-08-01/youtube-outline.md` |
 | Relatório noturno 01/08 | ✅ Concluído | `outputs/2026-08-01/relatorio-noite.md` |
 
-*Última atualização: 01/08/2026 — Turno da noite (Bella)*
+### Noite 02/08
+| E-mail Urgência + Copy WhatsApp (3 versões) + Stories — Noite Dia 2 Lançamento | ✅ Concluído | `outputs/2026-08-02/pagina-vendas-secao.md` |
+| Ep.103 YouTube — Quanto Custa Não Saber as Finanças da Sua Empresa? (A Conta Que Ninguém Faz) | ✅ Concluído | `outputs/2026-08-02/youtube-outline.md` |
+| Relatório noturno 02/08 | ✅ Concluído | `outputs/2026-08-02/relatorio-noite.md` |
+
+*Última atualização: 02/08/2026 — Turno da noite (Bella)*
