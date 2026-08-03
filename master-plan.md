@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 03/08/2026 — Turno da manhã (Bella)*
+*Última atualização: 03/08/2026 — Turno da noite (Bella)*
 
 ---
 
@@ -87,6 +87,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Post Instagram Manhã Dia 3 — "Voando às cegas nas finanças"** | **✅ Concluído** | `outputs/2026-08-03/instagram-post-manha.md` |
 | **Relatório Manhã Dia 3 do Lançamento** | **✅ Concluído** | `outputs/2026-08-03/relatorio-manha.md` |
 | **Reel concept + Análise Concorrentes + Post LinkedIn + Relatório Tarde Dia 3** | **✅ Concluído** | `outputs/2026-08-03/relatorio-tarde.md` |
+| **E-mail Prova Social + Script DM Follow-up + Stories Noite Dia 3 do Lançamento** | **✅ Concluído** | `outputs/2026-08-03/pagina-vendas-secao.md` |
+| **Ep.104 YouTube — Como Saber se Seu Negócio Está Crescendo ou Só Sobrevivendo** | **✅ Concluído** | `outputs/2026-08-03/youtube-outline.md` |
 
 ---
 
@@ -214,6 +216,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.101 — Por Que Você Não Sabe Quanto Lucra de Verdade (e Como Mudar Isso Hoje)** | **✅ Concluído** | `outputs/2026-07-31/youtube-outline.md` |
 | **Ep.102 — Quanto Custa Não Saber as Finanças da Sua Empresa?** | **✅ Concluído** | `outputs/2026-08-01/youtube-outline.md` |
 | **Ep.103 — Quanto Custa Não Saber as Finanças da Sua Empresa? (A Conta Que Ninguém Faz)** | **✅ Concluído** | `outputs/2026-08-02/youtube-outline.md` |
+| **Ep.104 — Como Saber se Seu Negócio Está Crescendo ou Só Sobrevivendo (3 Números do DRE)** | **✅ Concluído** | `outputs/2026-08-03/youtube-outline.md` |
 
 ---
 
