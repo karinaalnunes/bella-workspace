@@ -86,6 +86,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.103 YouTube — Quanto Custa Não Saber as Finanças da Sua Empresa?** | **✅ Concluído** | `outputs/2026-08-02/youtube-outline.md` |
 | **Post Instagram Manhã Dia 3 — "Voando às cegas nas finanças"** | **✅ Concluído** | `outputs/2026-08-03/instagram-post-manha.md` |
 | **Relatório Manhã Dia 3 do Lançamento** | **✅ Concluído** | `outputs/2026-08-03/relatorio-manha.md` |
+| **Reel concept + Análise Concorrentes + Post LinkedIn + Relatório Tarde Dia 3** | **✅ Concluído** | `outputs/2026-08-03/relatorio-tarde.md` |
 
 ---
 
