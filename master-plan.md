@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 02/08/2026 — Turno da noite (Bella)*
+*Última atualização: 03/08/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -84,6 +84,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Reel concept + Análise Concorrentes + Post LinkedIn + Relatório Tarde Dia 2** | **✅ Concluído** | `outputs/2026-08-02/relatorio-tarde.md` |
 | **E-mail Urgência + Copy WhatsApp + Stories Noite Dia 2 do Lançamento** | **✅ Concluído** | `outputs/2026-08-02/pagina-vendas-secao.md` |
 | **Ep.103 YouTube — Quanto Custa Não Saber as Finanças da Sua Empresa?** | **✅ Concluído** | `outputs/2026-08-02/youtube-outline.md` |
+| **Post Instagram Manhã Dia 3 — "Voando às cegas nas finanças"** | **✅ Concluído** | `outputs/2026-08-03/instagram-post-manha.md` |
+| **Relatório Manhã Dia 3 do Lançamento** | **✅ Concluído** | `outputs/2026-08-03/relatorio-manha.md` |
 
 ---
 
