@@ -91,6 +91,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.104 YouTube — Como Saber se Seu Negócio Está Crescendo ou Só Sobrevivendo** | **✅ Concluído** | `outputs/2026-08-03/youtube-outline.md` |
 | **Post Instagram Manhã Dia 4 — "Crescendo ou sobrevivendo? 3 sinais do DRE"** | **✅ Concluído** | `outputs/2026-08-04/instagram-post-manha.md` |
 | **Relatório Manhã Dia 4 do Lançamento** | **✅ Concluído** | `outputs/2026-08-04/relatorio-manha.md` |
+| **Reel concept + Análise Concorrentes + Post LinkedIn + Relatório Tarde Dia 4** | **✅ Concluído** | `outputs/2026-08-04/relatorio-tarde.md` |
 
 ---
 
