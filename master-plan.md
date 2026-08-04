@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 03/08/2026 — Turno da noite (Bella)*
+*Última atualização: 04/08/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -89,6 +89,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Reel concept + Análise Concorrentes + Post LinkedIn + Relatório Tarde Dia 3** | **✅ Concluído** | `outputs/2026-08-03/relatorio-tarde.md` |
 | **E-mail Prova Social + Script DM Follow-up + Stories Noite Dia 3 do Lançamento** | **✅ Concluído** | `outputs/2026-08-03/pagina-vendas-secao.md` |
 | **Ep.104 YouTube — Como Saber se Seu Negócio Está Crescendo ou Só Sobrevivendo** | **✅ Concluído** | `outputs/2026-08-03/youtube-outline.md` |
+| **Post Instagram Manhã Dia 4 — "Crescendo ou sobrevivendo? 3 sinais do DRE"** | **✅ Concluído** | `outputs/2026-08-04/instagram-post-manha.md` |
+| **Relatório Manhã Dia 4 do Lançamento** | **✅ Concluído** | `outputs/2026-08-04/relatorio-manha.md` |
 
 ---
 
