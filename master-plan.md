@@ -93,6 +93,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Relatório Manhã Dia 4 do Lançamento** | **✅ Concluído** | `outputs/2026-08-04/relatorio-manha.md` |
 | **Reel concept + Análise Concorrentes + Post LinkedIn + Relatório Tarde Dia 4** | **✅ Concluído** | `outputs/2026-08-04/relatorio-tarde.md` |
 | **Seção Anti-Churn / Retenção & Sucesso do Cliente (combate objeção de adoção pós-lançamento)** | **✅ Concluído** | `outputs/2026-09-13/pagina-vendas-secao.md` |
+| **Seção Oportunidade Sazonal — Black Friday & Fim de Ano (margem vs. faturamento, CTA urgência novembro)** | **✅ Concluído** | `outputs/2026-11-06/pagina-vendas-secao.md` |
 
 ---
 
@@ -222,6 +223,7 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Ep.103 — Quanto Custa Não Saber as Finanças da Sua Empresa? (A Conta Que Ninguém Faz)** | **✅ Concluído** | `outputs/2026-08-02/youtube-outline.md` |
 | **Ep.104 — Como Saber se Seu Negócio Está Crescendo ou Só Sobrevivendo (3 Números do DRE)** | **✅ Concluído** | `outputs/2026-08-03/youtube-outline.md` |
 | **Ep.105 — Setembro Chegou: Seu Negócio Vai Fechar o Trimestre no Vermelho?** | **✅ Concluído** | `outputs/2026-09-13/youtube-outline.md` |
+| **Ep.106 — Black Friday no DRE: Por Que Muitos Empresários Vendem Mais e Lucram Menos** | **✅ Concluído** | `outputs/2026-11-06/youtube-outline.md` |
 
 ---
 
@@ -5824,4 +5826,9 @@ Com os dois documentos acima, o dev tem tudo para implementar as duas páginas p
 | Ep.103 YouTube — Quanto Custa Não Saber as Finanças da Sua Empresa? (A Conta Que Ninguém Faz) | ✅ Concluído | `outputs/2026-08-02/youtube-outline.md` |
 | Relatório noturno 02/08 | ✅ Concluído | `outputs/2026-08-02/relatorio-noite.md` |
 
-*Última atualização: 02/08/2026 — Turno da noite (Bella)*
+### Noite 06/11/2026
+| Seção Oportunidade Sazonal — Black Friday & Fim de Ano (margem vs. faturamento, CTA urgência novembro) | ✅ Concluído | `outputs/2026-11-06/pagina-vendas-secao.md` |
+| Ep.106 YouTube — Black Friday no DRE: Por Que Muitos Empresários Vendem Mais e Lucram Menos | ✅ Concluído | `outputs/2026-11-06/youtube-outline.md` |
+| Relatório noturno 06/11 | ✅ Concluído | `outputs/2026-11-06/relatorio-noite.md` |
+
+*Última atualização: 06/11/2026 — Turno da noite (Bella)*
