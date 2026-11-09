@@ -1,5 +1,5 @@
 # Master Plan — Máxima Finance IA
-*Última atualização: 13/09/2026 — Turno da noite (Bella)*
+*Última atualização: 09/11/2026 — Turno da manhã (Bella)*
 
 ---
 
@@ -94,6 +94,8 @@ Chat Sofia: tira dúvidas financeiras via linguagem natural.
 | **Reel concept + Análise Concorrentes + Post LinkedIn + Relatório Tarde Dia 4** | **✅ Concluído** | `outputs/2026-08-04/relatorio-tarde.md` |
 | **Seção Anti-Churn / Retenção & Sucesso do Cliente (combate objeção de adoção pós-lançamento)** | **✅ Concluído** | `outputs/2026-09-13/pagina-vendas-secao.md` |
 | **Seção Oportunidade Sazonal — Black Friday & Fim de Ano (margem vs. faturamento, CTA urgência novembro)** | **✅ Concluído** | `outputs/2026-11-06/pagina-vendas-secao.md` |
+| **Post Instagram Manhã 09/11 — "Quanto desconto você pode dar na BF sem perder dinheiro?"** | **✅ Concluído** | `outputs/2026-11-09/instagram-post-manha.md` |
+| **Relatório Manhã 09/11 — Prioridades BF + Deploy** | **✅ Concluído** | `outputs/2026-11-09/relatorio-manha.md` |
 
 ---
 
